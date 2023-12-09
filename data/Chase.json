@@ -1,0 +1,306 @@
+[
+    {
+        "title": "A control-theoretic approach to brain-computer interface design",
+        "pub_year": "2016",
+        "citation": "2016 American Control Conference (ACC), 5765-5771, 2016"
+    },
+    {
+        "title": "A micromechanical red-shifting tunable vertical cavity filter",
+        "pub_year": "2000",
+        "citation": "University of California, Berkeley, 2000"
+    },
+    {
+        "title": "A neural basis of choking under pressure",
+        "pub_year": "2023",
+        "citation": "bioRxiv, 2023.04. 16.537007, 2023"
+    },
+    {
+        "title": "A reward-modulated hebbian learning rule can explain experimentally observed network reorganization in a brain control task",
+        "pub_year": "2010",
+        "citation": "Journal of Neuroscience 30 (25), 8400-8410, 2010"
+    },
+    {
+        "title": "A stabilized dual Kalman filter for adaptive tracking of brain-computer interface decoding parameters",
+        "pub_year": "2013",
+        "citation": "2013 35th Annual International Conference of the IEEE Engineering in …, 2013"
+    },
+    {
+        "title": "Articles in PresS. J Neurophysiol (June 20, 2012). doi: 10.1152/jn. 00507.2012",
+        "pub_year": "2012",
+        "citation": ""
+    },
+    {
+        "title": "Bayesian learning in assisted brain-computer interface tasks",
+        "pub_year": "2012",
+        "citation": "2012 Annual International Conference of the IEEE Engineering in Medicine and …, 2012"
+    },
+    {
+        "title": "Behavioral and neural correlates of visuomotor adaptation observed through a brain-computer interface in primary motor cortex",
+        "pub_year": "2012",
+        "citation": "Journal of neurophysiology 108 (2), 624-644, 2012"
+    },
+    {
+        "title": "Bias, optimal linear estimation, and the differences between open-loop simulation and closed-loop performance of spiking-based brain–computer interface algorithms",
+        "pub_year": "2009",
+        "citation": "Neural networks 22 (9), 1203-1213, 2009"
+    },
+    {
+        "title": "Brain–computer interfaces for dissecting cognitive processes underlying sensorimotor control",
+        "pub_year": "2016",
+        "citation": "Current opinion in neurobiology 37, 53-58, 2016"
+    },
+    {
+        "title": "Comparison of brain–computer interface decoding algorithms in open-loop and closed-loop control",
+        "pub_year": "2010",
+        "citation": "Journal of computational neuroscience 29, 73-87, 2010"
+    },
+    {
+        "title": "Comprehensive chronic laminar single-unit, multi-unit, and local field potential recording performance with planar single shank electrode arrays",
+        "pub_year": "2015",
+        "citation": "Journal of neuroscience methods 242, 15-40, 2015"
+    },
+    {
+        "title": "Constraints on neural redundancy",
+        "pub_year": "2018",
+        "citation": "Elife 7, e36774, 2018"
+    },
+    {
+        "title": "Control of a brain–computer interface without spike sorting",
+        "pub_year": "2009",
+        "citation": "Journal of neural engineering 6 (5), 055004, 2009"
+    },
+    {
+        "title": "Cues for sound localization are encoded in multiple aspects of spike trains in the inferior colliculus",
+        "pub_year": "2008",
+        "citation": "Journal of neurophysiology 99 (4), 1672-1682, 2008"
+    },
+    {
+        "title": "Development of natural scene representation in primary visual cortex requires early postnatal experience",
+        "pub_year": "2021",
+        "citation": "Current Biology 31 (2), 369-380. e5, 2021"
+    },
+    {
+        "title": "Dimensionality reduction of calcium-imaged neuronal population activity",
+        "pub_year": "2023",
+        "citation": "Nature Computational Science 3 (1), 71-85, 2023"
+    },
+    {
+        "title": "Direction and speed tuning of motor-cortex multi-unit activity and local field potentials during reaching movements",
+        "pub_year": "2013",
+        "citation": "2013 35th Annual International Conference of the IEEE Engineering in …, 2013"
+    },
+    {
+        "title": "Distinct kinematic adjustments over multiple timescales accompany locomotor skill development in mice",
+        "pub_year": "2021",
+        "citation": "Neuroscience 466, 260-272, 2021"
+    },
+    {
+        "title": "Distinct types of neural reorganization during long-term learning",
+        "pub_year": "2019",
+        "citation": "Journal of neurophysiology 121 (4), 1329-1341, 2019"
+    },
+    {
+        "title": "Dynamic range adaptation in primary motor cortical populations",
+        "pub_year": "2017",
+        "citation": "Elife 6, e21409, 2017"
+    },
+    {
+        "title": "Existing function in primary visual cortex is not perturbed by new skill acquisition of a non-matched sensory task",
+        "pub_year": "2022",
+        "citation": "Nature communications 13 (1), 3638, 2022"
+    },
+    {
+        "title": "Extracellular voltage threshold settings can be tuned for optimal encoding of movement and stimulus parameters",
+        "pub_year": "2016",
+        "citation": "Journal of neural engineering 13 (3), 036009, 2016"
+    },
+    {
+        "title": "Feature selectivity is stable in primary visual cortex across a range of spatial frequencies",
+        "pub_year": "2018",
+        "citation": "Scientific Reports 8 (1), 15288, 2018"
+    },
+    {
+        "title": "First-spike latency information in single neurons increases when referenced to population onset",
+        "pub_year": "2007",
+        "citation": "Proceedings of the National Academy of Sciences 104 (12), 5175-5180, 2007"
+    },
+    {
+        "title": "Functional network reorganization during learning in a brain-computer interface paradigm",
+        "pub_year": "2008",
+        "citation": "Proceedings of the National Academy of Sciences 105 (49), 19486-19491, 2008"
+    },
+    {
+        "title": "Functional network reorganization in motor cortex can be explained by reward-modulated Hebbian learning",
+        "pub_year": "2009",
+        "citation": "Advances in neural information processing systems 22, 2009"
+    },
+    {
+        "title": "How learning unfolds in the brain: toward an optimization view",
+        "pub_year": "2021",
+        "citation": "Neuron 109 (23), 3720-3735, 2021"
+    },
+    {
+        "title": "Inference from populations: going beyond models",
+        "pub_year": "2011",
+        "citation": "Progress in brain research 192, 103-112, 2011"
+    },
+    {
+        "title": "Internal Models in Closed-loop Brain-computer Interfaces: Evidence and Implications",
+        "citation": ""
+    },
+    {
+        "title": "Internal models engaged by brain-computer interface control",
+        "pub_year": "2012",
+        "citation": "2012 Annual International Conference of the IEEE Engineering in Medicine and …, 2012"
+    },
+    {
+        "title": "Internal models for interpreting neural population activity during sensorimotor control",
+        "pub_year": "2015",
+        "citation": "Elife 4, e10015, 2015"
+    },
+    {
+        "title": "Intracortical brain–machine interfaces",
+        "pub_year": "2020",
+        "citation": "Neural Engineering, 185-221, 2020"
+    },
+    {
+        "title": "Intracortical recording stability in human brain–computer interface users",
+        "pub_year": "2018",
+        "citation": "Journal of neural engineering 15 (4), 046016, 2018"
+    },
+    {
+        "title": "Latent inputs improve estimates of neural encoding in motor cortex",
+        "pub_year": "2010",
+        "citation": "Journal of Neuroscience 30 (41), 13873-13882, 2010"
+    },
+    {
+        "title": "Learning alters neural activity to simultaneously support memory and action",
+        "pub_year": "2022",
+        "citation": "bioRxiv, 2022.07. 05.498856, 2022"
+    },
+    {
+        "title": "Learning an internal dynamics model from control demonstration",
+        "pub_year": "2013",
+        "citation": "International Conference on Machine Learning, 606-614, 2013"
+    },
+    {
+        "title": "Learning by neural reassociation",
+        "pub_year": "2018",
+        "citation": "Nature neuroscience 21 (4), 607-616, 2018"
+    },
+    {
+        "title": "Learning by neural reassociation (vol 21, pg 607, 2018)",
+        "pub_year": "2018",
+        "citation": "NATURE NEUROSCIENCE 21 (8), 1138-1138, 2018"
+    },
+    {
+        "title": "Learning is shaped by abrupt changes in neural engagement",
+        "pub_year": "2021",
+        "citation": "Nature Neuroscience 24 (5), 727-736, 2021"
+    },
+    {
+        "title": "Limited segregation of different types of sound localization information among classes of units in the inferior colliculus",
+        "pub_year": "2005",
+        "citation": "Journal of Neuroscience 25 (33), 7575-7585, 2005"
+    },
+    {
+        "title": "Method of incremental training to create new patterns of physiological control signals",
+        "pub_year": "2021",
+        "citation": "US Patent App. 17/343,050, 2021"
+    },
+    {
+        "title": "Monkeys exhibit a paradoxical decrease in performance in high-stakes scenarios",
+        "pub_year": "2021",
+        "citation": "Proceedings of the National Academy of Sciences 118 (35), e2109643118, 2021"
+    },
+    {
+        "title": "Motor cortex retains and reorients neural dynamics during motor imagery",
+        "pub_year": "2023",
+        "citation": "bioRxiv, 2023.01. 17.524394, 2023"
+    },
+    {
+        "title": "Motor cortical control of movement speed with implications for brain-machine interface control",
+        "pub_year": "2014",
+        "citation": "Journal of neurophysiology 112 (2), 411-429, 2014"
+    },
+    {
+        "title": "Neural constraints on learning",
+        "pub_year": "2014",
+        "citation": "Nature 512 (7515), 423-426, 2014"
+    },
+    {
+        "title": "New neural activity patterns emerge with long-term learning",
+        "pub_year": "2019",
+        "citation": "Proceedings of the National Academy of Sciences 116 (30), 15210-15215, 2019"
+    },
+    {
+        "title": "Optimizing the usability of brain-computer interfaces",
+        "pub_year": "2018",
+        "citation": "Neural computation 30 (5), 1323-1358, 2018"
+    },
+    {
+        "title": "Population activity structure of excitatory and inhibitory neurons",
+        "pub_year": "2017",
+        "citation": "PloS one 12 (8), e0181773, 2017"
+    },
+    {
+        "title": "Recasting brain-machine interface design from a physical control system perspective",
+        "pub_year": "2015",
+        "citation": "Journal of Computational Neuroscience 39, 107-118, 2015"
+    },
+    {
+        "title": "Sensory constraints on volitional modulation of the motor cortex",
+        "pub_year": "2023",
+        "citation": "bioRxiv, 2023.01. 22.525098, 2023"
+    },
+    {
+        "title": "Shedding light on learning",
+        "pub_year": "2014",
+        "citation": "Nature Neuroscience 17 (6), 746-747, 2014"
+    },
+    {
+        "title": "Single spikes may suffice",
+        "pub_year": "2012",
+        "citation": "Journal of Neurophysiology 108 (7), 1808-1809, 2012"
+    },
+    {
+        "title": "Single-unit activity, threshold crossings, and local field potentials in motor cortex differentially encode reach kinematics",
+        "pub_year": "2015",
+        "citation": "Journal of neurophysiology 114 (3), 1500-1512, 2015"
+    },
+    {
+        "title": "Spike-timing codes enhance the representation of multiple simultaneous sound-localization cues in the inferior colliculus",
+        "pub_year": "2006",
+        "citation": "Journal of Neuroscience 26 (15), 3889-3898, 2006"
+    },
+    {
+        "title": "Stabilization of a brain–computer interface via the alignment of low-dimensional spaces of neural activity",
+        "pub_year": "2020",
+        "citation": "Nature biomedical engineering 4 (7), 672-685, 2020"
+    },
+    {
+        "title": "Temporally segmented directionality in the motor cortex",
+        "pub_year": "2018",
+        "citation": "Cerebral Cortex 28 (7), 2326-2339, 2018"
+    },
+    {
+        "title": "The Coding of Sound Localization Cues in the Inferior Colliculus",
+        "pub_year": "2007",
+        "citation": "Johns Hopkins University, 2007"
+    },
+    {
+        "title": "To sort or not to sort: the impact of spike-sorting on neural decoding performance",
+        "pub_year": "2014",
+        "citation": "Journal of neural engineering 11 (5), 056005, 2014"
+    },
+    {
+        "title": "Visual experience has opposing influences on the quality of stimulus representation in adult primary visual cortex",
+        "pub_year": "2022",
+        "citation": "Elife 11, e80361, 2022"
+    },
+    {
+        "title": "Workshops of the sixth international brain–computer interface meeting: brain–computer interfaces past, present, and future",
+        "pub_year": "2017",
+        "citation": "Brain-computer interfaces 4 (1-2), 3-36, 2017"
+    }
+]
