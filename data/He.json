@@ -173,6 +173,11 @@
         "citation": "IEEE Transactions on Computational Social Systems, 2022"
     },
     {
+        "title": "A Survey on Robotic Manipulation of Deformable Objects: Recent Advances, Open Challenges and New Frontiers",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2312.10419, 2023"
+    },
+    {
         "title": "A bioelectric inverse imaging technique based on surface Laplacians",
         "pub_year": "1997",
         "citation": "IEEE transactions on biomedical engineering 44 (7), 529-538, 1997"
@@ -1804,8 +1809,8 @@
     },
     {
         "title": "Disentanglement of Resting State Brain Networks for Localizing Epileptogenic Zone in Focal Epilepsy",
-        "pub_year": "2022",
-        "citation": "bioRxiv, 2022.06. 13.495945, 2022"
+        "pub_year": "2023",
+        "citation": "Brain Topography, 1-17, 2023"
     },
     {
         "title": "Dissociation of subjectively reported and behaviorally indexed mind wandering by EEG rhythmic activity",
@@ -2685,6 +2690,11 @@
         "title": "Guest Editorial",
         "pub_year": "2005",
         "citation": "IEEE transactions on neural systems and rehabilitation engineering 13 (2 …, 2005"
+    },
+    {
+        "title": "HBOD: A Novel Dataset with Synchronized Hand, Body, and Object Manipulation Data for Human-Robot Interaction",
+        "pub_year": "2023",
+        "citation": "2023 IEEE 19th International Conference on Body Sensor Networks (BSN), 1-4, 2023"
     },
     {
         "title": "Hand movement decoding by phase-locking low frequency EEG signals",
@@ -3636,7 +3646,7 @@
         "citation": "International Journal of Mechanical System Dynamics 2 (1), 3-26, 2022"
     },
     {
-        "title": "Multigrained Hybrid Neural Network for Rotating Machinery Fault Diagnosis Using Joint Local and Global Information",
+        "title": "Multigrained hybrid neural network for rotating machinery fault diagnosis using joint local and global information",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Instrumentation and Measurement, 2023"
     },
@@ -3853,11 +3863,6 @@
         "title": "Noninvasive electroencephalogram based control of a robotic arm for reach and grasp tasks",
         "pub_year": "2016",
         "citation": "Scientific Reports 6 (1), 38565, 2016"
-    },
-    {
-        "title": "Noninvasive electroencephalogram based control of a robotic arm for reach and grasp tasks (vol 6, 38565, 2016)",
-        "pub_year": "2020",
-        "citation": "SCIENTIFIC REPORTS 10 (1), 2020"
     },
     {
         "title": "Noninvasive electroencephalogram based control of a robotic arm for reach and grasp tasks. Sci Rep 6: 38565",
@@ -4485,8 +4490,8 @@
     },
     {
         "title": "Ribosome-targeting antibiotic control NLRP3-mediated inflammation by inhibiting mitochondrial DNA synthesis",
-        "pub_year": "2023",
-        "citation": "Free Radical Biology and Medicine, 2023"
+        "pub_year": "2024",
+        "citation": "Free Radical Biology and Medicine 210, 75-84, 2024"
     },
     {
         "title": "Riccati discrete time transfer matrix method for elastic beam undergoing large overall motion",
