@@ -168,11 +168,6 @@
         "citation": "2007 Joint Meeting of the 6th International Symposium on Noninvasive …, 2007"
     },
     {
-        "title": "A Survey of Crowdsensing and Privacy Protection in Digital City",
-        "pub_year": "2022",
-        "citation": "IEEE Transactions on Computational Social Systems, 2022"
-    },
-    {
         "title": "A Survey on Robotic Manipulation of Deformable Objects: Recent Advances, Open Challenges and New Frontiers",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2312.10419, 2023"
@@ -228,11 +223,6 @@
         "citation": "Neurocomputing 462, 389-401, 2021"
     },
     {
-        "title": "A dual selection marker transformation system using Agrobacterium tumefaciens for the industrial Aspergillus oryzae 3.042",
-        "pub_year": "2019",
-        "citation": "Korean Society for Microbiology and Biotechnology 29 (2), 230-234, 2019"
-    },
-    {
         "title": "A fast method to derive realistic FEM models based on BEM models",
         "pub_year": "2006",
         "citation": "2005 IEEE Engineering in Medicine and Biology 27th Annual Conference, 1575-1577, 2006"
@@ -241,11 +231,6 @@
         "title": "A finite difference method for solving the three-dimensional EEG forward problem",
         "pub_year": "2006",
         "citation": "2005 IEEE Engineering in Medicine and Biology 27th Annual Conference, 1540-1543, 2006"
-    },
-    {
-        "title": "A framework for solving explicit arithmetic word problems and proving plane geometry theorems",
-        "pub_year": "2019",
-        "citation": "International Journal of Pattern Recognition and Artificial Intelligence 33 …, 2019"
     },
     {
         "title": "A genome-wide analysis of the cellulose synthase-like (Csl) gene family in maize",
@@ -271,11 +256,6 @@
         "title": "A high resolution cardiac mapping system",
         "pub_year": "1992",
         "citation": "1992 14th Annual International Conference of the IEEE Engineering in …, 1992"
-    },
-    {
-        "title": "A hybrid position/force control method for a continuum robot with robotic and environmental compliance",
-        "pub_year": "2019",
-        "citation": "IEEE Access 7, 100467-100479, 2019"
     },
     {
         "title": "A improved F‐expansion method and its application to the Zhiber–Shabat equation",
@@ -306,11 +286,6 @@
         "title": "A model study of body surface Laplacian maps for myocardial infarctions",
         "pub_year": "1997",
         "citation": "Proceedings of the 19th Annual International Conference of the IEEE …, 1997"
-    },
-    {
-        "title": "A multi-layered touch-pressure sensing ionogel material suitable for sensing integrated actuations of soft robots",
-        "pub_year": "2018",
-        "citation": "Sensors and Actuators A: Physical 272, 341-348, 2018"
     },
     {
         "title": "A network inversion technique for estimating equivalent dipole description of visual evoked potential",
@@ -523,6 +498,11 @@
         "citation": "Journal of Ballistics 18 (1), 22-24, 2006"
     },
     {
+        "title": "A survey of crowdsensing and privacy protection in digital city",
+        "pub_year": "2022",
+        "citation": "IEEE Transactions on Computational Social Systems, 2022"
+    },
+    {
         "title": "A swarm optimization-enhanced data aggregation tree based on a nonuniform clustering structure for long and linear wireless sensor networks",
         "pub_year": "2020",
         "citation": "Wireless Personal Communications 112, 2285-2295, 2020"
@@ -623,11 +603,6 @@
         "citation": "2007 Joint Meeting of the 6th International Symposium on Noninvasive …, 2007"
     },
     {
-        "title": "Adaptive control of nanomotor swarms for magnetic-field-programmed cancer cell destruction",
-        "pub_year": "2021",
-        "citation": "ACS nano 15 (12), 20020-20031, 2021"
-    },
-    {
         "title": "Adaptive finite element realistic head modeling",
         "pub_year": "2007",
         "citation": "Sheng wu yi xue gong cheng xue za zhi= Journal of biomedical engineering …, 2007"
@@ -661,11 +636,6 @@
         "title": "Advances in transfer matrix method of multibody system",
         "pub_year": "2009",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2009"
-    },
-    {
-        "title": "Ameliorative effect of grape seed proanthocyanidin extract on thioacetamide-induced mouse hepatic fibrosis",
-        "pub_year": "2012",
-        "citation": "Toxicology Letters 213 (3), 353-360, 2012"
     },
     {
         "title": "Amplitude versus angle (AVA) using controlled-order multiples",
@@ -735,11 +705,6 @@
         "title": "An automatic learning model for trajectory outlier detection",
         "pub_year": "2020",
         "citation": "Proceedings of the 3rd International Conference on Data Science and …, 2020"
-    },
-    {
-        "title": "An educational robot system of visual question answering for preschoolers",
-        "pub_year": "2017",
-        "citation": "2017 2nd international conference on robotics and automation engineering …, 2017"
     },
     {
         "title": "An efficient finite strip procedure for initial post-buckling analysis of composite laminated members",
@@ -836,11 +801,6 @@
         "citation": "The 21st Annual Conference of HKSTAM 2017 The 13th Jiangsu-Hong Kong Forum …, 0"
     },
     {
-        "title": "Angiogenin mediates paternal inflammation-induced metabolic disorders in offspring through sperm tsRNAs",
-        "pub_year": "2021",
-        "citation": "Nature communications 12 (1), 6673, 2021"
-    },
-    {
         "title": "Angiogenin-mediated tsRNAs control inflammation and metabolic disorder by regulating NLRP3 inflammasome",
         "pub_year": "2023",
         "citation": ""
@@ -859,11 +819,6 @@
         "title": "Application of Transfer Matrix Method of Multibody System in Launch Dynamics for Super-high Firing Frequency Weapon",
         "pub_year": "2006",
         "citation": "JOURNAL-NANJING UNIVERSITY OF SCIENCE AND TECHNOLOGY 30 (4), 444, 2006"
-    },
-    {
-        "title": "Applications of CRISPR/Cas9 in the synthesis of secondary metabolites in filamentous fungi",
-        "pub_year": "2021",
-        "citation": "Frontiers in Microbiology 12, 638096, 2021"
     },
     {
         "title": "Artefact elimination in spatiotemporal cortical dipole layer imaging with parametric projection filter",
@@ -955,16 +910,6 @@
         "citation": "Journal of Applied Analysis & Computation 10 (4), 1443-1463, 2020"
     },
     {
-        "title": "Bifurcations and exact bounded travelling wave solutions for a partial differential equation",
-        "pub_year": "2010",
-        "citation": "Nonlinear Analysis: Real World Applications 11 (1), 364-371, 2010"
-    },
-    {
-        "title": "Bifurcations and new exact travelling wave solutions for the Gerdjikov–Ivanov equation",
-        "pub_year": "2010",
-        "citation": "Communications in Nonlinear Science and Numerical Simulation 15 (7), 1783-1790, 2010"
-    },
-    {
         "title": "Bifurcations and parametric representations of peakon, solitary wave and smooth periodic wave solutions for a two-component Degasperis-Procesi equation",
         "pub_year": "2013",
         "citation": "Journal of Applied Mathematics 2013, 2013"
@@ -985,9 +930,9 @@
         "citation": "Communications in Nonlinear Science and Numerical Simulation 13 (10), 2114-2123, 2008"
     },
     {
-        "title": "Big data reduction and optimization in sensor monitoring network",
-        "pub_year": "2014",
-        "citation": "Journal of Applied Mathematics 2014, 2014"
+        "title": "Bildgebung: elektrische EEG-Quellenanalyse",
+        "pub_year": "2018",
+        "citation": "Klinische Neurophysiologie 49 (02), 78-82, 2018"
     },
     {
         "title": "Bile acids ameliorates lipopolysaccharide-induced endometritis in mice by inhibiting NLRP3 inflammasome activation",
@@ -1028,11 +973,6 @@
         "title": "Biosignal interpretation III",
         "pub_year": "2000",
         "citation": "Methods of Information in Medicine 39 (02), 99-100, 2000"
-    },
-    {
-        "title": "Blockchain-enhanced spatiotemporal data aggregation for UAV-assisted wireless sensor networks",
-        "pub_year": "2021",
-        "citation": "IEEE Transactions on Industrial Informatics 18 (7), 4520-4530, 2021"
     },
     {
         "title": "Body Surface Laplacian Electrocardiographic Mapping− A Review",
@@ -1198,16 +1138,6 @@
         "title": "Buckling analysis of thin-walled members with open-branched cross section via semi-analytical finite strip transfer matrix method",
         "pub_year": "2018",
         "citation": "Thin-Walled Structures 124, 20-31, 2018"
-    },
-    {
-        "title": "Building a comprehensive syntactic and semantic corpus of Chinese clinical texts",
-        "pub_year": "2017",
-        "citation": "Journal of biomedical informatics 69, 203-217, 2017"
-    },
-    {
-        "title": "CRFs based de-identification of medical records",
-        "pub_year": "2015",
-        "citation": "Journal of biomedical informatics 58, S39-S46, 2015"
     },
     {
         "title": "Calculation of launch dynamics with two-phase flow interior ballistic model for self-propelled artillery",
@@ -1463,11 +1393,6 @@
         "citation": "同济大学学报 (自然科学版)(英文版) 38 (12), 1813-1817, 2010"
     },
     {
-        "title": "Controlled-order multiple waveform inversion",
-        "pub_year": "2020",
-        "citation": "Geophysics 85 (3), R243-R250, 2020"
-    },
-    {
         "title": "Convolutional gated recurrent units for medical relation classification",
         "pub_year": "2018",
         "citation": "2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM …, 2018"
@@ -1527,11 +1452,6 @@
         "citation": "The 17th Meeting of the International Society for Brain Electromagnetic …, 2006"
     },
     {
-        "title": "Cortical dipole imaging of movement-related potentials by means of parametric inverse filters incorporating with signal and noise covariance",
-        "pub_year": "2007",
-        "citation": "Methods of information in medicine 46 (02), 242-246, 2007"
-    },
-    {
         "title": "Cortical imaging of epileptiform activity by means of a realistic geometry head model",
         "pub_year": "2003",
         "citation": "Proceedings of the 25th Annual International Conference of the IEEE …, 2003"
@@ -1577,6 +1497,11 @@
         "citation": "Proceedings of the 20th Annual International Conference of the IEEE …, 1998"
     },
     {
+        "title": "CorticalDipoleImagingofMovement-related PotentialsbyMeansofParametricInverseFilters IncorporatingwithSignalandNoiseCovariance",
+        "pub_year": "2007",
+        "citation": "Methods Inf Med 46, 242-246, 2007"
+    },
+    {
         "title": "Coupling effect analysis between the central nervous system and the CPG network with proprioception",
         "pub_year": "2015",
         "citation": "Robotica 33 (6), 1281-1294, 2015"
@@ -1590,16 +1515,6 @@
         "title": "De Novo Transcriptome Sequencing of Oryza officinalis Wall ex Watt to Identify Disease-Resistance Genes",
         "pub_year": "2015",
         "citation": "International Journal of Molecular Sciences 16 (12), 29482-29495, 2015"
-    },
-    {
-        "title": "De novo transcriptome assembly of Ipomoea nil using Illumina sequencing for gene discovery and SSR marker identification",
-        "pub_year": "2015",
-        "citation": "Molecular Genetics and Genomics 290, 1873-1884, 2015"
-    },
-    {
-        "title": "De-identification of medical records using conditional random fields and long short-term memory networks",
-        "pub_year": "2017",
-        "citation": "Journal of biomedical informatics 75, S43-S53, 2017"
     },
     {
         "title": "Deactivation in the posterior mid-cingulate cortex reflects perceptual transitions during binocular rivalry: Evidence from simultaneous EEG-fMRI",
@@ -1619,7 +1534,7 @@
     {
         "title": "Deep learning based source imaging provides strong sublobar localization of epileptogenic zone from MEG interictal spikes",
         "pub_year": "2023",
-        "citation": "NeuroImage 281, 120366, 2023"
+        "citation": "Neuroimage 281, 120366, 2023"
     },
     {
         "title": "Deep neural networks constrained by neural mass models improve electrophysiological source imaging of spatiotemporal brain dynamics",
@@ -1739,16 +1654,6 @@
         "citation": "Chinese Science Bulletin 61 (23), 2637-2647, 2016"
     },
     {
-        "title": "Dexamethasone downregulates SLC7A5 expression and promotes cell cycle arrest, autophagy and apoptosis in BeWo cells",
-        "pub_year": "2016",
-        "citation": "Journal of Cellular Physiology 231 (1), 233-242, 2016"
-    },
-    {
-        "title": "Difference in microbial community and taste compounds between Mucor-type and Aspergillus-type Douchi during koji-making",
-        "pub_year": "2019",
-        "citation": "Food Research International 121, 136-143, 2019"
-    },
-    {
         "title": "Differential electrophysiological coupling for positive and negative BOLD responses during unilateral hand movements",
         "pub_year": "2011",
         "citation": "Journal of Neuroscience 31 (26), 9585-9593, 2011"
@@ -1778,16 +1683,6 @@
         "citation": ""
     },
     {
-        "title": "Discrete time transfer matrix method for dynamics analysis of complex weapon systems",
-        "pub_year": "2011",
-        "citation": "Science China Technological Sciences 54, 1061-1071, 2011"
-    },
-    {
-        "title": "Discrete time transfer matrix method for dynamics of a multi-rigid-flexible-body system moving in plane",
-        "pub_year": "2009",
-        "citation": "Proceedings of the Institution of Mechanical Engineers, Part K: Journal of …, 2009"
-    },
-    {
         "title": "Discrete time transfer matrix method for dynamics of multibody system with flexible beams moving in space",
         "pub_year": "2012",
         "citation": "Acta Mechanica Sinica 28 (2), 490-504, 2012"
@@ -1814,8 +1709,8 @@
     },
     {
         "title": "Disentanglement of Resting State Brain Networks for Localizing Epileptogenic Zone in Focal Epilepsy",
-        "pub_year": "2023",
-        "citation": "Brain Topography, 1-17, 2023"
+        "pub_year": "2024",
+        "citation": "Brain Topography 37 (1), 152-168, 2024"
     },
     {
         "title": "Dissociation of subjectively reported and behaviorally indexed mind wandering by EEG rhythmic activity",
@@ -1824,7 +1719,8 @@
     },
     {
         "title": "Distributed adaptive event‐triggered protocols for directed multi‐agent networks with a dynamic leader of nonzero input",
-        "citation": "International Journal of Robust and Nonlinear Control, 0"
+        "pub_year": "2024",
+        "citation": "International Journal of Robust and Nonlinear Control 34 (3), 2233-2251, 2024"
     },
     {
         "title": "Double periodic wave solutions and breather-soliton solutions of the (n+ 1)-dimensional sinh-Gordon equation",
@@ -1931,9 +1827,9 @@
         "citation": "IEEE Transactions on Biomedical Engineering 63 (1), 4-14, 2015"
     },
     {
-        "title": "EEG source imaging: correlating source locations and extents with electrocorticography and surgical resections in epilepsy patients",
+        "title": "EEG source imaging: correlate source locations and extents with ECoG and surgical resections in epilepsy patients",
         "pub_year": "2007",
-        "citation": "Journal of Clinical Neurophysiology 24 (2), 130-136, 2007"
+        "citation": "Journal of clinical neurophysiology: official publication of the American …, 2007"
     },
     {
         "title": "EEG source localization",
@@ -1962,11 +1858,6 @@
     {
         "title": "EMBS ADMINISTRATIVE COMMITTEE",
         "citation": ""
-    },
-    {
-        "title": "EMR-based medical knowledge representation and inference via Markov random fields and distributed representation learning",
-        "pub_year": "2018",
-        "citation": "Artificial intelligence in medicine 87, 49-59, 2018"
     },
     {
         "title": "ERD rhythm mapping using zero-crossing analysis",
@@ -2007,6 +1898,11 @@
         "title": "Effects of Cardiac Anisotropy on Three-Dimensional Inverse Activation Time Imaging: a Cellular-Automaton-Based Model Study",
         "pub_year": "2006",
         "citation": "2005 IEEE Engineering in Medicine and Biology 27th Annual Conference, 1065-1066, 2006"
+    },
+    {
+        "title": "Effects of Curcumin on the Egg Quality and Hepatic Lipid Metabolism of Laying Hens",
+        "pub_year": "2023",
+        "citation": "Animals 14 (1), 138, 2023"
     },
     {
         "title": "Effects of EEG Electrode Numbers on Deep Learning-Based Source Imaging",
@@ -2334,11 +2230,6 @@
         "citation": "IEEE transactions on biomedical engineering 55 (11), 2557-2564, 2008"
     },
     {
-        "title": "Estrogen stimulates expression of chicken hepatic vitellogenin II and very low-density apolipoprotein II through ER-α",
-        "pub_year": "2014",
-        "citation": "Theriogenology 82 (3), 517-524, 2014"
-    },
-    {
         "title": "Evaluation of Motor Network Interactions using Combined Transcranial Magnetic Stimulation and EEG",
         "citation": ""
     },
@@ -2388,11 +2279,6 @@
         "citation": "Mathematical Problems in Engineering 2014, 2014"
     },
     {
-        "title": "Exact travelling wave solutions of a generalized Camassa–Holm equation using the integral bifurcation method",
-        "pub_year": "2008",
-        "citation": "Applied Mathematics and Computation 206 (1), 141-149, 2008"
-    },
-    {
         "title": "Excitation performance and SAR control with Z-stacked body RF coil arrays in parallel transmission at 3 T",
         "pub_year": "2014",
         "citation": "Joint Annual Meeting ISMRM–ESMRMB, Milan, 2014"
@@ -2431,11 +2317,6 @@
         "title": "Exploring training effect in 42 human subjects using a non-invasive sensorimotor rhythm based online BCI",
         "pub_year": "2019",
         "citation": "Frontiers in human neuroscience 13, 128, 2019"
-    },
-    {
-        "title": "Extracellular ATPs produced in seminal plasma exosomes regulate boar sperm motility and mitochondrial metabolism",
-        "pub_year": "2019",
-        "citation": "Theriogenology 139, 113-120, 2019"
     },
     {
         "title": "Extracting algebraic relations from circuit images using topology breaking down and shrinking",
@@ -2498,19 +2379,9 @@
         "citation": "IEEE Transactions on Biomedical Engineering 63 (12), 2654-2656, 2016"
     },
     {
-        "title": "Folate deprivation induces cell cycle arrest at G0/G1 phase and apoptosis in hippocampal neuron cells through down-regulation of IGF-1 signaling pathway",
-        "pub_year": "2016",
-        "citation": "The International Journal of Biochemistry & Cell Biology 79, 222-230, 2016"
-    },
-    {
         "title": "Folate deprivation modulates cell cycle and apoptosis, the expression of autophagy-and circadian-related genes through IGF-1 and GR-mediated pathway in hippocampal neuron cells",
         "pub_year": "2017",
         "citation": "中国生理学会内分泌代谢, 比较生理与应激生理学术会议论文摘要汇编, 2017"
-    },
-    {
-        "title": "Folate deprivation modulates the expression of autophagy-and circadian-related genes in HT-22 hippocampal neuron cells through GR-mediated pathway",
-        "pub_year": "2016",
-        "citation": "Steroids 112, 12-19, 2016"
     },
     {
         "title": "Free vibrarion characteristics of a ship's power-transmission-propulsion system based on MSTMM",
@@ -2653,11 +2524,6 @@
         "citation": "IEEE Robotics and Automation Letters, 2023"
     },
     {
-        "title": "Gonadotropins regulate ovarian germ cell mitosis/meiosis decision in the embryonic chicken",
-        "pub_year": "2013",
-        "citation": "Molecular and cellular endocrinology 370 (1-2), 32-41, 2013"
-    },
-    {
         "title": "Gradient-based magnetic resonance electrical properties imaging of brain tissues",
         "pub_year": "2014",
         "citation": "2014 36th Annual International Conference of the IEEE Engineering in …, 2014"
@@ -2697,6 +2563,11 @@
         "citation": "IEEE transactions on neural systems and rehabilitation engineering 13 (2 …, 2005"
     },
     {
+        "title": "Gut microbiota and serum metabolome reveal the mechanism by which TCM polysaccharides alleviate salpingitis in laying hens challenged by bacteria",
+        "pub_year": "2024",
+        "citation": "Poultry Science 103 (2), 103288, 2024"
+    },
+    {
         "title": "HBOD: A Novel Dataset with Synchronized Hand, Body, and Object Manipulation Data for Human-Robot Interaction",
         "pub_year": "2023",
         "citation": "2023 IEEE 19th International Conference on Body Sensor Networks (BSN), 1-4, 2023"
@@ -2710,16 +2581,6 @@
         "title": "Heat exposure impairs porcine oocyte quality with suppressed actin expression in cumulus cells and disrupted F-actin formation in transzonal projections",
         "pub_year": "2020",
         "citation": "Journal of Animal Science and Biotechnology 11, 1-12, 2020"
-    },
-    {
-        "title": "Heat stress induces distinct responses in porcine cumulus cells and oocytes associated with disrupted gap junction and trans‐zonal projection colocalization",
-        "pub_year": "2019",
-        "citation": "Journal of Cellular Physiology 234 (4), 4787-4798, 2019"
-    },
-    {
-        "title": "Heat stress reduces sperm motility via activation of glycogen synthase kinase-3α and inhibition of mitochondrial protein import",
-        "pub_year": "2017",
-        "citation": "Frontiers in physiology 8, 718, 2017"
     },
     {
         "title": "Heterologous expression and functional characterization of the ligand-binding domain of oxysterol-binding protein from Aspergillus oryzae",
@@ -3196,6 +3057,10 @@
         "citation": "IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022"
     },
     {
+        "title": "LLE ON SALPINGITIS BY INHIBITING APOPTOSIS",
+        "citation": ""
+    },
+    {
         "title": "Laplacian ECG Analysis",
         "pub_year": "1997",
         "citation": "BME 11 (1), 18-23, 1997"
@@ -3216,11 +3081,6 @@
         "citation": "Clinical Neurophysiology 126 (1), 27-38, 2015"
     },
     {
-        "title": "Lie symmetry analysis and exact explicit solutions of three-dimensional Kudryashov–Sinelshchikov equation",
-        "pub_year": "2015",
-        "citation": "Communications in Nonlinear Science and Numerical Simulation 27 (1-3), 271-280, 2015"
-    },
-    {
         "title": "Light regulation of secondary metabolism in fungi",
         "pub_year": "2023",
         "citation": "Journal of Biological Engineering 17 (1), 57, 2023"
@@ -3229,11 +3089,6 @@
         "title": "Linear and nonlinear relationships between visual stimuli, EEG and BOLD fMRI signals",
         "pub_year": "2010",
         "citation": "Neuroimage 50 (3), 1054-1066, 2010"
-    },
-    {
-        "title": "Lipopolysaccharide-induced mitochondrial dysfunction in boar sperm is mediated by activation of oxidative phosphorylation",
-        "pub_year": "2017",
-        "citation": "Theriogenology 87, 1-8, 2017"
     },
     {
         "title": "Local SAR Estimation via Electrical Properties Tomography: Physical Phantom Validations at 7T",
@@ -3311,6 +3166,11 @@
         "citation": "Nutrients 9 (6), 617, 2017"
     },
     {
+        "title": "Lotus leaf extract can attenuate salpingitis in laying hens by inhibiting apoptosis",
+        "pub_year": "2023",
+        "citation": "Poultry Science 102 (10), 102865, 2023"
+    },
+    {
         "title": "Low resolution brain electromagnetic tomography in a realistic geometry head model: a simulation study",
         "pub_year": "2004",
         "citation": "Physics in Medicine & Biology 50 (1), 45, 2004"
@@ -3329,11 +3189,6 @@
         "title": "Lysine acetylation participates in boar spermatozoa motility and acrosome status regulation under different glucose conditions",
         "pub_year": "2021",
         "citation": "Theriogenology 159, 140-146, 2021"
-    },
-    {
-        "title": "MABAN: Multi-agent boundary-aware network for natural language moment retrieval",
-        "pub_year": "2021",
-        "citation": "IEEE Transactions on Image Processing 30, 5589-5599, 2021"
     },
     {
         "title": "MAT-MI acoustic source reconstruction using ultrasound B-Scan imaging",
@@ -3466,11 +3321,6 @@
         "citation": "Neuroimage 46 (4), 989-997, 2009"
     },
     {
-        "title": "Maternal low-protein diet alters ovarian expression of folliculogenic and steroidogenic genes and their regulatory MicroRNAs in neonatal piglets",
-        "pub_year": "2014",
-        "citation": "Asian-Australasian journal of animal sciences 27 (12), 1695, 2014"
-    },
-    {
         "title": "Maternal preconceptional inflammation transgenerationally alters metabolic and behavioral phenotypes in offspring",
         "pub_year": "2023",
         "citation": "Life Sciences 321, 121577, 2023"
@@ -3479,16 +3329,6 @@
         "title": "Maternal protein restriction during gestation and lactation programs offspring ovarian steroidogenesis and folliculogenesis in the prepubertal gilts",
         "pub_year": "2014",
         "citation": "The Journal of Steroid Biochemistry and Molecular Biology 143, 267-276, 2014"
-    },
-    {
-        "title": "Medical sensors and their integration in wireless body area networks for pervasive healthcare delivery: A review",
-        "pub_year": "2022",
-        "citation": "IEEE Sensors Journal 22 (5), 3860-3877, 2022"
-    },
-    {
-        "title": "Melatonin‐induced increase of lipid droplets accumulation and in vitro maturation in porcine oocytes is mediated by mitochondrial quiescence",
-        "pub_year": "2018",
-        "citation": "Journal of cellular physiology 233 (1), 302-312, 2018"
     },
     {
         "title": "Membrane-based indirect power generation technologies for harvesting salinity gradient energy-A review",
@@ -3507,8 +3347,8 @@
     },
     {
         "title": "Method for feasibility evaluation of UAV digital twin based on vicon motion capture system",
-        "pub_year": "2022",
-        "citation": "US Patent App. 17/450,577, 2022"
+        "pub_year": "2023",
+        "citation": "US Patent 11,847,920, 2023"
     },
     {
         "title": "Methods and Apparatus for Detection and Imaging of Epileptogenicity from Scalp High-Frequency Oscillations",
@@ -3587,8 +3427,8 @@
     },
     {
         "title": "Modeling of temperature effect on electromechanical properties of dielectric elastomer minimum energy structures",
-        "pub_year": "2023",
-        "citation": "International Journal of Non-Linear Mechanics, 104596, 2023"
+        "pub_year": "2024",
+        "citation": "International Journal of Non-Linear Mechanics 159, 104596, 2024"
     },
     {
         "title": "Modulation of Pain-Associated Behaviors in Sickle Mice Using Low-Intensity Transcranial Focused Ultrasound",
@@ -3651,11 +3491,6 @@
         "citation": "IEEE transactions on medical imaging 29 (10), 1759-1767, 2010"
     },
     {
-        "title": "Multibody system transfer matrix method: The past, the present, and the future",
-        "pub_year": "2022",
-        "citation": "International Journal of Mechanical System Dynamics 2 (1), 3-26, 2022"
-    },
-    {
         "title": "Multigrained hybrid neural network for rotating machinery fault diagnosis using joint local and global information",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Instrumentation and Measurement, 2023"
@@ -3684,11 +3519,6 @@
         "title": "Multiple oscillatory push–pull antagonisms constrain seizure propagation",
         "pub_year": "2019",
         "citation": "Annals of neurology 86 (5), 683-694, 2019"
-    },
-    {
-        "title": "Multisource model-driven digital twin system of robotic assembly",
-        "pub_year": "2020",
-        "citation": "IEEE Systems Journal 15 (1), 114-123, 2020"
     },
     {
         "title": "NEURAL ENGINEERING; BRAIN DYNAMICS AND COMPUTER INTERFACE-Enhancement of Classification Accuracy of a Time-frequency Approach for an EEG-based Brain-computer Interface",
@@ -3769,11 +3599,6 @@
         "title": "New exact explicit peakon and smooth periodic wave solutions of the K (3, 2) equation",
         "pub_year": "2010",
         "citation": "Applied Mathematics and Computation 217 (4), 1697-1703, 2010"
-    },
-    {
-        "title": "New exact periodic wave solutions for the Dullin–Gottwald–Holm equation",
-        "pub_year": "2011",
-        "citation": "Applied mathematics and computation 218 (8), 4533-4537, 2011"
     },
     {
         "title": "New interaction solutions for a (2+ 1)-dimensional Vakhnenko equation",
@@ -3873,6 +3698,11 @@
         "title": "Noninvasive electroencephalogram based control of a robotic arm for reach and grasp tasks",
         "pub_year": "2016",
         "citation": "Scientific Reports 6 (1), 38565, 2016"
+    },
+    {
+        "title": "Noninvasive electroencephalogram based control of a robotic arm for reach and grasp tasks (vol 6, 38565, 2016)",
+        "pub_year": "2020",
+        "citation": "SCIENTIFIC REPORTS 10 (1), 2020"
     },
     {
         "title": "Noninvasive electroencephalogram based control of a robotic arm for reach and grasp tasks. Sci Rep 6: 38565",
@@ -4025,11 +3855,6 @@
         "citation": "Int. J. Bioelectromag 4, 327-328, 2002"
     },
     {
-        "title": "Normalized nonzero-lag crosscorrelation elastic full-waveform inversion",
-        "pub_year": "2019",
-        "citation": "Geophysics 84 (1), R1-R10, 2019"
-    },
-    {
         "title": "Notes on “Different kinds of exact solutions with two-loop character of the two-component short pulse equations of the first kind”",
         "pub_year": "2014",
         "citation": "Communications in Nonlinear Science and Numerical Simulation 19 (5), 1247-1255, 2014"
@@ -4043,11 +3868,6 @@
         "title": "Novel Cardiac Activation Imaging With High Spatiotemporal Resolution: An Animal Validation and Comparison Study",
         "pub_year": "2013",
         "citation": "Circulation 128 (suppl_22), A14513-A14513, 2013"
-    },
-    {
-        "title": "Novel fuzzy PID-type iterative learning control for quadrotor UAV",
-        "pub_year": "2018",
-        "citation": "Sensors 19 (1), 24, 2018"
     },
     {
         "title": "Numerical simulation of the aerodynamic performance of wind turbine blade airfoil with iced leading edge",
@@ -4148,11 +3968,6 @@
         "citation": "Microorganisms 7 (8), 225, 2019"
     },
     {
-        "title": "Oxygen-tuned nanozyme polymerization for the preparation of hydrogels with printable and antibacterial properties",
-        "pub_year": "2017",
-        "citation": "Journal of Materials Chemistry B 5 (7), 1518-1524, 2017"
-    },
-    {
         "title": "P10-13 Study of the cortical activity from simultaneous multi-subject EEG recordings",
         "pub_year": "2010",
         "citation": "Clinical Neurophysiology, S162, 2010"
@@ -4168,11 +3983,6 @@
         "citation": "Proceedings of the 23th Annual Meeting of ISMRM. Toronto, ON, Canada, 3300, 2015"
     },
     {
-        "title": "PUAR: Performance and usage aware routing algorithm for long and linear wireless sensor networks",
-        "pub_year": "2014",
-        "citation": "International Journal of Distributed Sensor Networks 10 (8), 464963, 2014"
-    },
-    {
         "title": "PURANG ABOLMAESUMI",
         "citation": ""
     },
@@ -4184,11 +3994,6 @@
         "title": "Parametric Modeling and Experimental Analysis for Interventional Surgery Robots",
         "pub_year": "2016",
         "citation": "Advances in Reconfigurable Mechanisms and Robots II, 829-839, 2016"
-    },
-    {
-        "title": "Paraoxonase 2 modulates a proapoptotic function in LS174T cells in response to quorum sensing molecule N-(3-oxododecanoyl)-L-homoserine lactone",
-        "pub_year": "2016",
-        "citation": "Scientific reports 6 (1), 28778, 2016"
     },
     {
         "title": "Paternal systemic inflammation induces offspring programming of growth and liver regeneration in association with Igf2 upregulation",
@@ -4209,11 +4014,6 @@
         "title": "Perceptual learning increases the strength of the earliest signals in visual cortex",
         "pub_year": "2010",
         "citation": "Journal of Neuroscience 30 (45), 15080-15084, 2010"
-    },
-    {
-        "title": "Periodic loop solutions and their limit forms for the Kudryashov-Sinelshchikov equation",
-        "pub_year": "2012",
-        "citation": "Mathematical Problems in Engineering 2012, 2012"
     },
     {
         "title": "Periodic traveling wave solutions and their limit forms for the (n+ 1)-dimensional double sinh-Gordon equation",
@@ -4424,11 +4224,6 @@
         "citation": "Journal of neural engineering 7 (2), 026001, 2010"
     },
     {
-        "title": "Relationships between mitochondrial DNA content, mitochondrial activity, and boar sperm motility",
-        "pub_year": "2017",
-        "citation": "Theriogenology 87, 276-283, 2017"
-    },
-    {
         "title": "Remote power monitoring and control system for cabled seafloor observatory networks",
         "pub_year": "2014",
         "citation": "Tongji Daxue Xuebao/Journal of Tongji University, 2014"
@@ -4484,29 +4279,9 @@
         "citation": "IEEE Transactions on Medical Robotics and Bionics, 2022"
     },
     {
-        "title": "Rh-Mediated Asymmetric-Transfer Hydrogenation of 3-Substituted Chromones: A Route to Enantioenriched cis-3-(Hydroxymethyl)chroman-4-ol Derivatives …",
-        "pub_year": "2019",
-        "citation": "Organic letters 21 (9), 3276-3280, 2019"
-    },
-    {
-        "title": "RhIII‐Catalyzed Asymmetric Transfer Hydrogenation of α‐Methoxy β‐Ketoesters through DKR in Water: Toward a Greener Procedure",
-        "pub_year": "2019",
-        "citation": "ChemSusChem 12 (13), 3032-3036, 2019"
-    },
-    {
-        "title": "Rhodium-catalyzed asymmetric transfer hydrogenation of 4-quinolone derivatives",
-        "pub_year": "2020",
-        "citation": "Organic Chemistry Frontiers 7 (8), 975-979, 2020"
-    },
-    {
         "title": "Ribosome-targeting antibiotic control NLRP3-mediated inflammation by inhibiting mitochondrial DNA synthesis",
         "pub_year": "2024",
         "citation": "Free Radical Biology and Medicine 210, 75-84, 2024"
-    },
-    {
-        "title": "Riccati discrete time transfer matrix method for elastic beam undergoing large overall motion",
-        "pub_year": "2007",
-        "citation": "Multibody System Dynamics 18, 579-598, 2007"
     },
     {
         "title": "Riccati discrete time transfer matrix method for huge chain multi-rigid-body system dynamics",
@@ -4569,11 +4344,6 @@
         "title": "SSVEP signatures of binocular rivalry during simultaneous EEG and fMRI",
         "pub_year": "2015",
         "citation": "Journal of neuroscience methods 243, 53-62, 2015"
-    },
-    {
-        "title": "Salient object detection based on meanshift filtering and fusion of colour information",
-        "pub_year": "2015",
-        "citation": "IET Image Processing 9 (11), 977-985, 2015"
     },
     {
         "title": "Scene Augmentation Methods for Interactive Embodied AI Tasks",
@@ -4783,11 +4553,6 @@
         "citation": "Journal of neural engineering 17 (6), 066006, 2020"
     },
     {
-        "title": "Spatial–temporal compression and recovery in a wireless sensor network in an underground tunnel environment",
-        "pub_year": "2014",
-        "citation": "Knowledge and information systems 41, 449-465, 2014"
-    },
-    {
         "title": "Spatio-temporal EEG dipole estimation by means of a hybrid genetic algorithm",
         "pub_year": "2004",
         "citation": "The 26th Annual International Conference of the IEEE Engineering in Medicine …, 2004"
@@ -4894,11 +4659,6 @@
         "title": "Swimming behavior analysis based on bacterial chemotaxis in solution",
         "pub_year": "2012",
         "citation": "Journal of Bionic Engineering 9 (3), 315-321, 2012"
-    },
-    {
-        "title": "Synthesis of Vanadium Phosphorus Oxide Catalysts Assisted by Deep-Eutectic Solvents for n-Butane Selective Oxidation",
-        "pub_year": "2019",
-        "citation": "Industrial & Engineering Chemistry Research 58 (8), 2857-2867, 2019"
     },
     {
         "title": "Synthetic IMU Datasets and Protocols Can Simplify Fall Detection Experiments and Optimize Sensor Configuration",
@@ -5061,11 +4821,6 @@
         "citation": "Proceedings of the 20th Annual International Conference of the IEEE …, 1998"
     },
     {
-        "title": "The binary F-expansion method and its application for solving the (n+ 1)-dimensional sine-Gordon equation",
-        "pub_year": "2009",
-        "citation": "Communications in Nonlinear Science and Numerical Simulation 14 (4), 1245-1258, 2009"
-    },
-    {
         "title": "The cDNA cloning of a novel bacterial blight-resistance gene ME137",
         "pub_year": "2013",
         "citation": "Acta Biochim Biophys Sin 45 (5), 422-424, 2013"
@@ -5084,11 +4839,6 @@
         "title": "The influence of corticospinal activity on TMS-evoked activity and connectivity in healthy subjects: A TMS-EEG study",
         "pub_year": "2017",
         "citation": "PloS one 12 (4), e0174879, 2017"
-    },
-    {
-        "title": "The integral bifurcation method and its application for solving a family of third-order dispersive PDEs",
-        "pub_year": "2008",
-        "citation": "Nonlinear Analysis: Theory, Methods & Applications 69 (4), 1256-1267, 2008"
     },
     {
         "title": "The localization of a generator of evoked potentials in man analyzed by dipole tracing analysis.",
@@ -5240,14 +4990,9 @@
         "citation": "Proceedings of the 23th Annual Meeting of ISMRM. Toronto, ON, Canada, 3303, 2015"
     },
     {
-        "title": "Touch locating and stretch sensing studies of conductive hydrogels with applications to soft robots",
-        "pub_year": "2018",
-        "citation": "Sensors 18 (2), 569, 2018"
-    },
-    {
-        "title": "Tough nanocomposite ionogel-based actuator exhibits robust performance",
-        "pub_year": "2014",
-        "citation": "Scientific Reports 4 (1), 6673, 2014"
+        "title": "Trace Pheromone-Based Energy-Efficient UAV Dynamic Coverage Using Deep Reinforcement Learning",
+        "pub_year": "2024",
+        "citation": "IEEE Transactions on Cognitive Communications and Networking, 2024"
     },
     {
         "title": "Trafficability analysis at traffic crossing and parameters optimization based on particle swarm optimization method",
@@ -5265,6 +5010,11 @@
     {
         "title": "Transactions/Journals Department",
         "citation": ""
+    },
+    {
+        "title": "Transcranial Focused Ultrasound Remotely Modulates Extrastriate Visual Cortex with Subregion Specificity",
+        "pub_year": "2024",
+        "citation": "bioRxiv, 2024.01. 20.576476, 2024"
     },
     {
         "title": "Transcranial Focused Ultrasound to V5 Enhances Human Visual Motion Brain-Computer Interface by Modulating Feature-Based Attention",
@@ -5295,11 +5045,6 @@
         "title": "Transcriptome Analysis of the Zn (II) 2Cys6 Zinc Cluster-encoding Gene Family in Aspergillus Oryzae",
         "pub_year": "2019",
         "citation": "Proceedings of the 2019 8th International Conference on Bioinformatics and …, 2019"
-    },
-    {
-        "title": "Transcriptome analysis confers a complex disease resistance network in wild rice Oryza meyeriana against Xanthomonas oryzae pv. oryzae",
-        "pub_year": "2016",
-        "citation": "Scientific reports 6 (1), 38215, 2016"
     },
     {
         "title": "Transcriptome analysis of WRKY gene family in Oryza officinalis Wall ex Watt and WRKY genes involved in responses to Xanthomonas oryzae pv. oryzae stress",
@@ -5507,11 +5252,6 @@
         "title": "Welcome message from IEEE EMBS president",
         "pub_year": "2009",
         "citation": "Proceedings of the 31st Annual International Conference of the IEEE …, 2009"
-    },
-    {
-        "title": "Wet adhesion inspired bionic climbing robot",
-        "pub_year": "2013",
-        "citation": "IEEE/Asme Transactions on Mechatronics 19 (1), 312-320, 2013"
     },
     {
         "title": "Wet adhesion mechanism and its application to bionic wall-climbing robot",
