@@ -263,6 +263,11 @@
         "citation": "Mathematical Methods in the Applied Sciences 35 (4), 466-473, 2012"
     },
     {
+        "title": "A least-squares",
+        "pub_year": "2019",
+        "citation": "GEOPHYSICS, 2019"
+    },
+    {
         "title": "A least-squares correlation-based full traveltime inversion for shallow subsurface velocity reconstruction",
         "pub_year": "2019",
         "citation": "Geophysics 84 (4), R613-R624, 2019"
@@ -1452,6 +1457,11 @@
         "citation": "The 17th Meeting of the International Society for Brain Electromagnetic …, 2006"
     },
     {
+        "title": "Cortical dipole imaging of movement-related potentials by means of parametric inverse filters incorporating with signal and noise covariance",
+        "pub_year": "2007",
+        "citation": "Methods of information in medicine 46 (02), 242-246, 2007"
+    },
+    {
         "title": "Cortical imaging of epileptiform activity by means of a realistic geometry head model",
         "pub_year": "2003",
         "citation": "Proceedings of the 25th Annual International Conference of the IEEE …, 2003"
@@ -1497,11 +1507,6 @@
         "citation": "Proceedings of the 20th Annual International Conference of the IEEE …, 1998"
     },
     {
-        "title": "CorticalDipoleImagingofMovement-related PotentialsbyMeansofParametricInverseFilters IncorporatingwithSignalandNoiseCovariance",
-        "pub_year": "2007",
-        "citation": "Methods Inf Med 46, 242-246, 2007"
-    },
-    {
         "title": "Coupling effect analysis between the central nervous system and the CPG network with proprioception",
         "pub_year": "2015",
         "citation": "Robotica 33 (6), 1281-1294, 2015"
@@ -1534,7 +1539,7 @@
     {
         "title": "Deep learning based source imaging provides strong sublobar localization of epileptogenic zone from MEG interictal spikes",
         "pub_year": "2023",
-        "citation": "Neuroimage 281, 120366, 2023"
+        "citation": "NeuroImage 281, 120366, 2023"
     },
     {
         "title": "Deep neural networks constrained by neural mass models improve electrophysiological source imaging of spatiotemporal brain dynamics",
@@ -1710,7 +1715,7 @@
     {
         "title": "Disentanglement of Resting State Brain Networks for Localizing Epileptogenic Zone in Focal Epilepsy",
         "pub_year": "2024",
-        "citation": "Brain Topography 37 (1), 152-168, 2024"
+        "citation": "Brain topography 37 (1), 152-168, 2024"
     },
     {
         "title": "Dissociation of subjectively reported and behaviorally indexed mind wandering by EEG rhythmic activity",
@@ -1827,9 +1832,9 @@
         "citation": "IEEE Transactions on Biomedical Engineering 63 (1), 4-14, 2015"
     },
     {
-        "title": "EEG source imaging: correlate source locations and extents with ECoG and surgical resections in epilepsy patients",
+        "title": "EEG source imaging: correlating source locations and extents with electrocorticography and surgical resections in epilepsy patients",
         "pub_year": "2007",
-        "citation": "Journal of clinical neurophysiology: official publication of the American …, 2007"
+        "citation": "Journal of Clinical Neurophysiology 24 (2), 130-136, 2007"
     },
     {
         "title": "EEG source localization",
@@ -2622,6 +2627,11 @@
         "citation": "Clinical Neurophysiology 113 (2), 227-235, 2002"
     },
     {
+        "title": "High-resolution cortical imaging by means of parametric projection filters",
+        "pub_year": "2001",
+        "citation": "2001 Asia-Pacific Radio Science Conference AP-RASC'01, 265, 2001"
+    },
+    {
         "title": "High-resolution functional source and impedance imaging",
         "pub_year": "2006",
         "citation": "2005 IEEE Engineering in Medicine and Biology 27th Annual Conference, 4178-4182, 2006"
@@ -3037,6 +3047,11 @@
         "citation": "Journal of Visual Communication and Image Representation 89, 103677, 2022"
     },
     {
+        "title": "Key Technologies and Applications of UAVs in Underground Space: A Review",
+        "pub_year": "2024",
+        "citation": "IEEE Transactions on Cognitive Communications and Networking, 2024"
+    },
+    {
         "title": "Kinematics and energy minimization approach for continuum robot",
         "pub_year": "2016",
         "citation": "Advances in Reconfigurable Mechanisms and Robots II, 817-827, 2016"
@@ -3176,7 +3191,7 @@
         "citation": "Physics in Medicine & Biology 50 (1), 45, 2004"
     },
     {
-        "title": "Low-intensity transcranial focused ultrasound changes pain-associated behaviors by modulating pain processing brain circuits",
+        "title": "Low-intensity transcranial focused ultrasound suppresses pain by modulating pain processing brain circuits",
         "pub_year": "2022",
         "citation": "bioRxiv, 2022.12. 07.519518, 2022"
     },
@@ -4150,7 +4165,7 @@
         "citation": "2008 30th Annual International Conference of the IEEE Engineering in …, 2008"
     },
     {
-        "title": "R-LIOM: Reflectivity-Aware LiDAR-Inertial Odometry and Mapping",
+        "title": "R-LIOM: reflectivity-aware LiDAR-inertial odometry and mapping",
         "pub_year": "2023",
         "citation": "IEEE Robotics and Automation Letters, 2023"
     },
@@ -4299,14 +4314,14 @@
         "citation": "IEEE/ASME Transactions on Mechatronics, 2022"
     },
     {
-        "title": "Robot Learning in the Era of Foundation Models: A Survey",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2311.14379, 2023"
-    },
-    {
         "title": "Robot learning from human demonstrations with inconsistent contexts",
         "pub_year": "2023",
         "citation": "Robotics and Autonomous Systems 166, 104466, 2023"
+    },
+    {
+        "title": "Robot learning in the era of foundation models: A survey",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2311.14379, 2023"
     },
     {
         "title": "Robotic Arm Control Using a Non-Invasive EEG-based BCI",
@@ -4581,6 +4596,11 @@
         "title": "Spatiotemporal Rhythmic Seizure Sources Can be Imaged by means of Biophysically Constrained Deep Neural Networks",
         "pub_year": "2023",
         "citation": "medRxiv, 2023.11. 30.23299218, 2023"
+    },
+    {
+        "title": "Special Topic-4th BioSignal Interpretation (BSI) Workshop 2002 (IMIA WG7)-Cortical Potential Imaging of Brain Electrical Activity by Means of Parametric Projection Filter",
+        "pub_year": "2004",
+        "citation": "Methods of Information in Medicine-Methodik der Information in der Medizin …, 2004"
     },
     {
         "title": "Special section on grand challenges in neuroengineering",
@@ -5075,6 +5095,11 @@
         "title": "Transcriptomic responses of porcine cumulus cells to heat exposure during oocytes in vitro maturation",
         "pub_year": "2021",
         "citation": "Molecular Reproduction and Development 88 (1), 43-54, 2021"
+    },
+    {
+        "title": "Transductive Learning with Prior Knowledge for Generalized Zero-shot Action Recognition",
+        "pub_year": "2023",
+        "citation": "IEEE Transactions on Circuits and Systems for Video Technology, 2023"
     },
     {
         "title": "Transfer matrix method for 2-dimension system",

@@ -29,6 +29,11 @@
         "citation": "JOURNAL OF BONE AND MINERAL RESEARCH 11, M356-M356, 1996"
     },
     {
+        "title": "Administration of recombinant bovine somatotropin (rbSt) to lactating cows beginning at 35 or 70 days postpartum. II. Circulating somatotropin (bSt) and insulin-like growth …",
+        "pub_year": "1988",
+        "citation": ""
+    },
+    {
         "title": "An engineered approach to stem cell culture: automating the decision process for real-time adaptive subculture of stem cells",
         "pub_year": "2011",
         "citation": "PLoS One 6 (11), e27672, 2011"
@@ -163,9 +168,19 @@
         "citation": "Journal of Extracellular Vesicles 10 (12), e12155, 2021"
     },
     {
+        "title": "Changes in [125] insulin binding to bovine mammary gland microsomes during pregnancy and lactation.",
+        "pub_year": "1986",
+        "citation": ""
+    },
+    {
         "title": "Changes in bovine mammary insulin binding during pregnancy and lactation.",
         "pub_year": "1987",
         "citation": "Comparative Biochemistry and physiology. B, Comparative Biochemistry 87 (4 …, 1987"
+    },
+    {
+        "title": "Characterization of Insulin-like growth factor-1/Somatomedin C receptors in the bovine mammary gland.",
+        "pub_year": "1986",
+        "citation": ""
     },
     {
         "title": "Characterization of the change in type I and II insulin-like growth factor receptors of bovine mammary tissue during the pre-and postpartum periods",
@@ -265,7 +280,7 @@
     {
         "title": "Direct comparison of progenitor cells derived from adipose, muscle, and bone marrow from wild-type or craniosynostotic rabbits",
         "pub_year": "2011",
-        "citation": "Plastic and reconstructive surgery 127 (1), 88, 2011"
+        "citation": "Plastic and reconstructive surgery 127 (1), 88-97, 2011"
     },
     {
         "title": "Directing Cell Migration with Engineered Two-Dimensional Concentration Gradients of Fibroblast Growth Factor-2",
@@ -338,6 +353,11 @@
         "citation": "Journal of Biological Chemistry 281 (9), 5341-5347, 2006"
     },
     {
+        "title": "FABRICATION OF SINGLE AND MULTI-LAYER FIBROUS BIOMATERIAL SCAFFOLDS FOR TISSUE ENGINEERING",
+        "pub_year": "2009",
+        "citation": "ASME International Mechanical Engineering Congress and Exposition (IMECE), 2009"
+    },
+    {
         "title": "Fabrication of Single and Multi-Layer Fibrous Biomaterial Scaffolds for Tissue Engineering",
         "pub_year": "2008",
         "citation": "ASME International Mechanical Engineering Congress and Exposition 48630, 231-238, 2008"
@@ -345,7 +365,7 @@
     {
         "title": "Fibrin glue for wound repair: facts and fancy",
         "pub_year": "2003",
-        "citation": "Thrombosis and haemostasis 90 (06), 1003-1006, 2003"
+        "citation": "Thrombosis and haemostasis 90 (12), 1003-1006, 2003"
     },
     {
         "title": "Freeform 3D Ice Printing (3D‐ICE) at the Micro Scale",
@@ -406,6 +426,11 @@
         "title": "Insulin-like growth factor (IGF)-binding protein-5-(201—218) region regulates hydroxyapatite and IGF-I binding",
         "pub_year": "1997",
         "citation": "American Journal of Physiology-Endocrinology and Metabolism 273 (5), E1005-E1013, 1997"
+    },
+    {
+        "title": "Insulin-like growth factor I (IGF-I) and IGF-binding proteins in bovine milk.",
+        "pub_year": "1988",
+        "citation": ""
     },
     {
         "title": "Insulin-like growth factor I accelerates functional recovery from Achilles tendon injury in a rat model",
@@ -541,6 +566,11 @@
         "title": "Microrobotically fabricated biological scaffolds for tissue engineering",
         "pub_year": "2007",
         "citation": "Proceedings 2007 IEEE International Conference on Robotics and Automation …, 2007"
+    },
+    {
+        "title": "Morphology-based features for adaptive mitosis detection of in vitro stem cell tracking data",
+        "pub_year": "2012",
+        "citation": "Methods of information in medicine 51 (05), 449-456, 2012"
     },
     {
         "title": "Nano-Drop Printing of SDF-1 beta on DermaMatrix Augments BMP-2-Induced Repair of Critical Size Mouse Calvarial Defects",

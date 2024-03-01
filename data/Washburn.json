@@ -360,7 +360,7 @@
     {
         "title": "Enhancing the performance of Bio-inspired adhesives",
         "pub_year": "2010",
-        "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 240, 2010"
+        "citation": "Abstracts of Papers of the American Chemical Society, 2010"
     },
     {
         "title": "Eutectic Ionic Liquid mixtures and its effect on CO2 solubility and conductivity",
@@ -503,6 +503,16 @@
         "title": "Influence of the degree of methacrylation on hyaluronic acid hydrogels properties",
         "pub_year": "2008",
         "citation": "Biomaterials 29 (12), 1739-1749, 2008"
+    },
+    {
+        "title": "Integrated Design of Ultradurable, Low CO2 Alternative Binder Systems via Machine Learning",
+        "pub_year": "2023",
+        "citation": "Carnegie Mellon Univ., Pittsburgh, PA (United States), 2023"
+    },
+    {
+        "title": "Intelligently designing cement and concrete through data analytics",
+        "pub_year": "2024",
+        "citation": "Cement and Concrete Research, 107453, 2024"
     },
     {
         "title": "Interphase effects in dental nanocomposites investigated by small‐angle neutron scattering",
@@ -906,12 +916,22 @@
     {
         "title": "The Geometric Evolution of Aortic Dissections: Predicting Surgical Success using Fluctuations in Integrated Gaussian Curvature",
         "pub_year": "2022",
+        "citation": ""
+    },
+    {
+        "title": "The Geometric Evolution of Aortic Dissections: Predicting Surgical Success using Fluctuations in Integrated Gaussian Curvature",
+        "pub_year": "2022",
         "citation": "bioRxiv, 2022.09. 19.508582, 2022"
     },
     {
         "title": "The Quantification of Cellular Viability and Inflammatory Response to Dental Bonding Resins",
         "pub_year": "2008",
         "citation": "L A. Bailey, Michael Weir, N Washburn, 2008"
+    },
+    {
+        "title": "The geometric evolution of aortic dissections: Predicting surgical success using fluctuations in integrated Gaussian curvature",
+        "pub_year": "2024",
+        "citation": "PLOS Computational Biology 20 (2), e1011815, 2024"
     },
     {
         "title": "The grateful dead: damage‐associated molecular pattern molecules and reduction/oxidation regulate immunity",
