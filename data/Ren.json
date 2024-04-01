@@ -50,6 +50,11 @@
         "citation": "Bio-protocol 11 (4), e3922-e3922, 2021"
     },
     {
+        "title": "Cell–Surface Binding of DNA Nanostructures for Enhanced Intracellular and Intranuclear Delivery",
+        "pub_year": "2024",
+        "citation": "ACS Applied Materials & Interfaces, 2024"
+    },
+    {
         "title": "Characterization of two novel small molecules targeting melanocyte development in zebrafish embryogenesis",
         "pub_year": "2012",
         "citation": "Pigment Cell & Melanoma Research 25 (4), 446-453, 2012"
@@ -107,7 +112,7 @@
     {
         "title": "Engineering rotating apical-out airway organoid for assessing respiratory cilia motility",
         "pub_year": "2022",
-        "citation": "Iscience 25 (8), 104730, 2022"
+        "citation": "Iscience 25 (8), 2022"
     },
     {
         "title": "Enhanced lung epithelial specification of human induced pluripotent stem cells on decellularized lung matrix",
@@ -127,7 +132,7 @@
     {
         "title": "Extracellular matrix dynamics: tracking in biological systems and their implications",
         "pub_year": "2022",
-        "citation": "Journal of Biological Engineering 16 (1), 1-13, 2022"
+        "citation": "Journal of Biological Engineering 16 (1), 13, 2022"
     },
     {
         "title": "Fibrillin-2 and Tenascin-C bridge the age gap in lung epithelial regeneration",
@@ -150,9 +155,14 @@
         "citation": "The Journal of Heart and Lung Transplantation 38 (2), 225-227, 2019"
     },
     {
+        "title": "Lung Progenitor and Stem Cell Transplantation as a Potential Regenerative Therapy for Lung Diseases",
+        "pub_year": "2024",
+        "citation": "Transplantation, 10.1097, 2024"
+    },
+    {
         "title": "Magnify is a universal molecular anchoring strategy for expansion microscopy",
         "pub_year": "2023",
-        "citation": "Nature Biotechnology 41 (6), 858-869, 2023"
+        "citation": "Nature biotechnology 41 (6), 858-869, 2023"
     },
     {
         "title": "Medicina rigenerativa e trapianto renale: una sinergia vantaggiosa",
@@ -195,9 +205,9 @@
         "citation": "Microscopy and Microanalysis 28 (S1), 1568-1569, 2022"
     },
     {
-        "title": "Newly-synthesized Glycoprotein Profiling to Identify Molecular Signatures of Warm Ischemic Injury in Donor Lungs",
+        "title": "Newly synthesized glycoprotein profiling to identify molecular signatures of warm ischemic injury in donor lungs",
         "pub_year": "2023",
-        "citation": "American Journal of Physiology-Lung Cellular and Molecular Physiology, 2023"
+        "citation": "American Journal of Physiology-Lung Cellular and Molecular Physiology 325 (1 …, 2023"
     },
     {
         "title": "On the road to bioartificial organs",
@@ -248,6 +258,11 @@
         "title": "Regenerative potential of human airway stem cells in lung epithelial engineering",
         "pub_year": "2016",
         "citation": "Biomaterials 108, 111-119, 2016"
+    },
+    {
+        "title": "Repurposing Decellularized Lung to Generate Vascularized Fat",
+        "pub_year": "2024",
+        "citation": "Adipose-Derived Stem Cells: Methods and Protocols, 269-278, 2024"
     },
     {
         "title": "Scl isoforms act downstream of etsrp to specify angioblasts and definitive hematopoietic stem cells",

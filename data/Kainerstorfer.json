@@ -25,14 +25,14 @@
         "citation": "International journal of dermatology 52 (11), 1319-1330, 2013"
     },
     {
-        "title": "Application of Near-infrared Spectroscopy in Human Elite Freedivers while Deepdiving on a Single Breath Hold",
-        "pub_year": "2021",
-        "citation": "European Conference on Biomedical Optics, ETu4C. 6, 2021"
-    },
-    {
         "title": "Application of a Two-Layer Model to Correct for Skin Pigmentation in Spatial Frequency Domain Imaging of the Healthy Breast",
         "pub_year": "2020",
         "citation": "Clinical and Translational Biophotonics, JW3A. 5, 2020"
+    },
+    {
+        "title": "Application of near-infrared spectroscopy in human elite freedivers while deepdiving on a single breath hold",
+        "pub_year": "2021",
+        "citation": "European Conference on Biomedical Optics, ETu4C. 6, 2021"
     },
     {
         "title": "Applications of a novel hemodynamic model to functional brain studies with fNIRS and fMRI",
@@ -43,6 +43,11 @@
         "title": "Assessing Dynamic Cerebral Autoregulation in Patients with Sickle Cell Disease Using Near-Infrared Spectroscopy and Paced Breathing",
         "pub_year": "2020",
         "citation": "Blood 136, 57-58, 2020"
+    },
+    {
+        "title": "Blood pressure estimation using near-infrared spectroscopy (NIRS)",
+        "pub_year": "2024",
+        "citation": "Dynamics and Fluctuations in Biomedical Photonics XXI, PC128410G, 2024"
     },
     {
         "title": "Blood-pressure-induced oscillations of deoxy-and oxyhemoglobin concentrations are in-phase in the healthy breast and out-of-phase in the healthy brain",
@@ -75,6 +80,11 @@
         "citation": "Optical Tomography and Spectroscopy of Tissue X 8578, 79-86, 2013"
     },
     {
+        "title": "COHERENT HEMODYNAMICS SPECTROSCOPY BASED ON A PACED BREATHING PARADIGM—REVISITED",
+        "pub_year": "2014",
+        "citation": "Journal of Innovative Optical Health Sciences 7 (01), 1450013, 2014"
+    },
+    {
         "title": "Capturing Task-Evoked Functional Brain Connectivity Using Combined NIRS/EEG",
         "pub_year": "2012",
         "citation": "Biomedical Optics, BSu3A. 72, 2012"
@@ -85,7 +95,7 @@
         "citation": "Journal of Cerebral Blood Flow & Metabolism 35 (6), 959-966, 2015"
     },
     {
-        "title": "Cerebrovascular Impedance as a Function of Cerebral Perfusion Pressure",
+        "title": "Cerebrovascular impedance as a function of cerebral perfusion pressure",
         "pub_year": "2023",
         "citation": "IEEE Open Journal of Engineering in Medicine and Biology, 2023"
     },
@@ -127,12 +137,7 @@
     {
         "title": "Clinical translation of noninvasive intracranial pressure sensing with diffuse correlation spectroscopy",
         "pub_year": "2022",
-        "citation": "Journal of Neurosurgery 1 (aop), 1-10, 2022"
-    },
-    {
-        "title": "Coherent Hemodynamics Spectroscopy Based on a Paced Breathing Paradigm—Revisited",
-        "pub_year": "2014",
-        "citation": "Journal of Innovative Optical Health Sciences 7 (01), 1450013, 2014"
+        "citation": "Journal of Neurosurgery 139 (1), 184-193, 2022"
     },
     {
         "title": "Coherent Hemodynamics Spectroscopy of the Vulnerable Brain of Hemodialysis Patients: a Cyclic Thigh-Cuff Inflation Protocol",
@@ -162,7 +167,7 @@
     {
         "title": "Comparison of static and dynamic cerebral autoregulation under anesthesia influence in a controlled animal model",
         "pub_year": "2021",
-        "citation": "Plos one 16 (1), e0245291, 2021"
+        "citation": "PLoS One 16 (1), e0245291, 2021"
     },
     {
         "title": "Correlation between cerebral hemodynamic and perfusion pressure changes in non-human primates",
@@ -170,12 +175,12 @@
         "citation": "Optical Tomography and Spectroscopy of Tissue XII 10059, 154-158, 2017"
     },
     {
-        "title": "Correlation of EEG with Intercranial pressure and cerebral hemodynamics during burst-Supression",
+        "title": "Correlation of EEG with intercranial pressure and cerebral hemodynamics during burst-supression",
         "pub_year": "2018",
         "citation": "Clinical and Translational Biophotonics, JTu3A. 40, 2018"
     },
     {
-        "title": "Deep learning-based near-infrared spectroscopy time-series analysis with long short-term memory (Conference Presentation)",
+        "title": "Deep learning-based near-infrared spectroscopy time-series analysis with long short-term memory",
         "pub_year": "2023",
         "citation": "Optical Tomography and Spectroscopy of Tissue XV, PC123760B, 2023"
     },
@@ -190,14 +195,14 @@
         "citation": "PLoS One 8 (3), e58510, 2013"
     },
     {
-        "title": "Diffuse Optical Tomography Spatial Prior for EEG Source Localization in Human Visual Cortex",
-        "pub_year": "2023",
-        "citation": "NeuroImage, 120210, 2023"
-    },
-    {
         "title": "Diffuse correlation spectroscopy for intracranial pressure estimation through cardiac pulse waveform analysis",
         "pub_year": "2019",
         "citation": "European Conference on Biomedical Optics, 11074_20, 2019"
+    },
+    {
+        "title": "Diffuse optical tomography spatial prior for EEG source localization in human visual cortex",
+        "pub_year": "2023",
+        "citation": "NeuroImage 277, 120210, 2023"
     },
     {
         "title": "Direct curvature correction for noncontact imaging modalities applied to multispectral imaging",
@@ -235,9 +240,9 @@
         "citation": "Neurophotonics 8 (1), 015002-015002, 2021"
     },
     {
-        "title": "Erratum: Estimating intracranial pressure using pulsatile cerebral blood flow measured with diffuse correlation spectroscopy: erratum.",
-        "pub_year": "2022",
-        "citation": "Biomedical Optics Express 13 (2), 710-712, 2022"
+        "title": "Enhancing multi-layer cerebral analysis in NIRS: a deep learning approach",
+        "pub_year": "2024",
+        "citation": "Neural Imaging and Sensing 2024, PC1282809, 2024"
     },
     {
         "title": "Estimating intracranial pressure using pulsatile cerebral blood flow measured with diffuse correlation spectroscopy",
@@ -372,7 +377,7 @@
     {
         "title": "Light Propagation through Dolphin Blubber: Towards Marine Mammal NIRS",
         "pub_year": "2022",
-        "citation": "Optical Tomography and Spectroscopy, JM3A. 15, 2022"
+        "citation": "Optical Coherence Tomography, JM3A. 15, 2022"
     },
     {
         "title": "Low-cost high temporal resolution diffuse correlation spectroscopy (Conference Presentation)",
@@ -407,7 +412,7 @@
     {
         "title": "Near-infrared spectroscopy as a tool for marine mammal research and care",
         "pub_year": "2022",
-        "citation": "Frontiers in Physiology 12, 2546, 2022"
+        "citation": "Frontiers in Physiology 12, 816701, 2022"
     },
     {
         "title": "Near-infrared spectroscopy measured vascular reactivity and blood flow autoregulation during intracranial pressure changes",
@@ -416,6 +421,7 @@
     },
     {
         "title": "Neurophotonics would like to sincerely thank the following individuals who served as reviewers in 2017. The success of our publication hinges on the voluntary contributions of …",
+        "pub_year": "2021",
         "citation": ""
     },
     {
@@ -736,11 +742,6 @@
         "title": "Vascular oximetry system",
         "pub_year": "2022",
         "citation": "US Patent 11,219,392, 2022"
-    },
-    {
-        "title": "Wearable Near-Infrared Spectroscopy as a Physiological Monitoring Tool for Seals under Anaesthesia",
-        "pub_year": "2021",
-        "citation": "REMOTE SENSING 13 (18), 2021"
     },
     {
         "title": "Wearable near-infrared spectroscopy as a physiological monitoring tool for seals under anaesthesia",

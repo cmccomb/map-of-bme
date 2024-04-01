@@ -1,5 +1,10 @@
 [
     {
+        "title": "\" Learning by neural reassociation\": Publisher correction.",
+        "pub_year": "2018",
+        "citation": "Nature Publishing Group, 2018"
+    },
+    {
         "title": "785 The Speed at Which Reach Movement Plans Can Be Decoded from the Cortex and Its Implications for High-performance Neural Prosthetic Arm Systems",
         "pub_year": "2004",
         "citation": "Neurosurgery 55 (2), 481, 2004"
@@ -229,14 +234,14 @@
         "citation": "Nonlinear Statistical Signal Processing Workshop, 2006 IEEE, 83-86, 2006"
     },
     {
-        "title": "Extracting Dynamical Structure Embedded in Motor Preparatory Activity",
-        "pub_year": "2005",
-        "citation": "COSYNE 2005, 290-, 2005"
-    },
-    {
         "title": "Extracting Low-Dimensional Latent Structure from Time Series in the Presence of Delays",
         "pub_year": "2015",
         "citation": "Neural computation, 2015"
+    },
+    {
+        "title": "Extracting dynamical structure embedded in motor preparatory activity",
+        "pub_year": "2005",
+        "citation": "COSYNE 2005, 290-, 2005"
     },
     {
         "title": "Extracting dynamical structure embedded in neural activity",
@@ -393,11 +398,6 @@
         "citation": "Neuron 111 (6), 764-766, 2023"
     },
     {
-        "title": "Learning alters neural activity to simultaneously support memory and action",
-        "pub_year": "2022",
-        "citation": "bioRxiv, 2022.07. 05.498856, 2022"
-    },
-    {
         "title": "Learning an internal dynamics model from control demonstration",
         "pub_year": "2013",
         "citation": "JMLR workshop and conference proceedings, 606, 2013"
@@ -411,6 +411,16 @@
         "title": "Learning is shaped by abrupt changes in neural engagement",
         "pub_year": "2021",
         "citation": "Nature Neuroscience 24 (5), 727-736, 2021"
+    },
+    {
+        "title": "Learning leaves a memory trace in motor cortex",
+        "pub_year": "2024",
+        "citation": "Current Biology 34, 1-13, 2024"
+    },
+    {
+        "title": "Learning leaves a memory trace in motor cortex",
+        "pub_year": "2024",
+        "citation": "Current Biology, 2024"
     },
     {
         "title": "Low-dimensional single-trial analysis of neural population activity",

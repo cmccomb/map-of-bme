@@ -1,5 +1,10 @@
 [
     {
+        "title": "\" Learning by neural reassociation\": Publisher correction.",
+        "pub_year": "2018",
+        "citation": "Nature Publishing Group, 2018"
+    },
+    {
         "title": "A control-theoretic approach to brain-computer interface design",
         "pub_year": "2016",
         "citation": "2016 American Control Conference (ACC), 5765-5771, 2016"
@@ -82,12 +87,17 @@
     {
         "title": "Dimensionality reduction of calcium-imaged neuronal population activity",
         "pub_year": "2023",
-        "citation": "Nature Computational Science 3 (1), 71-85, 2023"
+        "citation": "Nature computational science 3 (1), 71-85, 2023"
     },
     {
         "title": "Direction and speed tuning of motor-cortex multi-unit activity and local field potentials during reaching movements",
         "pub_year": "2013",
         "citation": "2013 35th Annual International Conference of the IEEE Engineering in …, 2013"
+    },
+    {
+        "title": "Dissociating the Influence of Limb Posture and Visual Feedback Shifts on the Adaptation to Novel Movement Dynamics",
+        "pub_year": "2024",
+        "citation": "Neuroscience, 2024"
     },
     {
         "title": "Distinct kinematic adjustments over multiple timescales accompany locomotor skill development in mice",
@@ -161,7 +171,7 @@
     {
         "title": "Intracortical brain–machine interfaces",
         "pub_year": "2020",
-        "citation": "Neural Engineering, 185-221, 2020"
+        "citation": "Neural engineering, 185-221, 2020"
     },
     {
         "title": "Intracortical recording stability in human brain–computer interface users",
@@ -199,6 +209,11 @@
         "citation": "Nature Neuroscience 24 (5), 727-736, 2021"
     },
     {
+        "title": "Learning leaves a memory trace in motor cortex",
+        "pub_year": "2024",
+        "citation": "Current Biology, 2024"
+    },
+    {
         "title": "Limited segregation of different types of sound localization information among classes of units in the inferior colliculus",
         "pub_year": "2005",
         "citation": "Journal of Neuroscience 25 (33), 7575-7585, 2005"
@@ -232,6 +247,11 @@
         "title": "New neural activity patterns emerge with long-term learning",
         "pub_year": "2019",
         "citation": "Proceedings of the National Academy of Sciences 116 (30), 15210-15215, 2019"
+    },
+    {
+        "title": "New skill acquisition does not perturb existing function in sensory cortex",
+        "pub_year": "2021",
+        "citation": "bioRxiv, 2021"
     },
     {
         "title": "Optimizing the usability of brain-computer interfaces",

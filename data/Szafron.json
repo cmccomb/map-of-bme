@@ -1,15 +1,5 @@
 [
     {
-        "title": "A Computational Growth and Remodeling Framework for Adaptive and Maladaptive Pulmonary Arterial Hemodynamics",
-        "pub_year": "2023",
-        "citation": "bioRxiv, 2023.04. 20.537714, 2023"
-    },
-    {
-        "title": "A Fluid-Solid-Growth Solver for Cardiovascular Modeling",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2306.08732, 2023"
-    },
-    {
         "title": "A Probabilistic Neural Twin for Treatment Planning in Peripheral Pulmonary Artery Stenosis",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2312.00854, 2023"
@@ -18,6 +8,16 @@
         "title": "A computational bio-chemo-mechanical model of in vivo tissue-engineered vascular graft development",
         "pub_year": "2020",
         "citation": "Integrative Biology 12 (3), 47-63, 2020"
+    },
+    {
+        "title": "A computational growth and remodeling framework for adaptive and maladaptive pulmonary arterial hemodynamics",
+        "pub_year": "2023",
+        "citation": "Biomechanics and Modeling in Mechanobiology 22 (6), 1935-1951, 2023"
+    },
+    {
+        "title": "A fluid–solid-growth solver for cardiovascular modeling",
+        "pub_year": "2023",
+        "citation": "Computer Methods in Applied Mechanics and Engineering 417, 116312, 2023"
     },
     {
         "title": "Biocompatible biomedical occlusion device",

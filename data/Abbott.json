@@ -20,11 +20,6 @@
         "citation": "The Spine Journal 9 (10), 26S-27S, 2009"
     },
     {
-        "title": "Adipose Tissue Paracrine-, Autocrine-, and Matrix-Dependent Signaling during the Development and Progression of Obesity",
-        "pub_year": "2023",
-        "citation": "Cells 12 (3), 407, 2023"
-    },
-    {
         "title": "Adipose tissue development relies on coordinated extracellular matrix remodeling, angiogenesis, and adipogenesis",
         "pub_year": "2022",
         "citation": "Biomedicines 10 (9), 2227, 2022"
@@ -33,6 +28,11 @@
         "title": "Adipose tissue fibrosis: mechanisms, models, and importance",
         "pub_year": "2020",
         "citation": "International journal of molecular sciences 21 (17), 6030, 2020"
+    },
+    {
+        "title": "Adipose tissue paracrine-, autocrine-, and matrix-dependent signaling during the development and progression of obesity",
+        "pub_year": "2023",
+        "citation": "Cells 12 (3), 407, 2023"
     },
     {
         "title": "Bioreactors and microphysiological systems for adipose-based pharmacologic screening",
@@ -47,7 +47,7 @@
     {
         "title": "Degenerative grade affects the responses of human nucleus pulposus cells to link-N, CTGF, and TGFβ3",
         "pub_year": "2013",
-        "citation": "Journal of spinal disorders & techniques 26 (3), E86, 2013"
+        "citation": "Clinical Spine Surgery 26 (3), E86-E94, 2013"
     },
     {
         "title": "Development of a More Environmentally Friendly Silk Fibroin Scaffold for Soft Tissue Applications",
@@ -110,7 +110,7 @@
         "citation": "US Patent 11,298,443, 2022"
     },
     {
-        "title": "Live free or die: Stretch-induced apoptosis occurs when adaptive reorientation of annulus fibrosus cells is restricted",
+        "title": "Live free or die: stretch-induced apoptosis occurs when adaptive reorientation of annulus fibrosus cells is restricted",
         "pub_year": "2012",
         "citation": "Biochemical and biophysical research communications 421 (2), 361-366, 2012"
     },
@@ -130,6 +130,11 @@
         "citation": "Wiley Interdisciplinary Reviews: Nanomedicine and Nanobiotechnology 11 (2 …, 2019"
     },
     {
+        "title": "Microstructural modelling and characterisation of laser-keyhole welded Eurofer 97",
+        "pub_year": "2023",
+        "citation": "Materials & Design 226, 111614, 2023"
+    },
+    {
         "title": "Modeling Diabetic Corneal Neuropathy in a 3D In Vitro Cornea System",
         "pub_year": "2018",
         "citation": "Scientific reports 8 (1), 17294, 2018"
@@ -147,7 +152,7 @@
     {
         "title": "Notochordal conditioned media from tissue increases proteoglycan accumulation and promotes a healthy nucleus pulposus phenotype in human mesenchymal stem cells",
         "pub_year": "2011",
-        "citation": "Arthritis research & therapy 13 (3), 1-13, 2011"
+        "citation": "Arthritis research & therapy 13, 1-13, 2011"
     },
     {
         "title": "Pixcell: Novel Automated Software for Adipocyte and Lipid Tracing in Immunofluorescent Images",
@@ -158,6 +163,11 @@
         "title": "Regenerative potential of TGFβ3+ Dex and notochordal cell conditioned media on degenerated human intervertebral disc cells",
         "pub_year": "2012",
         "citation": "Journal of orthopaedic research 30 (3), 482-488, 2012"
+    },
+    {
+        "title": "Repurposing Decellularized Lung to Generate Vascularized Fat",
+        "pub_year": "2024",
+        "citation": "Adipose-Derived Stem Cells: Methods and Protocols, 269-278, 2024"
     },
     {
         "title": "Serially Transplanted Nonpericytic CD146− Adipose Stromal/Stem Cells in Silk Bioscaffolds Regenerate Adipose Tissue In Vivo",

@@ -1,5 +1,10 @@
 [
     {
+        "title": "2013 NS-AUA Abstracts",
+        "pub_year": "2013",
+        "citation": "Canadian Urological Association Journal= Journal de L'association des …, 2013"
+    },
+    {
         "title": "3D bioprinting of collagen to rebuild components of the human heart",
         "pub_year": "2019",
         "citation": "Science 365 (6452), 482-487, 2019"
@@ -46,7 +51,7 @@
     {
         "title": "Analysis of In Vitro Cytotoxicity of Carbohydrate-Based Materials Used for Dissolvable Microneedle Arrays",
         "pub_year": "2020",
-        "citation": "Pharmaceutical Research 37, 1-18, 2020"
+        "citation": "Pharmaceutical research 37, 1-18, 2020"
     },
     {
         "title": "Anderson, DD, 58",
@@ -94,13 +99,13 @@
     },
     {
         "title": "Biocompatible polymers and methods of use",
-        "pub_year": "2010",
-        "citation": "US Patent App. 11/495,115, 2010"
+        "pub_year": "2007",
+        "citation": ""
     },
     {
         "title": "Biocompatible polymers and methods of use",
-        "pub_year": "2007",
-        "citation": ""
+        "pub_year": "2008",
+        "citation": "EP Patent App. 06,851,119 A, 2008"
     },
     {
         "title": "Bioimplantable bone stress sensor",
@@ -275,7 +280,7 @@
     {
         "title": "Direct and cell signaling-based, geometry-induced neuronal differentiation of neural stem cells",
         "pub_year": "2011",
-        "citation": "Integrative Biology 3 (12), 1207-1214, 2011"
+        "citation": "Integrative biology 3 (12), 1207-1214, 2011"
     },
     {
         "title": "Direct comparison of progenitor cells derived from adipose, muscle, and bone marrow from wild-type or craniosynostotic rabbits",
@@ -350,7 +355,7 @@
     {
         "title": "Extracellular matrix-mediated signaling by dentin phosphophoryn involves activation of the Smad pathway independent of bone morphogenetic protein",
         "pub_year": "2006",
-        "citation": "Journal of Biological Chemistry 281 (9), 5341-5347, 2006"
+        "citation": "Journal of biological chemistry 281 (9), 5341-5347, 2006"
     },
     {
         "title": "FABRICATION OF SINGLE AND MULTI-LAYER FIBROUS BIOMATERIAL SCAFFOLDS FOR TISSUE ENGINEERING",
@@ -481,6 +486,11 @@
         "title": "Localization of plasmin activity on osteosarcoma cells: cell surface proteolysis of insulin-like growth factor binding proteins",
         "pub_year": "1993",
         "citation": "Growth regulation 3 (1), 95-98, 1993"
+    },
+    {
+        "title": "Mechanisms Regulating Lactation and Infant Nutrient Utilization, pages 285-307 1992 Wiley-Liss, Inc.",
+        "pub_year": "1992",
+        "citation": "Mechanisms Regulating Lactation and Infant Nutrient Utilization, 285, 1992"
     },
     {
         "title": "Mechanisms of growth stimulation by suramin in non-small-cell lung cancer cell lines",
@@ -730,7 +740,7 @@
     {
         "title": "Signaling molecules for tissue engineering",
         "pub_year": "2005",
-        "citation": "Bone tissue engineering, 125-147, 2005"
+        "citation": "Bone Tissue Engineering, 125-147, 2005"
     },
     {
         "title": "Skin-targeted delivery of extracellular vesicle-encapsulated curcumin using dissolvable microneedle arrays",
@@ -760,7 +770,7 @@
     {
         "title": "THE ROLE OF 7-GLUTAMYL TRANSPEPTIDASE ftGTPase) IN MAMMARY TISSUE",
         "pub_year": "2017",
-        "citation": "Glutathione (1990), 93, 2017"
+        "citation": "Revival: Glutathione (1990), 93, 2017"
     },
     {
         "title": "Testing a novel nanofibre scaffold for utility in bone tissue regeneration",
@@ -768,9 +778,9 @@
         "citation": "Journal of tissue engineering and regenerative medicine 12 (10), 2055-2066, 2018"
     },
     {
-        "title": "Testing the “critical-size” in calvarial bone defects: revisiting the concept of a critical-sized defect (CSD)",
+        "title": "Testing the critical size in calvarial bone defects: revisiting the concept of a critical-size defect",
         "pub_year": "2010",
-        "citation": "Plastic and reconstructive surgery 125 (6), 1685, 2010"
+        "citation": "Plastic and reconstructive surgery 125 (6), 1685-1692, 2010"
     },
     {
         "title": "The CARMA3–Bcl10–MALT1 Signalosome Drives NFkB Activation and Promotes Aggressiveness in Angiotensin II Receptor–Positive Breast Cancer",
@@ -782,6 +792,11 @@
         "citation": "Cancer research 78 (5), 1225-1240, 2018"
     },
     {
+        "title": "The Role of γ-Glutamyl Transpeptidase (γGTPase) in Mammary Tissue",
+        "pub_year": "2017",
+        "citation": "Glutathione (1990), 93-104, 2017"
+    },
+    {
         "title": "The heparin binding domain of insulin-like growth factor binding protein (IGFBP)-3 increases susceptibility of IGFBP-3 to proteolysis",
         "pub_year": "1999",
         "citation": "Hormone and metabolic research 31 (02/03), 216-225, 1999"
@@ -789,7 +804,7 @@
     {
         "title": "The influence of polymer blend composition on the degradation of polymer/hydroxyapatite biomaterials",
         "pub_year": "2001",
-        "citation": "Journal of Materials Science: Materials in Medicine 12, 673-677, 2001"
+        "citation": "Journal of Materials Science: Materials in Medicine 12 (8), 673-677, 2001"
     },
     {
         "title": "The insulin-like growth factor axis and growth in children with chronic renal failure: a report of the Southwest Pediatric Nephrology Study Group",
@@ -825,10 +840,5 @@
         "title": "Using collagen microcarriers to deliver cells for bone tissue engineering.",
         "pub_year": "2001",
         "citation": "DEVELOPMENTAL BIOLOGY 235 (1), 245-245, 2001"
-    },
-    {
-        "title": "and Implications in Neonatal Physiology",
-        "pub_year": "1992",
-        "citation": "Mechanisms Regulating Lactation and Infant Nutrient Utilization, 285, 1992"
     }
 ]
