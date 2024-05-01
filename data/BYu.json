@@ -1,10 +1,5 @@
 [
     {
-        "title": "\" Learning by neural reassociation\": Publisher correction.",
-        "pub_year": "2018",
-        "citation": "Nature Publishing Group, 2018"
-    },
-    {
         "title": "785 The Speed at Which Reach Movement Plans Can Be Decoded from the Cortex and Its Implications for High-performance Neural Prosthetic Arm Systems",
         "pub_year": "2004",
         "citation": "Neurosurgery 55 (2), 481, 2004"
@@ -58,6 +53,11 @@
         "title": "A stable population code for attention in prefrontal cortex leads a dynamic attention code in visual cortex",
         "pub_year": "2021",
         "citation": "Journal of Neuroscience 41 (44), 9163-9176, 2021"
+    },
+    {
+        "title": "A theory of brain-computer interface learning via low-dimensional control",
+        "pub_year": "2024",
+        "citation": "bioRxiv, 2024.04. 18.589952, 2024"
     },
     {
         "title": "A theory of multineuronal dimensionality, dynamics and measurement",
@@ -411,11 +411,6 @@
         "title": "Learning is shaped by abrupt changes in neural engagement",
         "pub_year": "2021",
         "citation": "Nature Neuroscience 24 (5), 727-736, 2021"
-    },
-    {
-        "title": "Learning leaves a memory trace in motor cortex",
-        "pub_year": "2024",
-        "citation": "Current Biology 34, 1-13, 2024"
     },
     {
         "title": "Learning leaves a memory trace in motor cortex",

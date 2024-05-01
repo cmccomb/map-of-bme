@@ -105,6 +105,11 @@
         "citation": "Biophysical journal 90 (10), 3774-3782, 2006"
     },
     {
+        "title": "Centrosome defines the rear of cells during mesenchymal migration",
+        "pub_year": "2017",
+        "citation": "Molecular biology of the cell 28 (23), 3240-3251, 2017"
+    },
+    {
         "title": "Computational restoration of fluorescence images: noise reduction, deconvolution, and pattern recognition",
         "pub_year": "2003",
         "citation": "Methods in cell biology 72, 337-348, 2003"
@@ -120,6 +125,11 @@
         "citation": "The Journal of cell biology 86 (2), 590-598, 1980"
     },
     {
+        "title": "Coordination of cell migration mediated by site-dependent cell–cell contact",
+        "pub_year": "2018",
+        "citation": "Proceedings of the National Academy of Sciences 115 (42), 10678-10683, 2018"
+    },
+    {
         "title": "Coordination of protrusion and translocation of the keratocyte involves rolling of the cell body.",
         "pub_year": "1996",
         "citation": "The Journal of cell biology 134 (5), 1209-1218, 1996"
@@ -133,6 +143,16 @@
         "title": "Culturing cells on the microscope stage",
         "pub_year": "1988",
         "citation": "Methods in Cell Biology 29, 195-205, 1988"
+    },
+    {
+        "title": "Cyclic stretching combined with cell-cell adhesion is sufficient for inducing cell intercalation",
+        "pub_year": "2023",
+        "citation": "Biophysical Journal 122 (15), 3146-3158, 2023"
+    },
+    {
+        "title": "Cyclic stretching-induced epithelial cell reorientation is driven by microtubule-modulated transverse extension during the relaxation phase",
+        "pub_year": "2021",
+        "citation": "Scientific Reports 11 (1), 14803, 2021"
     },
     {
         "title": "Cytoplasmic force gradient in migrating adhesive cells",
@@ -183,6 +203,11 @@
         "title": "Dynamics of membrane clathrin‐coated structures during cytokinesis",
         "pub_year": "2006",
         "citation": "Traffic 7 (2), 205-215, 2006"
+    },
+    {
+        "title": "Dynamics of the cytoskeleton in live cells",
+        "pub_year": "1991",
+        "citation": "Current opinion in cell biology 3 (1), 27-32, 1991"
     },
     {
         "title": "Effects of profilin and profilactin on actin structure and function in living cells",
@@ -320,6 +345,11 @@
         "citation": "The Journal of cell biology 100 (1), 292-296, 1985"
     },
     {
+        "title": "Indirect immunofluorescence microscopy in cultured cells",
+        "pub_year": "1998",
+        "citation": "Methods in cell biology 57, 313-332, 1998"
+    },
+    {
         "title": "Inhibition of chromosomal separation provides insights into cleavage furrow stimulation in cultured epithelial cells",
         "pub_year": "1998",
         "citation": "Molecular biology of the cell 9 (8), 2173-2184, 1998"
@@ -350,14 +380,29 @@
         "citation": "The Journal of cell biology 111 (5), 1905-1911, 1990"
     },
     {
+        "title": "Mechanobiology, tissue development, and tissue engineering",
+        "pub_year": "2020",
+        "citation": "Principles of tissue engineering, 237-256, 2020"
+    },
+    {
         "title": "Microinjection of mRNA into Somatic Cells",
         "pub_year": "2001",
         "citation": "e LS, 2001"
     },
     {
+        "title": "Microinjection of proteins into somatic cells: needle microinjection and scrape loading",
+        "pub_year": "1994",
+        "citation": "Cell Biology, 16-21, 1994"
+    },
+    {
         "title": "Microinjection of the catalytic fragment of myosin light chain kinase into dividing cells: effects on mitosis and cytokinesis.",
         "pub_year": "1991",
         "citation": "The Journal of cell biology 114 (5), 967-975, 1991"
+    },
+    {
+        "title": "Micropatterning cell adhesion on polyacrylamide hydrogels",
+        "pub_year": "2013",
+        "citation": "Cell-Cell Interactions: Methods and Protocols, 147-156, 2013"
     },
     {
         "title": "Microscopic methods for measuring the elasticity of gel substrates for cell culture: microspheres, microindenters, and atomic force microscopy",
@@ -380,6 +425,11 @@
         "citation": "The Journal of cell biology 135 (4), 981-989, 1996"
     },
     {
+        "title": "Migration regulates cellular mechanical states",
+        "pub_year": "2019",
+        "citation": "Molecular biology of the cell 30 (26), 3104-3111, 2019"
+    },
+    {
         "title": "Mobility of cytoplasmic and membrane-associated actin in living cells.",
         "pub_year": "1982",
         "citation": "Proceedings of the National Academy of Sciences 79 (15), 4660-4664, 1982"
@@ -393,6 +443,11 @@
         "title": "Molecular cytochemistry: incorporation of fluorescently labeled actin into living cells.",
         "pub_year": "1978",
         "citation": "Proceedings of the National Academy of Sciences 75 (2), 857-861, 1978"
+    },
+    {
+        "title": "Myosin II-Dependent Traction Forces Regulate Centrosome Positioning.",
+        "pub_year": "2011",
+        "citation": "MOLECULAR BIOLOGY OF THE CELL 22, 2011"
     },
     {
         "title": "Nascent focal adhesions are responsible for the generation of strong propulsive forces in migrating fibroblasts",
@@ -445,6 +500,11 @@
         "citation": "Journal of Histochemistry & Cytochemistry 28 (11), 1198-1206, 1980"
     },
     {
+        "title": "Preparation of a micropatterned rigid-soft composite substrate for probing cellular rigidity sensing",
+        "pub_year": "2014",
+        "citation": "Methods in cell biology 121, 3-15, 2014"
+    },
+    {
         "title": "Probing cell shape regulation with patterned substratum: requirement of myosin II-mediated contractility",
         "pub_year": "2007",
         "citation": "Soft Matter 3 (3), 357-363, 2007"
@@ -480,6 +540,11 @@
         "citation": "The Journal of cell biology 102 (4), 1430-1438, 1986"
     },
     {
+        "title": "Reorganization of α-actinin and vinculin in living cells following ATP depletion and replenishment",
+        "pub_year": "1986",
+        "citation": "Experimental cell research 167 (1), 16-28, 1986"
+    },
+    {
         "title": "Responses of cells to adhesion-mediated signals: a universal mechanism",
         "pub_year": "2011",
         "citation": "Mechanobiology of Cell-Cell and Cell-Matrix Interactions, 1-10, 2011"
@@ -513,6 +578,11 @@
         "title": "Single particle tracking of surface receptor movement during cell division.",
         "pub_year": "1994",
         "citation": "The Journal of cell biology 127 (4), 963-971, 1994"
+    },
+    {
+        "title": "Site‐directed mutagenesis enabled preparation of a functional fluorescent analog of profilin: Biochemical characterization and localization in living cells",
+        "pub_year": "1996",
+        "citation": "Cell motility and the cytoskeleton 34 (4), 313-323, 1996"
     },
     {
         "title": "Stresses at the cell-to-substrate interface during locomotion of fibroblasts",
@@ -578,6 +648,11 @@
         "title": "Tissue cells feel and respond to the stiffness of their substrate",
         "pub_year": "2005",
         "citation": "Science 310 (5751), 1139-1143, 2005"
+    },
+    {
+        "title": "Traction force microscopy by deep learning",
+        "pub_year": "2021",
+        "citation": "Biophysical Journal 120 (15), 3079-3090, 2021"
     },
     {
         "title": "Traction force microscopy of migrating normal and H-ras transformed 3T3 fibroblasts",

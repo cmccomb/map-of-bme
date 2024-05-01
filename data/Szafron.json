@@ -20,6 +20,11 @@
         "citation": "Computer Methods in Applied Mechanics and Engineering 417, 116312, 2023"
     },
     {
+        "title": "Adaptive integration of history variables in constrained mixture models for organ-scale growth and remodeling",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2404.09706, 2024"
+    },
+    {
         "title": "Biocompatible biomedical occlusion device",
         "pub_year": "2020",
         "citation": "US Patent 10,555,737, 2020"
@@ -55,6 +60,11 @@
         "citation": "Tissue Engineering Part A 27 (9-10), 593-603, 2021"
     },
     {
+        "title": "FSGe: A fast and strongly-coupled 3D fluid-solid-growth interaction method",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2404.13523, 2024"
+    },
+    {
         "title": "From Uniaxial Testing of Isolated Layers to a Tri-Layered Arterial Wall: A Novel Constitutive Modelling Framework",
         "pub_year": "2021",
         "citation": "Annals of Biomedical Engineering 49 (9), 2454-2467, 2021"
@@ -63,6 +73,11 @@
         "title": "Hemodynamic performance of tissue-engineered vascular grafts in Fontan patients",
         "pub_year": "2021",
         "citation": "NPJ Regenerative Medicine 6 (1), 38, 2021"
+    },
+    {
+        "title": "Hemodynamics and Wall Mechanics of Vascular Graft Failure",
+        "pub_year": "2024",
+        "citation": "Arteriosclerosis, Thrombosis, and Vascular Biology, 2024"
     },
     {
         "title": "High Shear Stress Reduces ERG Causing Endothelial-Mesenchymal Transition and Pulmonary Arterial Hypertension",
