@@ -1,0 +1,437 @@
+[
+    {
+        "title": "A neural network for online spike classification that improves decoding accuracy",
+        "pub_year": "2020",
+        "citation": "Journal of Neurophysiology 123 (4), 1472-1485, 2020"
+    },
+    {
+        "title": "A probabilistic approach to receptive field mapping in the frontal eye fields",
+        "pub_year": "2016",
+        "citation": "Frontiers in systems neuroscience 10, 25, 2016"
+    },
+    {
+        "title": "A stable population code for attention in prefrontal cortex leads a dynamic attention code in visual cortex",
+        "pub_year": "2021",
+        "citation": "Journal of Neuroscience 41 (44), 9163-9176, 2021"
+    },
+    {
+        "title": "Accounting for network effects in neuronal responses using L1 regularized point process models",
+        "pub_year": "2010",
+        "citation": "Advances in neural information processing systems 23 (2), 1099, 2010"
+    },
+    {
+        "title": "Adaptive stimulus selection for optimizing neural population responses",
+        "pub_year": "2017",
+        "citation": "Advances in neural information processing systems 30, 1396-1406, 2017"
+    },
+    {
+        "title": "Adjusted regularization in latent graphical models: Application to multiple-neuron spike count data",
+        "pub_year": "2018",
+        "citation": "The Annals of Applied Statistics 12 (2), 1068-1095, 2018"
+    },
+    {
+        "title": "Adjusted regularization of cortical covariance",
+        "pub_year": "2018",
+        "citation": "Journal of computational neuroscience 45, 83-101, 2018"
+    },
+    {
+        "title": "Altered functional interactions between neurons in primary visual cortex of macaque monkeys with experimental amblyopia",
+        "pub_year": "2019",
+        "citation": "Journal of neurophysiology 122 (6), 2243-2258, 2019"
+    },
+    {
+        "title": "Automated customization of large-scale spiking network models to neuronal population activity",
+        "pub_year": "2023",
+        "citation": "bioRxiv, 2023"
+    },
+    {
+        "title": "Bridging large-scale neuronal recordings and large-scale network models using dimensionality reduction",
+        "pub_year": "2019",
+        "citation": "Current opinion in neurobiology 55, 40-47, 2019"
+    },
+    {
+        "title": "Bridging neuronal correlations and dimensionality reduction",
+        "pub_year": "2021",
+        "citation": "Neuron 109 (17), 2740-2754. e12, 2021"
+    },
+    {
+        "title": "Cerebrovascular impedance as a function of cerebral perfusion pressure",
+        "pub_year": "2023",
+        "citation": "IEEE Open Journal of Engineering in Medicine and Biology 4, 96-101, 2023"
+    },
+    {
+        "title": "Changes in neurovascular coupling with cerebral perfusion pressure indicate a link to cerebral autoregulation",
+        "pub_year": "2022",
+        "citation": "Journal of Cerebral Blood Flow & Metabolism 42 (7), 1247-1258, 2022"
+    },
+    {
+        "title": "Compact deep neural network models of visual cortex",
+        "pub_year": "2023",
+        "citation": "bioRxiv, 2023"
+    },
+    {
+        "title": "Comparing Acute IOP-Induced Lamina Cribrosa Deformations Premortem and Postmortem",
+        "pub_year": "2022",
+        "citation": "Translational Vision Science & Technology 11 (12), 1-1, 2022"
+    },
+    {
+        "title": "Comparison of recordings from microelectrode arrays and single electrodes in the visual cortex",
+        "pub_year": "2007",
+        "citation": "Journal of Neuroscience 27 (2), 261-264, 2007"
+    },
+    {
+        "title": "Comparison of static and dynamic cerebral autoregulation under anesthesia influence in a controlled animal model",
+        "pub_year": "2021",
+        "citation": "Plos one 16 (1), e0245291, 2021"
+    },
+    {
+        "title": "Comprehensive chronic laminar single-unit, multi-unit, and local field potential recording performance with planar single shank electrode arrays",
+        "pub_year": "2015",
+        "citation": "Journal of neuroscience methods 242, 15-40, 2015"
+    },
+    {
+        "title": "Context cue-dependent saccadic adaptation in rhesus macaques cannot be elicited using color",
+        "pub_year": "2015",
+        "citation": "Journal of neurophysiology 114 (1), 570-584, 2015"
+    },
+    {
+        "title": "Correlations and brain states: from electrophysiology to functional imaging",
+        "pub_year": "2009",
+        "citation": "Current opinion in neurobiology 19 (4), 434-438, 2009"
+    },
+    {
+        "title": "Correlations in V1 are reduced by stimulation outside the receptive field",
+        "pub_year": "2014",
+        "citation": "Journal of Neuroscience 34 (34), 11222-11227, 2014"
+    },
+    {
+        "title": "Deciphering the Neuronal Population Code",
+        "pub_year": "2020",
+        "citation": "Neural Engineering, 519-534, 2020"
+    },
+    {
+        "title": "Distance covariance analysis",
+        "pub_year": "2017",
+        "citation": "Artificial Intelligence and Statistics, 242-251, 2017"
+    },
+    {
+        "title": "Distinct population codes for attention in the absence and presence of visual stimulation",
+        "pub_year": "2018",
+        "citation": "Nature communications 9 (1), 4382, 2018"
+    },
+    {
+        "title": "Distinct sources of variability affect eye movement preparation",
+        "pub_year": "2019",
+        "citation": "Journal of Neuroscience 39 (23), 4511-4526, 2019"
+    },
+    {
+        "title": "Dynamic shifts of visual and saccadic signals in prefrontal cortical regions 8Ar and FEF",
+        "pub_year": "2020",
+        "citation": "Journal of Neurophysiology 124 (6), 1774-1791, 2020"
+    },
+    {
+        "title": "Dynamics of excitatory and inhibitory networks are differentially altered by selective attention",
+        "pub_year": "2016",
+        "citation": "Journal of neurophysiology 116 (4), 1807-1820, 2016"
+    },
+    {
+        "title": "Dynamics of motion signaling by neurons in macaque area MT",
+        "pub_year": "2005",
+        "citation": "Nature neuroscience 8 (2), 220-228, 2005"
+    },
+    {
+        "title": "Dynamics of pattern motion computation",
+        "pub_year": "2010",
+        "citation": "Dynamics of Visual Motion Processing: Neuronal, Behavioral, and …, 2010"
+    },
+    {
+        "title": "Dynamics of response to perceptual pop-out stimuli in macaque V1",
+        "pub_year": "2007",
+        "citation": "Journal of neurophysiology 98 (6), 3436-3449, 2007"
+    },
+    {
+        "title": "Dynamics of suppression in macaque primary visual cortex",
+        "pub_year": "2006",
+        "citation": "Journal of Neuroscience 26 (18), 4826-4834, 2006"
+    },
+    {
+        "title": "Dynamics of visual receptive fields in the macaque frontal eye field",
+        "pub_year": "2015",
+        "citation": "Journal of neurophysiology 114 (6), 3201-3210, 2015"
+    },
+    {
+        "title": "EEG signals index a global signature of arousal embedded in neuronal population recordings",
+        "pub_year": "2022",
+        "citation": "Eneuro 9 (3), 2022"
+    },
+    {
+        "title": "Early steps toward understanding neuronal communication",
+        "pub_year": "2018",
+        "citation": "Current opinion in neurology 31 (1), 59-65, 2018"
+    },
+    {
+        "title": "Erratum: Estimating intracranial pressure using pulsatile cerebral blood flow measured with diffuse correlation spectroscopy: erratum.",
+        "pub_year": "2022",
+        "citation": "Biomedical Optics Express 13 (2), 710-712, 2022"
+    },
+    {
+        "title": "Establishing a statistical link between network oscillations and neural synchrony",
+        "pub_year": "2015",
+        "citation": "PLoS computational biology 11 (10), e1004549, 2015"
+    },
+    {
+        "title": "Estimating intracranial pressure using pulsatile cerebral blood flow measured with diffuse correlation spectroscopy",
+        "pub_year": "2020",
+        "citation": "Biomedical Optics Express 11 (3), 1462-1476, 2020"
+    },
+    {
+        "title": "Estimating intracranial pressure using pulsatile cerebral blood flow measured with diffuse correlation spectroscopy: erratum",
+        "pub_year": "2022",
+        "citation": "Biomedical Optics Express 13 (2), 710-712, 2022"
+    },
+    {
+        "title": "Expectation reshapes V4 neuronal activity and improves perceptual performance",
+        "pub_year": "2023",
+        "citation": "bioRxiv, 2023.08. 27.555026, 2023"
+    },
+    {
+        "title": "False discovery rate regression: an application to neural synchrony detection in primary visual cortex",
+        "pub_year": "2015",
+        "citation": "Journal of the American Statistical Association 110 (510), 459-471, 2015"
+    },
+    {
+        "title": "Fast and Improved SLEX Analysis of High-dimensional Time Series",
+        "pub_year": "2013",
+        "citation": "Machine Learning and Interpretation in Neuroimaging, 94-103, 2013"
+    },
+    {
+        "title": "Fluctuations in intracranial pressure can be estimated non-invasively using near-infrared spectroscopy in non-human primates",
+        "pub_year": "2020",
+        "citation": "Journal of Cerebral Blood Flow & Metabolism 40 (11), 2304-2314, 2020"
+    },
+    {
+        "title": "Formalin fixation and cryosectioning cause only minimal changes in shape or size of ocular tissues",
+        "pub_year": "2017",
+        "citation": "Scientific reports 7 (1), 12065, 2017"
+    },
+    {
+        "title": "Glass pattern responses in macaque V2 neurons",
+        "pub_year": "2007",
+        "citation": "Journal of Vision 7 (3), 5-5, 2007"
+    },
+    {
+        "title": "Glass patterns",
+        "pub_year": "2011",
+        "citation": "Scholarpedia 6 (8), 9594, 2011"
+    },
+    {
+        "title": "Global form detection and pattern response timing in macaque visual cortex",
+        "pub_year": "2003",
+        "citation": "New York University, 2003"
+    },
+    {
+        "title": "Global network influences on local functional connectivity",
+        "pub_year": "2015",
+        "citation": "Nature neuroscience 18 (5), 736-743, 2015"
+    },
+    {
+        "title": "How do stimulus-dependent correlations between V1 neurons affect neural coding?",
+        "pub_year": "2007",
+        "citation": "Neurocomputing 70 (10-12), 1782-1787, 2007"
+    },
+    {
+        "title": "Hue tuning curves in V4 change with visual context",
+        "pub_year": "2022",
+        "citation": "bioRxiv, 780478, 2022"
+    },
+    {
+        "title": "In vivo Modulation of Intraocular and Intracranial Pressures Causes Nonlinear and Non-monotonic Deformations of the Lamina Cribrosa and Scleral Canal",
+        "pub_year": "2023",
+        "citation": "bioRxiv, 2023.01. 29.526113, 2023"
+    },
+    {
+        "title": "In-vivo effects of intraocular and intracranial pressures on the lamina cribrosa microstructure",
+        "pub_year": "2017",
+        "citation": "PloS one 12 (11), e0188302, 2017"
+    },
+    {
+        "title": "Interplay between intraocular and intracranial pressure effects on the optic nerve head in vivo",
+        "pub_year": "2021",
+        "citation": "Experimental Eye Research 213, 108809, 2021"
+    },
+    {
+        "title": "Laminar dependence of neuronal correlations in visual cortex",
+        "pub_year": "2013",
+        "citation": "Journal of neurophysiology 109 (4), 940-947, 2013"
+    },
+    {
+        "title": "Latent Dynamic Factor Analysis of High-Dimensional Neural Recordings.",
+        "pub_year": "2020",
+        "citation": "NeurIPS, 2020"
+    },
+    {
+        "title": "Latent cross-population dynamic time-series analysis of high-dimensional neural recordings",
+        "pub_year": "2021",
+        "citation": "arXiv preprint arXiv:2105.03508, 2021"
+    },
+    {
+        "title": "Local field potentials indicate network state and account for neuronal response variability",
+        "pub_year": "2010",
+        "citation": "Journal of computational neuroscience 29 (3), 567-579, 2010"
+    },
+    {
+        "title": "Mapping in-vivo optic nerve head strains caused by intraocular and intracranial pressures",
+        "pub_year": "2017",
+        "citation": "Optical Elastography and Tissue Biomechanics IV 10067, 6-15, 2017"
+    },
+    {
+        "title": "Method, System, and Computer Program Product for Estimating Intracranial Pressure Using Near-Infrared Spectroscopy",
+        "pub_year": "2023",
+        "citation": "US Patent App. 18/131,393, 2023"
+    },
+    {
+        "title": "Monkey prefrontal neurons during Sternberg task performance: full contents of working memory or most recent item?",
+        "pub_year": "2017",
+        "citation": "Journal of neurophysiology 117 (6), 2269-2281, 2017"
+    },
+    {
+        "title": "Neuronal adaptation: tired neurons or wired networks?",
+        "pub_year": "2017",
+        "citation": "Trends in neurosciences 40 (3), 127-128, 2017"
+    },
+    {
+        "title": "Non-Invasive Spectroscopy for Measuring Cerebral Tissue Oxygenation and Metabolism as a Function of Cerebral Perfusion Pressure",
+        "pub_year": "2022",
+        "citation": "Metabolites 12 (7), 667, 2022"
+    },
+    {
+        "title": "Optical methods for non-invasive assessment of cerebral microvascular flow impedance",
+        "pub_year": "2022",
+        "citation": "Clinical and Translational Neurophotonics 2022, PC1194501, 2022"
+    },
+    {
+        "title": "Population activity structure of excitatory and inhibitory neurons",
+        "pub_year": "2017",
+        "citation": "PloS one 12 (8), e0181773, 2017"
+    },
+    {
+        "title": "Scaling properties of dimensionality reduction for neural populations and network models",
+        "pub_year": "2016",
+        "citation": "PLoS computational biology 12 (12), e1005141, 2016"
+    },
+    {
+        "title": "Seeing the Hidden Lamina: Effects of Exsanguination on the Optic Nerve Head",
+        "pub_year": "2018",
+        "citation": "Investigative ophthalmology & visual science 59 (6), 2564-2575, 2018"
+    },
+    {
+        "title": "Separating spike count correlation from firing rate correlation",
+        "pub_year": "2016",
+        "citation": "Neural computation 28 (5), 849-881, 2016"
+    },
+    {
+        "title": "Sex differences in anterior commissure size in the rat",
+        "pub_year": "1998",
+        "citation": "Brain research bulletin 45 (1), 101-104, 1998"
+    },
+    {
+        "title": "Signals in macaque striate cortical neurons that support the perception of glass patterns",
+        "pub_year": "2002",
+        "citation": "Journal of Neuroscience 22 (18), 8334-8345, 2002"
+    },
+    {
+        "title": "Slow drift of neural activity as a signature of impulsivity in macaque visual and prefrontal cortex",
+        "pub_year": "2020",
+        "citation": "Neuron 108 (3), 551-567. e8, 2020"
+    },
+    {
+        "title": "Spatial and temporal scales of neuronal correlation in primary visual cortex",
+        "pub_year": "2008",
+        "citation": "Journal of Neuroscience 28 (48), 12591-12603, 2008"
+    },
+    {
+        "title": "Spatial and temporal scales of neuronal correlation in visual area V4",
+        "pub_year": "2013",
+        "citation": "Journal of Neuroscience 33 (12), 5422-5432, 2013"
+    },
+    {
+        "title": "Stimulus dependence of neuronal correlation in primary visual cortex of the macaque",
+        "pub_year": "2005",
+        "citation": "Journal of Neuroscience 25 (14), 3661-3673, 2005"
+    },
+    {
+        "title": "Stimulus onset quenches neural variability: a widespread cortical phenomenon",
+        "pub_year": "2010",
+        "citation": "Nature neuroscience 13 (3), 369-378, 2010"
+    },
+    {
+        "title": "Stimulus selectivity and spatial coherence of gamma components of the local field potential",
+        "pub_year": "2011",
+        "citation": "Journal of Neuroscience 31 (25), 9390-9403, 2011"
+    },
+    {
+        "title": "Stimulus-dependent spiking relationships with the EEG",
+        "pub_year": "2015",
+        "citation": "Journal of neurophysiology 114 (3), 1468-1482, 2015"
+    },
+    {
+        "title": "Stimulus-driven population activity patterns in macaque primary visual cortex",
+        "pub_year": "2016",
+        "citation": "PLoS computational biology 12 (12), e1005185, 2016"
+    },
+    {
+        "title": "Surround suppression in the early visual system",
+        "pub_year": "2006",
+        "citation": "Journal of Neuroscience 26 (14), 3624-3625, 2006"
+    },
+    {
+        "title": "The existence of the vomeronasal organ in postnatal chimpanzees and evidence for its homology with that of humans",
+        "pub_year": "2001",
+        "citation": "The Journal of Anatomy 198 (1), 77-82, 2001"
+    },
+    {
+        "title": "The eyes reflect an internal cognitive state hidden in the population activity of cortical neurons",
+        "pub_year": "2022",
+        "citation": "Cerebral Cortex 32 (15), 3331-3346, 2022"
+    },
+    {
+        "title": "The role of correlations in direction and contrast coding in the primary visual cortex",
+        "pub_year": "2007",
+        "citation": "Journal of Neuroscience 27 (9), 2338-2348, 2007"
+    },
+    {
+        "title": "The spatial structure of correlated neuronal variability",
+        "pub_year": "2017",
+        "citation": "Nature neuroscience 20 (1), 107-114, 2017"
+    },
+    {
+        "title": "The timing of response onset and offset in macaque visual neurons",
+        "pub_year": "2002",
+        "citation": "Journal of Neuroscience 22 (8), 3189-3205, 2002"
+    },
+    {
+        "title": "The vomeronasal organ of greater bushbabies (Otolemur spp.): Species, sex, and age differences",
+        "pub_year": "2005",
+        "citation": "Journal of neurocytology 34, 135-147, 2005"
+    },
+    {
+        "title": "Using near-infrared spectroscopy and a random forest regressor to estimate intracranial pressure",
+        "pub_year": "2022",
+        "citation": "Neurophotonics 9 (4), 045001-045001, 2022"
+    },
+    {
+        "title": "Utah array extracellular recordings of spontaneous and visually evoked activity from anesthetized macaque primary visual cortex (V1)",
+        "pub_year": "2016",
+        "citation": "CRCNS. org 10, K0NC5Z4X, 2016"
+    },
+    {
+        "title": "Variance in population firing rate as a measure of slow time-scale correlation",
+        "pub_year": "2013",
+        "citation": "Frontiers in computational neuroscience 7, 176, 2013"
+    },
+    {
+        "title": "What does scalp electroencephalogram coherence tell us about long‐range cortical networks?",
+        "pub_year": "2018",
+        "citation": "European Journal of Neuroscience 48 (7), 2466-2481, 2018"
+    }
+]

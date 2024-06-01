@@ -2,301 +2,421 @@
     {
         "title": "Accessing and Assessing the Cell-Surface Glycocalyx Using DNA Origami",
         "pub_year": "2021",
-        "citation": "Nano letters 21 (11), 4765–4773, 2021"
+        "citation": "Nano letters 21 (11), 4765–4773, 2021",
+        "num_citations": 16,
+        "author_pub_id": "xJrrWmQAAAAJ:IWHjjKOFINEC"
     },
     {
         "title": "Alliance of heart and endoderm: multilineage organoids to model co-development",
         "pub_year": "2023",
-        "citation": "Circulation research 132 (4), 511-518, 2023"
+        "citation": "Circulation research 132 (4), 511-518, 2023",
+        "num_citations": 2,
+        "author_pub_id": "xJrrWmQAAAAJ:M3NEmzRMIkIC"
     },
     {
         "title": "Assessment of proliferation and cytotoxicity in a biomimetic three-dimensional model of lung cancer",
         "pub_year": "2015",
-        "citation": "The Annals of thoracic surgery 100 (2), 414-421, 2015"
+        "citation": "The Annals of thoracic surgery 100 (2), 414-421, 2015",
+        "num_citations": 33,
+        "author_pub_id": "xJrrWmQAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Bioengineering human lung grafts on porcine matrix",
         "pub_year": "2018",
-        "citation": "Annals of surgery 267 (3), 590-598, 2018"
+        "citation": "Annals of surgery 267 (3), 590-598, 2018",
+        "num_citations": 104,
+        "author_pub_id": "xJrrWmQAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Bioengineering lungs for transplantation",
         "pub_year": "2016",
-        "citation": "Thoracic surgery clinics 26 (2), 163-171, 2016"
+        "citation": "Thoracic surgery clinics 26 (2), 163-171, 2016",
+        "num_citations": 51,
+        "author_pub_id": "xJrrWmQAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Bioengineering of functional human induced pluripotent stem cell-derived intestinal grafts",
         "pub_year": "2017",
-        "citation": "Nature communications 8 (1), 765, 2017"
+        "citation": "Nature communications 8 (1), 765, 2017",
+        "num_citations": 113,
+        "author_pub_id": "xJrrWmQAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Bioengineering of the digestive tract: approaching the clinic",
         "pub_year": "2021",
-        "citation": "Cytotherapy 23 (5), 381-389, 2021"
+        "citation": "Cytotherapy 23 (5), 381-389, 2021",
+        "num_citations": 4,
+        "author_pub_id": "xJrrWmQAAAAJ:L8Ckcad2t8MC"
     },
     {
         "title": "Bioengineering the innate vasculature of complex organs: What have we learned so far",
         "pub_year": "2018",
-        "citation": "Current Opinion in Organ Transplantation 23 (6), 657-663, 2018"
+        "citation": "Current Opinion in Organ Transplantation 23 (6), 657-663, 2018",
+        "num_citations": 4,
+        "author_pub_id": "xJrrWmQAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Biofabrication of a vascularized islet organ for type 1 diabetes",
         "pub_year": "2019",
-        "citation": "Biomaterials 199, 40-51, 2019"
+        "citation": "Biomaterials 199, 40-51, 2019",
+        "num_citations": 75,
+        "author_pub_id": "xJrrWmQAAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "Bioorthogonal labeling and chemoselective functionalization of lung extracellular matrix",
         "pub_year": "2021",
-        "citation": "Bio-protocol 11 (4), e3922-e3922, 2021"
+        "citation": "Bio-protocol 11 (4), e3922-e3922, 2021",
+        "num_citations": 5,
+        "author_pub_id": "xJrrWmQAAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "Cell–Surface Binding of DNA Nanostructures for Enhanced Intracellular and Intranuclear Delivery",
         "pub_year": "2024",
-        "citation": "ACS Applied Materials & Interfaces, 2024"
+        "citation": "ACS Applied Materials & Interfaces 16 (13), 15783-15797, 2024",
+        "num_citations": 0,
+        "author_pub_id": "xJrrWmQAAAAJ:NaGl4SEjCO4C"
     },
     {
         "title": "Characterization of two novel small molecules targeting melanocyte development in zebrafish embryogenesis",
         "pub_year": "2012",
-        "citation": "Pigment Cell & Melanoma Research 25 (4), 446-453, 2012"
+        "citation": "Pigment Cell & Melanoma Research 25 (4), 446-453, 2012",
+        "num_citations": 16,
+        "author_pub_id": "xJrrWmQAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Co-differentiation and Co-maturation of Human Cardio-pulmonary Progenitors and Micro-Tissues from Human Induced Pluripotent Stem Cells",
         "pub_year": "2022",
-        "citation": "Bio-protocol 12 (16), e4488-e4488, 2022"
+        "citation": "Bio-protocol 12 (16), e4488-e4488, 2022",
+        "num_citations": 2,
+        "author_pub_id": "xJrrWmQAAAAJ:j3f4tGmQtD8C"
     },
     {
         "title": "Creation of laryngeal grafts from primary human cells and decellularized laryngeal scaffolds",
         "pub_year": "2020",
-        "citation": "Tissue Engineering Part A 26 (9-10), 543-555, 2020"
+        "citation": "Tissue Engineering Part A 26 (9-10), 543-555, 2020",
+        "num_citations": 19,
+        "author_pub_id": "xJrrWmQAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Current challenges and future directions for engineering extracellular vesicles for heart, lung, blood and sleep diseases",
         "pub_year": "2023",
-        "citation": "Journal of extracellular vesicles 12 (2), 12305, 2023"
+        "citation": "Journal of extracellular vesicles 12 (2), 12305, 2023",
+        "num_citations": 36,
+        "author_pub_id": "xJrrWmQAAAAJ:maZDTaKrznsC"
     },
     {
         "title": "De novo lung biofabrication: clinical need, construction methods, and design strategy",
         "pub_year": "2019",
-        "citation": "Translational Research 211, 1-18, 2019"
+        "citation": "Translational Research 211, 1-18, 2019",
+        "num_citations": 9,
+        "author_pub_id": "xJrrWmQAAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "Emerging Applications at the Interface of DNA Nanotechnology and Cellular",
         "pub_year": "2020",
-        "citation": "DNA 13, 2020"
+        "citation": "DNA 13, 2020",
+        "num_citations": 0,
+        "author_pub_id": "xJrrWmQAAAAJ:GnPB-g6toBAC"
     },
     {
         "title": "Emerging applications at the interface of DNA nanotechnology and cellular membranes: Perspectives from biology, engineering, and physics",
         "pub_year": "2020",
-        "citation": "APL bioengineering 4 (4), 2020"
+        "citation": "APL bioengineering 4 (4), 2020",
+        "num_citations": 25,
+        "author_pub_id": "xJrrWmQAAAAJ:Wp0gIr-vW9MC"
     },
     {
         "title": "Engineered composite tissue as a bioartificial limb graft",
         "pub_year": "2015",
-        "citation": "Biomaterials 61, 246-256, 2015"
+        "citation": "Biomaterials 61, 246-256, 2015",
+        "num_citations": 131,
+        "author_pub_id": "xJrrWmQAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Engineering a 3D vascularized adipose tissue construct using a decellularized lung matrix",
         "pub_year": "2021",
-        "citation": "Biomimetics 6 (3), 52, 2021"
+        "citation": "Biomimetics 6 (3), 52, 2021",
+        "num_citations": 7,
+        "author_pub_id": "xJrrWmQAAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "Engineering pro-angiogenic biomaterials via chemoselective extracellular vesicle immobilization",
         "pub_year": "2022",
-        "citation": "Biomaterials 281, 121357, 2022"
+        "citation": "Biomaterials 281, 121357, 2022",
+        "num_citations": 21,
+        "author_pub_id": "xJrrWmQAAAAJ:mB3voiENLucC"
     },
     {
         "title": "Engineering pulmonary vasculature in decellularized rat and human lungs",
         "pub_year": "2015",
-        "citation": "Nature biotechnology 33 (10), 1097-1102, 2015"
+        "citation": "Nature biotechnology 33 (10), 1097-1102, 2015",
+        "num_citations": 244,
+        "author_pub_id": "xJrrWmQAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Engineering rotating apical-out airway organoid for assessing respiratory cilia motility",
         "pub_year": "2022",
-        "citation": "Iscience 25 (8), 2022"
+        "citation": "Iscience 25 (8), 2022",
+        "num_citations": 12,
+        "author_pub_id": "xJrrWmQAAAAJ:R3hNpaxXUhUC"
     },
     {
         "title": "Enhanced lung epithelial specification of human induced pluripotent stem cells on decellularized lung matrix",
         "pub_year": "2014",
-        "citation": "The Annals of thoracic surgery 98 (5), 1721-1729, 2014"
+        "citation": "The Annals of thoracic surgery 98 (5), 1721-1729, 2014",
+        "num_citations": 159,
+        "author_pub_id": "xJrrWmQAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "Ex vivo non-invasive assessment of cell viability and proliferation in bio-engineered whole organ constructs",
         "pub_year": "2015",
-        "citation": "Biomaterials 52, 103-112, 2015"
+        "citation": "Biomaterials 52, 103-112, 2015",
+        "num_citations": 63,
+        "author_pub_id": "xJrrWmQAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "Extracellular Matrix by Design: Native biomaterial fabrication and functionalization to boost tissue regeneration",
         "pub_year": "2022",
-        "citation": "Regenerative Engineering and Translational Medicine 8 (1), 55-74, 2022"
+        "citation": "Regenerative Engineering and Translational Medicine 8 (1), 55-74, 2022",
+        "num_citations": 7,
+        "author_pub_id": "xJrrWmQAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Extracellular matrix dynamics: tracking in biological systems and their implications",
         "pub_year": "2022",
-        "citation": "Journal of Biological Engineering 16 (1), 13, 2022"
+        "citation": "Journal of Biological Engineering 16 (1), 13, 2022",
+        "num_citations": 48,
+        "author_pub_id": "xJrrWmQAAAAJ:RHpTSmoSYBkC"
     },
     {
         "title": "Fibrillin-2 and Tenascin-C bridge the age gap in lung epithelial regeneration",
         "pub_year": "2017",
-        "citation": "Biomaterials 140, 212-219, 2017"
+        "citation": "Biomaterials 140, 212-219, 2017",
+        "num_citations": 58,
+        "author_pub_id": "xJrrWmQAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "Heparanase inhibition preserves the endothelial glycocalyx in lung grafts and improves lung preservation and transplant outcomes",
         "pub_year": "2021",
-        "citation": "Scientific reports 11 (1), 12265, 2021"
+        "citation": "Scientific reports 11 (1), 12265, 2021",
+        "num_citations": 12,
+        "author_pub_id": "xJrrWmQAAAAJ:qUcmZB5y_30C"
     },
     {
         "title": "Interleukin‐1β downregulates the L‐type Ca2+ channel activity by depressing the expression of channel protein in cortical neurons",
         "pub_year": "2006",
-        "citation": "Journal of cellular physiology 206 (3), 799-806, 2006"
+        "citation": "Journal of cellular physiology 206 (3), 799-806, 2006",
+        "num_citations": 22,
+        "author_pub_id": "xJrrWmQAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "Intralipid improves oxygenation after orthotopic rat lung transplantation",
         "pub_year": "2019",
-        "citation": "The Journal of Heart and Lung Transplantation 38 (2), 225-227, 2019"
+        "citation": "The Journal of Heart and Lung Transplantation 38 (2), 225-227, 2019",
+        "num_citations": 2,
+        "author_pub_id": "xJrrWmQAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Lung Progenitor and Stem Cell Transplantation as a Potential Regenerative Therapy for Lung Diseases",
         "pub_year": "2024",
-        "citation": "Transplantation, 10.1097, 2024"
+        "citation": "Transplantation, 10.1097, 2024",
+        "num_citations": 0,
+        "author_pub_id": "xJrrWmQAAAAJ:ns9cj8rnVeAC"
     },
     {
         "title": "Magnify is a universal molecular anchoring strategy for expansion microscopy",
         "pub_year": "2023",
-        "citation": "Nature biotechnology 41 (6), 858-869, 2023"
+        "citation": "Nature biotechnology 41 (6), 858-869, 2023",
+        "num_citations": 44,
+        "author_pub_id": "xJrrWmQAAAAJ:TFP_iSt0sucC"
     },
     {
         "title": "Medicina rigenerativa e trapianto renale: una sinergia vantaggiosa",
         "pub_year": "2023",
-        "citation": "Trapianti 27 (1), 22-26, 2023"
+        "citation": "Trapianti 27 (1), 22-26, 2023",
+        "num_citations": 0,
+        "author_pub_id": "xJrrWmQAAAAJ:NMxIlDl6LWMC"
     },
     {
         "title": "Membrane and glycocalyx tethering of DNA nanostructures for enhanced uptake",
         "pub_year": "2023",
-        "citation": "bioRxiv, 2023.03. 09.529286, 2023"
+        "citation": "bioRxiv, 2023.03. 09.529286, 2023",
+        "num_citations": 1,
+        "author_pub_id": "xJrrWmQAAAAJ:blknAaTinKkC"
     },
     {
         "title": "Metabolic glycan labeling and chemoselective functionalization of native biomaterials",
         "pub_year": "2018",
-        "citation": "Biomaterials 182, 127-134, 2018"
+        "citation": "Biomaterials 182, 127-134, 2018",
+        "num_citations": 21,
+        "author_pub_id": "xJrrWmQAAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "Metabolic labeling and molecular enhancement of biological materials using bioorthogonal reactions",
         "pub_year": "2023",
-        "citation": "US Patent 11,634,448, 2023"
+        "citation": "US Patent 11,634,448, 2023",
+        "num_citations": 2,
+        "author_pub_id": "xJrrWmQAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Metabolic labeling and molecular enhancement of biological materials using bioorthogonal reactions",
         "pub_year": "2023",
-        "citation": "US Patent App. 18/118,909, 2023"
+        "citation": "US Patent App. 18/118,909, 2023",
+        "num_citations": 0,
+        "author_pub_id": "xJrrWmQAAAAJ:O3NaXMp0MMsC"
     },
     {
         "title": "Method for biomaterial functionalization with immobilized extracellular vesicles",
         "pub_year": "2022",
-        "citation": "US Patent App. 17/741,271, 2022"
+        "citation": "US Patent App. 17/741,271, 2022",
+        "num_citations": 0,
+        "author_pub_id": "xJrrWmQAAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "Nanoscale coordination polymers enabling antioxidants inhibition for enhanced chemodynamic therapy",
         "pub_year": "2023",
-        "citation": "Journal of Controlled Release 354, 196-206, 2023"
+        "citation": "Journal of Controlled Release 354, 196-206, 2023",
+        "num_citations": 13,
+        "author_pub_id": "xJrrWmQAAAAJ:isC4tDSrTZIC"
     },
     {
         "title": "Nanoscale imaging of biomolecules using molecule anchorable gel-enabled nanoscale in-situ fluorescence microscopy",
         "pub_year": "2022",
-        "citation": "Microscopy and Microanalysis 28 (S1), 1568-1569, 2022"
+        "citation": "Microscopy and Microanalysis 28 (S1), 1568-1569, 2022",
+        "num_citations": 10,
+        "author_pub_id": "xJrrWmQAAAAJ:-f6ydRqryjwC"
     },
     {
         "title": "Newly synthesized glycoprotein profiling to identify molecular signatures of warm ischemic injury in donor lungs",
         "pub_year": "2023",
-        "citation": "American Journal of Physiology-Lung Cellular and Molecular Physiology 325 (1 …, 2023"
+        "citation": "American Journal of Physiology-Lung Cellular and Molecular Physiology 325 (1 …, 2023",
+        "num_citations": 0,
+        "author_pub_id": "xJrrWmQAAAAJ:YFjsv_pBGBYC"
     },
     {
         "title": "On the road to bioartificial organs",
         "pub_year": "2014",
-        "citation": "Pflügers Archiv-European Journal of Physiology 466, 1847-1857, 2014"
+        "citation": "Pflügers Archiv-European Journal of Physiology 466, 1847-1857, 2014",
+        "num_citations": 27,
+        "author_pub_id": "xJrrWmQAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Perfusion decellularization of human and porcine lungs: bringing the matrix to clinical scale",
         "pub_year": "2014",
-        "citation": "The Journal of heart and lung transplantation 33 (3), 298-308, 2014"
+        "citation": "The Journal of heart and lung transplantation 33 (3), 298-308, 2014",
+        "num_citations": 307,
+        "author_pub_id": "xJrrWmQAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Perfusion decellularization of whole organs",
         "pub_year": "2014",
-        "citation": "Nature protocols 9 (6), 1451-1468, 2014"
+        "citation": "Nature protocols 9 (6), 1451-1468, 2014",
+        "num_citations": 318,
+        "author_pub_id": "xJrrWmQAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "Protocol to engineer apical-out airway organoids using suspension culture of human airway basal stem cell aggregates",
         "pub_year": "2023",
-        "citation": "STAR protocols 4 (2), 102154, 2023"
+        "citation": "STAR protocols 4 (2), 102154, 2023",
+        "num_citations": 5,
+        "author_pub_id": "xJrrWmQAAAAJ:hMod-77fHWUC"
     },
     {
         "title": "Rebuilding the Vascular Network: In vivo and in vitro Approaches",
         "pub_year": "2021",
-        "citation": "Frontiers in Cell and Developmental Biology 9, 639299, 2021"
+        "citation": "Frontiers in Cell and Developmental Biology 9, 639299, 2021",
+        "num_citations": 29,
+        "author_pub_id": "xJrrWmQAAAAJ:7PzlFSSx8tAC"
     },
     {
         "title": "Recapitulating human cardio-pulmonary co-development using simultaneous multilineage differentiation of pluripotent stem cells",
         "pub_year": "2022",
-        "citation": "Elife 11, e67872, 2022"
+        "citation": "Elife 11, e67872, 2022",
+        "num_citations": 24,
+        "author_pub_id": "xJrrWmQAAAAJ:HDshCWvjkbEC"
     },
     {
         "title": "Reconstructing the pulmonary niche with stem cells: a lung story",
         "pub_year": "2022",
-        "citation": "Stem Cell Research & Therapy 13 (1), 161, 2022"
+        "citation": "Stem Cell Research & Therapy 13 (1), 161, 2022",
+        "num_citations": 15,
+        "author_pub_id": "xJrrWmQAAAAJ:_Qo2XoVZTnwC"
     },
     {
         "title": "Regeneration of a functional pulmonary vascular bed",
         "pub_year": "2020",
-        "citation": "US Patent 10,731,135, 2020"
+        "citation": "US Patent 10,731,135, 2020",
+        "num_citations": 0,
+        "author_pub_id": "xJrrWmQAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Regenerative medicine technologies applied to transplant medicine. An update",
         "pub_year": "2022",
-        "citation": "Frontiers in Bioengineering and Biotechnology 10, 1015628, 2022"
+        "citation": "Frontiers in Bioengineering and Biotechnology 10, 1015628, 2022",
+        "num_citations": 10,
+        "author_pub_id": "xJrrWmQAAAAJ:r0BpntZqJG4C"
     },
     {
         "title": "Regenerative potential of human airway stem cells in lung epithelial engineering",
         "pub_year": "2016",
-        "citation": "Biomaterials 108, 111-119, 2016"
+        "citation": "Biomaterials 108, 111-119, 2016",
+        "num_citations": 76,
+        "author_pub_id": "xJrrWmQAAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "Repurposing Decellularized Lung to Generate Vascularized Fat",
         "pub_year": "2024",
-        "citation": "Adipose-Derived Stem Cells: Methods and Protocols, 269-278, 2024"
+        "citation": "Adipose-Derived Stem Cells: Methods and Protocols, 269-278, 2024",
+        "num_citations": 0,
+        "author_pub_id": "xJrrWmQAAAAJ:RGFaLdJalmkC"
     },
     {
         "title": "Scl isoforms act downstream of etsrp to specify angioblasts and definitive hematopoietic stem cells",
         "pub_year": "2010",
-        "citation": "Blood, The Journal of the American Society of Hematology 115 (26), 5338-5346, 2010"
+        "citation": "Blood, The Journal of the American Society of Hematology 115 (26), 5338-5346, 2010",
+        "num_citations": 67,
+        "author_pub_id": "xJrrWmQAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Shape-Complementing, Porosity-Matching Perfusion Bioreactor System for Engineering Geometrically Complex Tissue Grafts",
         "pub_year": "2022",
-        "citation": "US Patent App. 17/478,202, 2022"
+        "citation": "US Patent App. 17/478,202, 2022",
+        "num_citations": 0,
+        "author_pub_id": "xJrrWmQAAAAJ:e5wmG9Sq2KIC"
     },
     {
         "title": "Super‐resolution vibrational imaging using expansion stimulated Raman scattering microscopy",
         "pub_year": "2022",
-        "citation": "Advanced Science 9 (20), 2200315, 2022"
+        "citation": "Advanced Science 9 (20), 2200315, 2022",
+        "num_citations": 35,
+        "author_pub_id": "xJrrWmQAAAAJ:hFOr9nPyWt4C"
     },
     {
         "title": "Synthetic cell armor made of DNA origami",
         "pub_year": "2023",
-        "citation": "Nano Letters 23 (15), 7076-7085, 2023"
+        "citation": "Nano Letters 23 (15), 7076-7085, 2023",
+        "num_citations": 4,
+        "author_pub_id": "xJrrWmQAAAAJ:JV2RwH3_ST0C"
     },
     {
         "title": "The effects of overhang placement and multivalency on cell labeling by DNA origami",
         "pub_year": "2021",
-        "citation": "Nanoscale 13 (14), 6819-6828, 2021"
+        "citation": "Nanoscale 13 (14), 6819-6828, 2021",
+        "num_citations": 16,
+        "author_pub_id": "xJrrWmQAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Understanding and Engineering the Pulmonary Vasculature",
         "pub_year": "2023",
-        "citation": "Engineering Translational Models of Lung Homeostasis and Disease, 247-264, 2023"
+        "citation": "Engineering Translational Models of Lung Homeostasis and Disease, 247-264, 2023",
+        "num_citations": 0,
+        "author_pub_id": "xJrrWmQAAAAJ:BqipwSGYUEgC"
     },
     {
         "title": "Visualization of monoaminergic neurons and neurotoxicity of MPTP in live transgenic zebrafish",
         "pub_year": "2008",
-        "citation": "Developmental biology 314 (1), 84-92, 2008"
+        "citation": "Developmental biology 314 (1), 84-92, 2008",
+        "num_citations": 214,
+        "author_pub_id": "xJrrWmQAAAAJ:u5HHmVD_uO8C"
     }
 ]
