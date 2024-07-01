@@ -10,8 +10,15 @@
         "title": "A review of methods to study hydration effects on cartilage friction",
         "pub_year": "2017",
         "citation": "Tribology-Materials, Surfaces & Interfaces 11 (4), 202-214, 2017",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "XEMsPO8AAAAJ:cFHS6HbyZ2cC"
+    },
+    {
+        "title": "Adhesion–Lubrication Paradox of Articular Cartilage",
+        "pub_year": "2024",
+        "citation": "Langmuir, 2024",
+        "num_citations": 0,
+        "author_pub_id": "XEMsPO8AAAAJ:eJXPG6dFmWUC"
     },
     {
         "title": "An Analytical Model for Cartilage Contact Mechanics",
@@ -24,21 +31,21 @@
         "title": "An analytical model to predict interstitial lubrication of cartilage in migrating contact areas",
         "pub_year": "2014",
         "citation": "Journal of biomechanics 47 (1), 148-153, 2014",
-        "num_citations": 85,
+        "num_citations": 88,
         "author_pub_id": "XEMsPO8AAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Assessing quantitative metrics of transfer film quality as indicators of polymer wear performance",
         "pub_year": "2017",
         "citation": "Wear 380, 78-85, 2017",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "XEMsPO8AAAAJ:zA6iFVUQeVQC"
     },
     {
         "title": "Buoyancy‐driven gradients for biomaterial fabrication and tissue engineering",
         "pub_year": "2019",
         "citation": "Advanced Materials 31 (17), 1900291, 2019",
-        "num_citations": 84,
+        "num_citations": 88,
         "author_pub_id": "XEMsPO8AAAAJ:xtRiw3GOFMkC"
     },
     {
@@ -66,14 +73,14 @@
         "title": "Cellular interactions with hydrogel microfibers synthesized via interfacial tetrazine ligation",
         "pub_year": "2018",
         "citation": "Biomaterials 180, 24-35, 2018",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "XEMsPO8AAAAJ:abG-DnoFyZgC"
     },
     {
         "title": "Core–shell patterning of synthetic hydrogels via interfacial bioorthogonal chemistry for spatial control of stem cell behavior",
         "pub_year": "2018",
         "citation": "Chemical Science 9 (24), 5394-5404, 2018",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "XEMsPO8AAAAJ:_xSYboBqXhAC"
     },
     {
@@ -114,14 +121,14 @@
         "title": "Glycosylated superparamagnetic nanoparticle gradients for osteochondral tissue engineering",
         "pub_year": "2018",
         "citation": "Biomaterials 176, 24-33, 2018",
-        "num_citations": 101,
+        "num_citations": 102,
         "author_pub_id": "XEMsPO8AAAAJ:b0M2c_1WBrUC"
     },
     {
         "title": "How sliding and hydrodynamics contribute to articular cartilage fluid and lubrication recovery",
         "pub_year": "2019",
         "citation": "Tribology Letters 67, 1-10, 2019",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "XEMsPO8AAAAJ:CHSYGLWDkRkC"
     },
     {
@@ -149,7 +156,7 @@
         "title": "Interrelated effects of temperature and environment on wear and tribochemistry of an ultralow wear PTFE composite",
         "pub_year": "2015",
         "citation": "The Journal of Physical Chemistry C 119 (29), 16518-16527, 2015",
-        "num_citations": 85,
+        "num_citations": 86,
         "author_pub_id": "XEMsPO8AAAAJ:pqnbT2bcN3wC"
     },
     {
@@ -163,21 +170,21 @@
         "title": "Investigation of the mechanics, composition, and functional behavior of thick tribofilms formed from silicon-and oxygen-containing hydrogenated amorphous carbon",
         "pub_year": "2019",
         "citation": "Tribology Letters 67, 1-16, 2019",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "XEMsPO8AAAAJ:1sJd4Hv_s6UC"
     },
     {
         "title": "Mapping the spatiotemporal evolution of solute transport in articular cartilage explants reveals how cartilage recovers fluid within the contact area during sliding",
         "pub_year": "2018",
         "citation": "Journal of Biomechanics 71, 271-276, 2018",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "XEMsPO8AAAAJ:yD5IFk8b50cC"
     },
     {
         "title": "Microfibrous scaffolds guide stem cell lumenogenesis and brain organoid engineering",
         "pub_year": "2023",
         "citation": "Advanced Materials 35 (41), 2300305, 2023",
-        "num_citations": 3,
+        "num_citations": 5,
         "author_pub_id": "XEMsPO8AAAAJ:geHnlv5EZngC"
     },
     {
@@ -195,9 +202,9 @@
         "author_pub_id": "XEMsPO8AAAAJ:08ZZubdj9fEC"
     },
     {
-        "title": "New Insights Into Joint Lubrication",
+        "title": "New Insights Into Joint Lubrication.",
         "pub_year": "2016",
-        "citation": "Tribology & Lubrication Technology 72 (5), 26, 2016",
+        "citation": "Tribology & Lubrication Technology 72 (5), 2016",
         "num_citations": 4,
         "author_pub_id": "XEMsPO8AAAAJ:3s1wT3WcHBgC"
     },
@@ -218,14 +225,14 @@
     {
         "title": "Quantifying cartilage contact modulus, tension modulus, and permeability with Hertzian biphasic creep",
         "pub_year": "2016",
-        "citation": "Journal of Tribology 138 (4), 041405, 2016",
-        "num_citations": 49,
+        "citation": "Journal of tribology 138 (4), 041405, 2016",
+        "num_citations": 50,
         "author_pub_id": "XEMsPO8AAAAJ:SeFeTyx0c_EC"
     },
     {
         "title": "Quantifying internal intervertebral disc strains to assess nucleus replacement device designs: a digital volume correlation and ultra-high-resolution MRI study",
         "pub_year": "2023",
-        "citation": "Frontiers in Bioengineering and Biotechnology 11, 2023",
+        "citation": "Frontiers in Bioengineering and Biotechnology 11, 1229388, 2023",
         "num_citations": 1,
         "author_pub_id": "XEMsPO8AAAAJ:8AbLer7MMksC"
     },
@@ -233,7 +240,7 @@
         "title": "Range-of-motion affects cartilage fluid load support: functional implications for prolonged inactivity",
         "pub_year": "2021",
         "citation": "Osteoarthritis and Cartilage 29 (1), 134-142, 2021",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "XEMsPO8AAAAJ:OU6Ihb5iCvQC"
     },
     {
@@ -261,14 +268,14 @@
         "title": "Size-tunable nanoneedle arrays for influencing stem cell morphology, gene expression, and nuclear membrane curvature",
         "pub_year": "2020",
         "citation": "ACS nano 14 (5), 5371-5381, 2020",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "XEMsPO8AAAAJ:UxriW0iASnsC"
     },
     {
         "title": "Sliding enhances fluid and solute transport into buried articular cartilage contacts",
         "pub_year": "2017",
         "citation": "Osteoarthritis and cartilage 25 (12), 2100-2107, 2017",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "XEMsPO8AAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -282,7 +289,7 @@
         "title": "The modes and competing rates of cartilage fluid loss and recovery",
         "pub_year": "2022",
         "citation": "Acta Biomaterialia 138, 390-397, 2022",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "XEMsPO8AAAAJ:u9iWguZQMMsC"
     },
     {
@@ -296,21 +303,21 @@
         "title": "Translating musculoskeletal bioengineering into tissue regeneration therapies",
         "pub_year": "2022",
         "citation": "Science translational medicine 14 (666), eabn9074, 2022",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "XEMsPO8AAAAJ:tS2w5q8j5-wC"
     },
     {
         "title": "Tribological and material properties for cartilage of and throughout the bovine stifle: support for the altered joint kinematics hypothesis of osteoarthritis",
         "pub_year": "2015",
         "citation": "Osteoarthritis and cartilage 23 (1), 161-169, 2015",
-        "num_citations": 79,
+        "num_citations": 78,
         "author_pub_id": "XEMsPO8AAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Tribological rehydration of cartilage and its potential role in preserving joint health",
         "pub_year": "2017",
         "citation": "Osteoarthritis and cartilage 25 (1), 99-107, 2017",
-        "num_citations": 120,
+        "num_citations": 122,
         "author_pub_id": "XEMsPO8AAAAJ:rO6llkc54NcC"
     },
     {

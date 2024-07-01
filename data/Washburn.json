@@ -38,14 +38,14 @@
         "title": "A universal route towards thermoplastic lignin composites with improved mechanical properties",
         "pub_year": "2014",
         "citation": "Polymer 55 (4), 995-1003, 2014",
-        "num_citations": 180,
+        "num_citations": 181,
         "author_pub_id": "ctYLFRIAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "Adsorption kinetics, thermodynamics, and isotherm studies for functionalized lanthanide-chelating resins",
         "pub_year": "2019",
         "citation": "Journal of colloid and interface science 557, 465-477, 2019",
-        "num_citations": 34,
+        "num_citations": 36,
         "author_pub_id": "ctYLFRIAAAAJ:AvfA0Oy_GE0C"
     },
     {
@@ -94,14 +94,14 @@
         "title": "Biocompatibility of sorbitol-containing polyesters. Part I: Synthesis, surface analysis and cell response in vitro",
         "pub_year": "2004",
         "citation": "Biomaterials 25 (18), 4195-4201, 2004",
-        "num_citations": 31,
+        "num_citations": 30,
         "author_pub_id": "ctYLFRIAAAAJ:M3ejUd6NZC8C"
     },
     {
         "title": "Biocompatibility of sorbitol-containing polyesters: Synthesis, surface analysis, and cell response in vitro",
         "pub_year": "2005",
         "citation": "",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "ctYLFRIAAAAJ:NMxIlDl6LWMC"
     },
     {
@@ -198,7 +198,7 @@
         "title": "Chemistry of lignin-based materials",
         "pub_year": "2013",
         "citation": "Green materials 1 (3), 137-160, 2013",
-        "num_citations": 200,
+        "num_citations": 203,
         "author_pub_id": "ctYLFRIAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -225,7 +225,7 @@
         "title": "Collinear optical coherence and confocal fluorescence microscopies for tissue engineering",
         "pub_year": "2003",
         "citation": "Optics Express 11 (23), 3074-3079, 2003",
-        "num_citations": 63,
+        "num_citations": 62,
         "author_pub_id": "ctYLFRIAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -281,7 +281,7 @@
         "title": "Combinatorial screen of the effect of surface energy on fibronectin-mediated osteoblast adhesion, spreading and proliferation",
         "pub_year": "2006",
         "citation": "Biomaterials 27 (20), 3817-3824, 2006",
-        "num_citations": 298,
+        "num_citations": 301,
         "author_pub_id": "ctYLFRIAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -330,7 +330,7 @@
         "title": "Co‐extrusion of biocompatible polymers for scaffolds with co‐continuous morphology",
         "pub_year": "2002",
         "citation": "Journal of biomedical materials research 60 (1), 20-29, 2002",
-        "num_citations": 146,
+        "num_citations": 148,
         "author_pub_id": "ctYLFRIAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -351,7 +351,7 @@
         "title": "Cytotoxicity of three-dimensionally ordered macroporous sol–gel bioactive glass (3DOM-BG)",
         "pub_year": "2005",
         "citation": "Biomaterials 26 (22), 4532-4539, 2005",
-        "num_citations": 57,
+        "num_citations": 56,
         "author_pub_id": "ctYLFRIAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -393,7 +393,7 @@
         "title": "Development of biodegradable polymer scaffolds using co-extrusion",
         "pub_year": "2000",
         "citation": "MRS Online Proceedings Library (OPL) 662, LL1. 6, 2000",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "ctYLFRIAAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -402,6 +402,13 @@
         "citation": "WOUND REPAIR AND REGENERATION 16 (2), A16-A16, 2008",
         "num_citations": 0,
         "author_pub_id": "ctYLFRIAAAAJ:OU6Ihb5iCvQC"
+    },
+    {
+        "title": "Diffusion Models in  Drug Design",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2406.08511, 2024",
+        "num_citations": 0,
+        "author_pub_id": "ctYLFRIAAAAJ:i2xiXl-TujoC"
     },
     {
         "title": "Effect of Nanoscale Surface Roughness of Polymeric Biomaterials on Cell Function",
@@ -421,7 +428,7 @@
         "title": "Effects of ligand chemistry and geometry on rare earth element partitioning from saline solutions to functionalized adsorbents",
         "pub_year": "2016",
         "citation": "ACS Sustainable Chemistry & Engineering 4 (11), 6115-6124, 2016",
-        "num_citations": 32,
+        "num_citations": 30,
         "author_pub_id": "ctYLFRIAAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -435,7 +442,7 @@
         "title": "Electrocatalytic oxygen evolution with an immobilized TAML activator",
         "pub_year": "2014",
         "citation": "Journal of the American Chemical Society 136 (15), 5603-5606, 2014",
-        "num_citations": 83,
+        "num_citations": 86,
         "author_pub_id": "ctYLFRIAAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -449,14 +456,14 @@
         "title": "Elucidating the physicochemical basis of the glass transition temperature in linear polyurethane elastomers with machine learning",
         "pub_year": "2020",
         "citation": "The Journal of Physical Chemistry B 124 (43), 9722-9733, 2020",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "ctYLFRIAAAAJ:EYYDruWGBe4C"
     },
     {
         "title": "Embedding domain knowledge for machine learning of complex material systems",
         "pub_year": "2019",
         "citation": "MRS Communications 9 (3), 806-820, 2019",
-        "num_citations": 64,
+        "num_citations": 66,
         "author_pub_id": "ctYLFRIAAAAJ:vDijr-p_gm4C"
     },
     {
@@ -470,7 +477,7 @@
         "title": "End-group effects on the properties of PEG-co-PGA hydrogels",
         "pub_year": "2009",
         "citation": "Acta biomaterialia 5 (6), 1872-1883, 2009",
-        "num_citations": 60,
+        "num_citations": 61,
         "author_pub_id": "ctYLFRIAAAAJ:8k81kl-MbHgC"
     },
     {
@@ -484,21 +491,21 @@
         "title": "Enhanced adhesion of dopamine methacrylamide elastomers via viscoelasticity tuning",
         "pub_year": "2011",
         "citation": "Biomacromolecules 12 (2), 342-347, 2011",
-        "num_citations": 117,
+        "num_citations": 116,
         "author_pub_id": "ctYLFRIAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Enhanced reversible adhesion of dopamine methacrylamide-coated elastomer microfibrillar structures under wet conditions",
         "pub_year": "2009",
         "citation": "Langmuir 25 (12), 6607-6612, 2009",
-        "num_citations": 240,
+        "num_citations": 244,
         "author_pub_id": "ctYLFRIAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Enhanced wet adhesion and shear of elastomeric micro-fiber arrays with mushroom tip geometry and a photopolymerized p (DMA-co-MEA) tip coating",
         "pub_year": "2010",
         "citation": "Langmuir 26 (22), 17357-17362, 2010",
-        "num_citations": 93,
+        "num_citations": 95,
         "author_pub_id": "ctYLFRIAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -518,14 +525,14 @@
         "title": "Eutectic ionic liquid mixtures and their effect on CO 2 solubility and conductivity",
         "pub_year": "2015",
         "citation": "RSC Advances 5 (63), 51407-51412, 2015",
-        "num_citations": 23,
+        "num_citations": 22,
         "author_pub_id": "ctYLFRIAAAAJ:JV2RwH3_ST0C"
     },
     {
         "title": "Extraction and types of lignin",
         "pub_year": "2016",
         "citation": "Lignin in polymer composites 10, 13-25, 2016",
-        "num_citations": 69,
+        "num_citations": 72,
         "author_pub_id": "ctYLFRIAAAAJ:b1wdh0AR-JQC"
     },
     {
@@ -607,7 +614,7 @@
         "title": "Hierarchical machine learning model for mechanical property predictions of polyurethane elastomers from small datasets",
         "pub_year": "2019",
         "citation": "Frontiers in Materials 6, 87, 2019",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "ctYLFRIAAAAJ:ipzZ9siozwsC"
     },
     {
@@ -635,7 +642,7 @@
         "title": "High-throughput investigation of osteoblast response to polymer crystallinity: influence of nanometer-scale roughness on proliferation",
         "pub_year": "2004",
         "citation": "Biomaterials 25 (7-8), 1215-1224, 2004",
-        "num_citations": 395,
+        "num_citations": 393,
         "author_pub_id": "ctYLFRIAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -656,7 +663,7 @@
         "title": "Improved lignin polyurethane properties with lewis acid treatment",
         "pub_year": "2012",
         "citation": "ACS applied materials & interfaces 4 (6), 2840-2846, 2012",
-        "num_citations": 231,
+        "num_citations": 234,
         "author_pub_id": "ctYLFRIAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -670,7 +677,7 @@
         "title": "In situ formation of blends by photopolymerization of poly (ethylene glycol) dimethacrylate and polylactide",
         "pub_year": "2005",
         "citation": "Biomacromolecules 6 (3), 1615-1622, 2005",
-        "num_citations": 30,
+        "num_citations": 29,
         "author_pub_id": "ctYLFRIAAAAJ:_kc_bZDykSQC"
     },
     {
@@ -698,14 +705,14 @@
         "title": "Influence of cross‐linker chemistry on release kinetics of PEG‐co‐PGA hydrogels",
         "pub_year": "2009",
         "citation": "Journal of Biomedical Materials Research Part A: An Official Journal of The …, 2009",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "ctYLFRIAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Influence of the degree of methacrylation on hyaluronic acid hydrogels properties",
         "pub_year": "2008",
         "citation": "Biomaterials 29 (12), 1739-1749, 2008",
-        "num_citations": 334,
+        "num_citations": 336,
         "author_pub_id": "ctYLFRIAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -726,7 +733,7 @@
         "title": "Interphase effects in dental nanocomposites investigated by small‐angle neutron scattering",
         "pub_year": "2007",
         "citation": "Journal of Biomedical Materials Research Part A 81 (1), 113-123, 2007",
-        "num_citations": 57,
+        "num_citations": 56,
         "author_pub_id": "ctYLFRIAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -761,7 +768,7 @@
         "title": "Lignin-Based Graft Copolymers via ATRP and Click Chemistry",
         "pub_year": "2013",
         "citation": "Green Polymer Chemistry: Biocatalysis and Materials II, 373-391, 2013",
-        "num_citations": 24,
+        "num_citations": 26,
         "author_pub_id": "ctYLFRIAAAAJ:mB3voiENLucC"
     },
     {
@@ -843,7 +850,7 @@
         "title": "Material model measurements and predictions for a random pore poly (ϵ‐caprolactone) scaffold",
         "pub_year": "2007",
         "citation": "Journal of Biomedical Materials Research Part B: Applied Biomaterials 82 (1 …, 2007",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "ctYLFRIAAAAJ:HDshCWvjkbEC"
     },
     {
@@ -871,7 +878,7 @@
         "title": "Molecular architecture requirements for polymer-grafted lignin superplasticizers",
         "pub_year": "2015",
         "citation": "Soft Matter 11 (13), 2691-2699, 2015",
-        "num_citations": 38,
+        "num_citations": 37,
         "author_pub_id": "ctYLFRIAAAAJ:hFOr9nPyWt4C"
     },
     {
@@ -912,7 +919,7 @@
         "title": "Nanostructured hybrid hydrogels prepared by a combination of atom transfer radical polymerization and free radical polymerization",
         "pub_year": "2009",
         "citation": "Biomaterials 30 (29), 5270-5278, 2009",
-        "num_citations": 164,
+        "num_citations": 163,
         "author_pub_id": "ctYLFRIAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -925,7 +932,7 @@
     {
         "title": "Non-fouling hyaluronic acid coatings for improved sandwich ELISA measurements in plasma",
         "pub_year": "2016",
-        "citation": "Analytical methods 8 (6), 1222-1228, 2016",
+        "citation": "Analytical Methods 8 (6), 1222-1228, 2016",
         "num_citations": 1,
         "author_pub_id": "ctYLFRIAAAAJ:tOudhMTPpwUC"
     },
@@ -947,7 +954,7 @@
         "title": "Optimization of silicone 3D printing with hierarchical machine learning",
         "pub_year": "2019",
         "citation": "3D Printing and Additive Manufacturing 6 (4), 181-189, 2019",
-        "num_citations": 85,
+        "num_citations": 87,
         "author_pub_id": "ctYLFRIAAAAJ:zLWjf1WUPmwC"
     },
     {
@@ -1042,18 +1049,18 @@
         "author_pub_id": "ctYLFRIAAAAJ:9ZlFYXVOiuMC"
     },
     {
-        "title": "Predicting Young’s modulus of linear polyurethane and polyurethane–polyurea elastomers: Bridging length scales with physicochemical modeling and machine learning",
+        "title": "Predicting the rheology of limestone calcined clay cements (LC3): Linking composition and hydration kinetics to yield stress through Machine Learning",
+        "pub_year": "2022",
+        "citation": "Cement and Concrete Research 160, 106925, 2022",
+        "num_citations": 26,
+        "author_pub_id": "ctYLFRIAAAAJ:VaXvl8Fpj5cC"
+    },
+    {
+        "title": "Predicting young’s modulus of linear polyurethane and polyurethane–polyurea elastomers: bridging length scales with physicochemical modeling and machine learning",
         "pub_year": "2022",
         "citation": "ACS Applied Materials & Interfaces 14 (14), 16568-16581, 2022",
         "num_citations": 18,
         "author_pub_id": "ctYLFRIAAAAJ:kuK5TVdYjLIC"
-    },
-    {
-        "title": "Predicting the rheology of limestone calcined clay cements (LC3): Linking composition and hydration kinetics to yield stress through Machine Learning",
-        "pub_year": "2022",
-        "citation": "Cement and Concrete Research 160, 106925, 2022",
-        "num_citations": 22,
-        "author_pub_id": "ctYLFRIAAAAJ:VaXvl8Fpj5cC"
     },
     {
         "title": "Prediction of heat of hydration of cementitious systems using Gaussian process regression enables mass concrete thermal modeling",
@@ -1129,7 +1136,7 @@
         "title": "Reduction of burn progression with topical delivery of (antitumor necrosis factor‐α)‐hyaluronic acid conjugates",
         "pub_year": "2012",
         "citation": "Wound Repair and Regeneration 20 (4), 563-572, 2012",
-        "num_citations": 61,
+        "num_citations": 62,
         "author_pub_id": "ctYLFRIAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -1163,7 +1170,7 @@
     {
         "title": "Selective adsorption of rare earth elements onto functionalized silica particles",
         "pub_year": "2018",
-        "citation": "Green chemistry 20 (7), 1515-1526, 2018",
+        "citation": "Green Chemistry 20 (7), 1515-1526, 2018",
         "num_citations": 100,
         "author_pub_id": "ctYLFRIAAAAJ:dQ2og3OwTAUC"
     },
@@ -1185,7 +1192,7 @@
         "title": "Structure and mechanical properties of poly (D, L-lactic acid)/poly (ε-caprolactone) blends",
         "pub_year": "2003",
         "citation": "Biomaterials 24 (23), 4181-4190, 2003",
-        "num_citations": 477,
+        "num_citations": 473,
         "author_pub_id": "ctYLFRIAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -1199,7 +1206,7 @@
         "title": "Structure− property relationships of photopolymerizable poly (ethylene glycol) dimethacrylate hydrogels",
         "pub_year": "2005",
         "citation": "Macromolecules 38 (7), 2897-2902, 2005",
-        "num_citations": 197,
+        "num_citations": 199,
         "author_pub_id": "ctYLFRIAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -1232,7 +1239,7 @@
         "title": "Synthesis and characterization of PEG dimethacrylates and their hydrogels",
         "pub_year": "2004",
         "citation": "Biomacromolecules 5 (4), 1280-1287, 2004",
-        "num_citations": 345,
+        "num_citations": 346,
         "author_pub_id": "ctYLFRIAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -1253,7 +1260,7 @@
         "title": "Synthesis by AGET ATRP of degradable nanogel precursors for in situ formation of nanostructured hyaluronic acid hydrogel",
         "pub_year": "2009",
         "citation": "Biomacromolecules 10 (9), 2499-2507, 2009",
-        "num_citations": 111,
+        "num_citations": 113,
         "author_pub_id": "ctYLFRIAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -1294,14 +1301,14 @@
         "title": "The geometric evolution of aortic dissections: Predicting surgical success using fluctuations in integrated Gaussian curvature",
         "pub_year": "2024",
         "citation": "PLOS Computational Biology 20 (2), e1011815, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "ctYLFRIAAAAJ:M7yex6snE4oC"
     },
     {
         "title": "The grateful dead: damage‐associated molecular pattern molecules and reduction/oxidation regulate immunity",
         "pub_year": "2007",
         "citation": "Immunological reviews 220 (1), 60-81, 2007",
-        "num_citations": 787,
+        "num_citations": 784,
         "author_pub_id": "ctYLFRIAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -1371,7 +1378,7 @@
         "title": "Tuning cell adhesion on gradient poly (2-hydroxyethyl methacrylate)-grafted surfaces",
         "pub_year": "2005",
         "citation": "Langmuir 21 (26), 12309-12314, 2005",
-        "num_citations": 169,
+        "num_citations": 168,
         "author_pub_id": "ctYLFRIAAAAJ:IjCSPb-OGe4C"
     },
     {

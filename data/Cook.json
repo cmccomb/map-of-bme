@@ -1,5 +1,12 @@
 [
     {
+        "title": "(383) Five-Day Respiratory Support with Novel Ambulatory Pulmonary Assist System in an Awake Ovine Model",
+        "pub_year": "2023",
+        "citation": "The Journal of Heart and Lung Transplantation 42 (4), S181, 2023",
+        "num_citations": 0,
+        "author_pub_id": "sAdoeA8AAAAJ:5awf1xo2G04C"
+    },
+    {
         "title": "2-hydroxy-5-nitrobenzyl as a diazeniumdiolate protecting group: application in NO-releasing polymers with enhanced biocompatibility",
         "pub_year": "2008",
         "citation": "Organic Letters 10 (20), 4593-4596, 2008",
@@ -51,14 +58,14 @@
         "title": "A fibrin enhanced thrombosis model for medical devices operating at low shear regimes or large surface areas",
         "pub_year": "2022",
         "citation": "PLOS Computational Biology 18 (10), e1010277, 2022",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "sAdoeA8AAAAJ:tkaPQYYpVKoC"
     },
     {
         "title": "A large animal model for pulmonary hypertension and right ventricular failure: left pulmonary artery ligation and progressive main pulmonary artery banding in sheep",
         "pub_year": "2021",
         "citation": "JoVE (Journal of Visualized Experiments), e62694, 2021",
-        "num_citations": 14,
+        "num_citations": 13,
         "author_pub_id": "sAdoeA8AAAAJ:t6usbXjVLHcC"
     },
     {
@@ -79,7 +86,7 @@
         "title": "A polymethylpentene fiber gas exchanger for long-term extracorporeal life support",
         "pub_year": "2005",
         "citation": "ASAIO journal 51 (2), 48A, 2005",
-        "num_citations": 115,
+        "num_citations": 114,
         "author_pub_id": "sAdoeA8AAAAJ:qjMakFHDy7sC"
     },
     {
@@ -104,17 +111,10 @@
         "author_pub_id": "sAdoeA8AAAAJ:hMod-77fHWUC"
     },
     {
-        "title": "AN EXPERIMENTAL AND THEORETICAL STUDY ON THE EFFECTS OF BLOOD FLOW PULSATILITY ON OXYGEN TRANSFER IN ARTIFICIAL LUNGS",
-        "pub_year": "2003",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "sAdoeA8AAAAJ:RHpTSmoSYBkC"
-    },
-    {
         "title": "Achieving one‐step surface coating of highly hydrophilic poly (carboxybetaine methacrylate) polymers on hydrophobic and hydrophilic surfaces",
         "pub_year": "2014",
-        "citation": "Advanced materials interfaces 1 (6), 1400071, 2014",
-        "num_citations": 99,
+        "citation": "Advanced Materials Interfaces 1 (6), 1400071, 2014",
+        "num_citations": 103,
         "author_pub_id": "sAdoeA8AAAAJ:yD5IFk8b50cC"
     },
     {
@@ -219,7 +219,7 @@
         "title": "Cardiac output during high afterload artificial lung attachment",
         "pub_year": "2009",
         "citation": "ASAIO Journal 55 (1), 73-77, 2009",
-        "num_citations": 14,
+        "num_citations": 13,
         "author_pub_id": "sAdoeA8AAAAJ:roLk4NBRz8UC"
     },
     {
@@ -233,7 +233,7 @@
         "title": "Combination of polycarboxybetaine coating and factor XII inhibitor reduces clot formation while preserving normal tissue coagulation during extracorporeal life support",
         "pub_year": "2021",
         "citation": "Biomaterials 272, 120778, 2021",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "sAdoeA8AAAAJ:5ugPr518TE4C"
     },
     {
@@ -254,14 +254,14 @@
         "title": "Computer‐assisted design of an implantable, intrathoracic artificial lung",
         "pub_year": "1994",
         "citation": "Artificial Organs 18 (11), 813-817, 1994",
-        "num_citations": 44,
+        "num_citations": 43,
         "author_pub_id": "sAdoeA8AAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "Cyclic peptide FXII inhibitor provides safe anticoagulation in a thrombosis model and in artificial lungs",
         "pub_year": "2020",
         "citation": "Nature communications 11 (1), 3890, 2020",
-        "num_citations": 60,
+        "num_citations": 61,
         "author_pub_id": "sAdoeA8AAAAJ:1qzjygNMrQYC"
     },
     {
@@ -303,7 +303,7 @@
         "title": "Design and evaluation of a new, low pressure loss, implantable artificial lung",
         "pub_year": "1994",
         "citation": "ASAIO journal 40 (3), M522-M526, 1994",
-        "num_citations": 37,
+        "num_citations": 36,
         "author_pub_id": "sAdoeA8AAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -344,7 +344,7 @@
         "title": "Development of an implantable artificial lung: challenges and progress",
         "pub_year": "2001",
         "citation": "ASAIO journal 47 (4), 316-320, 2001",
-        "num_citations": 88,
+        "num_citations": 87,
         "author_pub_id": "sAdoeA8AAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -379,7 +379,7 @@
         "title": "Effect of artificial lung compliance on in vivo pulmonary system hemodynamics",
         "pub_year": "2006",
         "citation": "ASAIO journal 52 (3), 248-256, 2006",
-        "num_citations": 20,
+        "num_citations": 19,
         "author_pub_id": "sAdoeA8AAAAJ:WF5omc3nYNoC"
     },
     {
@@ -458,6 +458,13 @@
         "author_pub_id": "sAdoeA8AAAAJ:tS2w5q8j5-wC"
     },
     {
+        "title": "Experimental and theoretical study on the effects of blood flow pulsatility on oxygen transfer in artificial lungs, An",
+        "pub_year": "2003",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "sAdoeA8AAAAJ:RHpTSmoSYBkC"
+    },
+    {
         "title": "Extracorporeal artificial organs and therapeutic devices",
         "pub_year": "2020",
         "citation": "Biomaterials Science, 1051-1077, 2020",
@@ -491,13 +498,6 @@
         "citation": "ASAIO Journal 69 (6), 527-532, 2023",
         "num_citations": 1,
         "author_pub_id": "sAdoeA8AAAAJ:Mojj43d5GZwC"
-    },
-    {
-        "title": "Five-Day Respiratory Support with Novel Ambulatory Pulmonary Assist System in an Awake Ovine Model",
-        "pub_year": "2023",
-        "citation": "The Journal of Heart and Lung Transplantation 42 (4), S181, 2023",
-        "num_citations": 0,
-        "author_pub_id": "sAdoeA8AAAAJ:5awf1xo2G04C"
     },
     {
         "title": "Fourteen day in vivo testing of a compliant thoracic artificial lung",
@@ -565,7 +565,7 @@
         "title": "Hemodynamic and gas transfer properties of a compliant thoracic artificial lung",
         "pub_year": "2005",
         "citation": "ASAIO journal 51 (4), 404-411, 2005",
-        "num_citations": 56,
+        "num_citations": 55,
         "author_pub_id": "sAdoeA8AAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -621,7 +621,7 @@
         "title": "In vivo hemodynamic responses to thoracic artificial lung attachment",
         "pub_year": "2005",
         "citation": "ASAIO journal 51 (4), 412-425, 2005",
-        "num_citations": 22,
+        "num_citations": 21,
         "author_pub_id": "sAdoeA8AAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -656,7 +656,7 @@
         "title": "Inhaled prostacyclin following surgical repair of congenital heart disease—a pilot study",
         "pub_year": "2005",
         "citation": "Journal of cardiac surgery 20 (5), 436-439, 2005",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "sAdoeA8AAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -719,7 +719,7 @@
         "title": "Multimodal, biomaterial‐focused anticoagulation via superlow fouling zwitterionic functional groups coupled with anti‐platelet nitric oxide release",
         "pub_year": "2016",
         "citation": "Advanced Materials Interfaces 3 (6), 1500646, 2016",
-        "num_citations": 42,
+        "num_citations": 41,
         "author_pub_id": "sAdoeA8AAAAJ:abG-DnoFyZgC"
     },
     {
@@ -891,7 +891,7 @@
         "title": "Right ventricular myocardial energetic model for evaluating right heart function in pulmonary arterial hypertension",
         "pub_year": "2022",
         "citation": "Physiological reports 10 (10), e15136, 2022",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "sAdoeA8AAAAJ:Y5dfb0dijaUC"
     },
     {
@@ -900,6 +900,12 @@
         "citation": "The Annals of thoracic surgery 84 (3), 988-994, 2007",
         "num_citations": 36,
         "author_pub_id": "sAdoeA8AAAAJ:zYLM7Y9cAGgC"
+    },
+    {
+        "title": "Supporting Information for: 2-Hydroxy-5-nitrobenzyl as a Diazeniumdiolate Protecting Group: Application in NO-Releasing Polymers with Enhanced Biocompatibility",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "sAdoeA8AAAAJ:W5xh706n7nkC"
     },
     {
         "title": "System and Method for Operating a Ventilator",
@@ -937,10 +943,10 @@
         "author_pub_id": "sAdoeA8AAAAJ:P5F9QuxV20EC"
     },
     {
-        "title": "The effect of pulmonary circulation hemodynamics on right ventricular unloading via the bidirectional Glenn shunt: Implications for congenitally corrected transposition repair",
+        "title": "The effect of pulmonary circulation hemodynamics on right ventricular unloading via the bidirectional Glenn shunt: implications for congenitally corrected transposition repair",
         "pub_year": "2003",
         "citation": "Seminars in Thoracic and Cardiovascular Surgery: Pediatric Cardiac Surgery …, 2003",
-        "num_citations": 13,
+        "num_citations": 12,
         "author_pub_id": "sAdoeA8AAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -968,7 +974,7 @@
         "title": "The relationships between air exposure, negative pressure, and hemolysis",
         "pub_year": "2009",
         "citation": "ASAIO Journal 55 (5), 469-473, 2009",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "sAdoeA8AAAAJ:hFOr9nPyWt4C"
     },
     {
@@ -996,7 +1002,7 @@
         "title": "Therapeutic ultrasound triggered silk fibroin scaffold degradation",
         "pub_year": "2021",
         "citation": "Advanced Healthcare Materials 10 (10), 2100048, 2021",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "sAdoeA8AAAAJ:bnK-pcrLprsC"
     },
     {
@@ -1051,7 +1057,7 @@
         "title": "Total liquid ventilation provides superior respiratory support to conventional mechanical ventilation in a large animal model of severe respiratory failure",
         "pub_year": "2011",
         "citation": "ASAIO Journal 57 (1), 1-8, 2011",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "sAdoeA8AAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -1092,8 +1098,8 @@
     {
         "title": "Zwitterionic Polysulfobetaine Coating and Antiplatelet Liposomes Reduce Fouling in Artificial Lung Circuits",
         "pub_year": "2023",
-        "citation": "Macromolecular Bioscience 23 (4), 2200479, 2023",
-        "num_citations": 2,
+        "citation": "Macromolecular bioscience 23 (4), 2200479, 2023",
+        "num_citations": 3,
         "author_pub_id": "sAdoeA8AAAAJ:eq2jaN3J8jMC"
     },
     {
