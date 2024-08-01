@@ -15,8 +15,8 @@
     },
     {
         "title": "A hematoma detector—a practical application of instrumental motion as signal in near infra-red imaging",
-        "pub_year": "2012",
-        "citation": "Biomedical optics express 3 (1), 192-205, 2012",
+        "pub_year": "2011",
+        "citation": "Biomedical optics express 3 (1), 192-205, 2011",
         "num_citations": 19,
         "author_pub_id": "QsY8HmEAAAAJ:ufrVoPGSRksC"
     },
@@ -199,7 +199,7 @@
         "title": "Clinical translation of noninvasive intracranial pressure sensing with diffuse correlation spectroscopy",
         "pub_year": "2022",
         "citation": "Journal of Neurosurgery 139 (1), 184-193, 2022",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "QsY8HmEAAAAJ:u9iWguZQMMsC"
     },
     {
@@ -297,7 +297,7 @@
         "title": "Diffuse optical tomography spatial prior for EEG source localization in human visual cortex",
         "pub_year": "2023",
         "citation": "NeuroImage 277, 120210, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "QsY8HmEAAAAJ:HE397vMXCloC"
     },
     {
@@ -353,7 +353,7 @@
         "title": "Enhanced spatiotemporal resolution imaging of neuronal activity using joint electroencephalography and diffuse optical tomography",
         "pub_year": "2021",
         "citation": "Neurophotonics 8 (1), 015002-015002, 2021",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "QsY8HmEAAAAJ:a0OBvERweLwC"
     },
     {
@@ -367,7 +367,7 @@
         "title": "Estimating intracranial pressure using pulsatile cerebral blood flow measured with diffuse correlation spectroscopy",
         "pub_year": "2020",
         "citation": "Biomedical optics express 11 (3), 1462-1476, 2020",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "QsY8HmEAAAAJ:pqnbT2bcN3wC"
     },
     {
@@ -388,7 +388,7 @@
         "title": "Evaluating feasibility of functional near-infrared spectroscopy in dolphins",
         "pub_year": "2023",
         "citation": "Journal of Biomedical Optics 28 (7), 075001-075001, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "QsY8HmEAAAAJ:AXPGKjj_ei8C"
     },
     {
@@ -437,7 +437,7 @@
         "title": "Fluctuations in intracranial pressure can be estimated non-invasively using near-infrared spectroscopy in non-human primates",
         "pub_year": "2020",
         "citation": "Journal of Cerebral Blood Flow & Metabolism 40 (11), 2304-2314, 2020",
-        "num_citations": 25,
+        "num_citations": 27,
         "author_pub_id": "QsY8HmEAAAAJ:ldfaerwXgEUC"
     },
     {
@@ -514,7 +514,7 @@
         "title": "In situ volumetric imaging and analysis of FRESH 3D bioprinted constructs using optical coherence tomography",
         "pub_year": "2022",
         "citation": "Biofabrication 15 (1), 014102, 2022",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "QsY8HmEAAAAJ:abG-DnoFyZgC"
     },
     {
@@ -614,6 +614,13 @@
         "citation": "JOURNAL OF CEREBRAL BLOOD FLOW AND METABOLISM 37, 9-10, 2017",
         "num_citations": 0,
         "author_pub_id": "QsY8HmEAAAAJ:M3NEmzRMIkIC"
+    },
+    {
+        "title": "Neural mechanisms of spatial auditory attention with magnified interaural level difference cues",
+        "pub_year": "2024",
+        "citation": "The Journal of the Acoustical Society of America 155 (3_Supplement), A306-A307, 2024",
+        "num_citations": 0,
+        "author_pub_id": "QsY8HmEAAAAJ:ye4kPcJQO24C"
     },
     {
         "title": "Neurophotonics would like to sincerely thank the following individuals who served as reviewers in 2017. The success of our publication hinges on the voluntary contributions of …",
@@ -731,11 +738,12 @@
         "title": "Optical imaging and spectroscopy for the study of the human brain: status report",
         "pub_year": "2022",
         "citation": "Neurophotonics 9 (S2), S24001, 2022",
-        "num_citations": 85,
+        "num_citations": 93,
         "author_pub_id": "QsY8HmEAAAAJ:fQNAKQ3IYiAC"
     },
     {
         "title": "Optical imaging and spectroscopy for the study of the human brain: status report",
+        "pub_year": "2022",
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "QsY8HmEAAAAJ:VOx2b1Wkg3QC"
@@ -809,6 +817,13 @@
         "citation": "Clinical and Translational Neurophotonics 2022 11945, 19-23, 2022",
         "num_citations": 0,
         "author_pub_id": "QsY8HmEAAAAJ:OU6Ihb5iCvQC"
+    },
+    {
+        "title": "Optimizing spatial accuracy in electroencephalography reconstruction through diffuse optical tomography priors in the auditory cortex",
+        "pub_year": "2024",
+        "citation": "Biomedical Optics Express 15 (8), 4859-4876, 2024",
+        "num_citations": 0,
+        "author_pub_id": "QsY8HmEAAAAJ:N5tVd3kTz84C"
     },
     {
         "title": "Photon pathlength based self-calibrated pulse oximetry",
@@ -902,6 +917,13 @@
         "author_pub_id": "QsY8HmEAAAAJ:Tyk-4Ss8FVUC"
     },
     {
+        "title": "Resting State Functional Connectivity in Children: A New Paradigm",
+        "pub_year": "2018",
+        "citation": "Proceedings of the Annual Meeting of the Cognitive Science Society 40, 2018",
+        "num_citations": 0,
+        "author_pub_id": "QsY8HmEAAAAJ:VL0QpB8kHFEC"
+    },
+    {
         "title": "Review of optical methods for fetal monitoring in utero",
         "pub_year": "2022",
         "citation": "Journal of Biophotonics 15 (6), e202100343, 2022",
@@ -954,7 +976,7 @@
         "title": "Shining new light on sensory brain activation and physiological measurement in seals using wearable optical technology",
         "pub_year": "2021",
         "citation": "Philosophical Transactions of the Royal Society B 376 (1830), 20200224, 2021",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "QsY8HmEAAAAJ:pyW8ca7W8N0C"
     },
     {
@@ -996,7 +1018,7 @@
         "title": "Systems and methods for performing trans-abdominal fetal oximetry or pulse-oximetry",
         "pub_year": "2022",
         "citation": "US Patent App. 17/629,412, 2022",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "QsY8HmEAAAAJ:mvPsJ3kp5DgC"
     },
     {
@@ -1066,7 +1088,7 @@
         "title": "Using near-infrared spectroscopy and a random forest regressor to estimate intracranial pressure",
         "pub_year": "2022",
         "citation": "Neurophotonics 9 (4), 045001-045001, 2022",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "QsY8HmEAAAAJ:eflP2zaiRacC"
     },
     {
@@ -1101,7 +1123,7 @@
         "title": "When the human brain goes diving: using near-infrared spectroscopy to measure cerebral and systemic cardiovascular responses to deep, breath-hold diving in elite freedivers",
         "pub_year": "2021",
         "citation": "Philosophical Transactions of the Royal Society B 376 (1831), 20200349, 2021",
-        "num_citations": 20,
+        "num_citations": 22,
         "author_pub_id": "QsY8HmEAAAAJ:b0M2c_1WBrUC"
     },
     {

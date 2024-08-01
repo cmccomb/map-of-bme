@@ -31,7 +31,7 @@
         "title": "A reward-modulated hebbian learning rule can explain experimentally observed network reorganization in a brain control task",
         "pub_year": "2010",
         "citation": "Journal of Neuroscience 30 (25), 8400-8410, 2010",
-        "num_citations": 157,
+        "num_citations": 158,
         "author_pub_id": "H-pgq9QAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -73,49 +73,49 @@
         "title": "Bias, optimal linear estimation, and the differences between open-loop simulation and closed-loop performance of spiking-based brain–computer interface algorithms",
         "pub_year": "2009",
         "citation": "Neural networks 22 (9), 1203-1213, 2009",
-        "num_citations": 160,
+        "num_citations": 162,
         "author_pub_id": "H-pgq9QAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Brain–computer interfaces for dissecting cognitive processes underlying sensorimotor control",
         "pub_year": "2016",
         "citation": "Current opinion in neurobiology 37, 53-58, 2016",
-        "num_citations": 112,
+        "num_citations": 113,
         "author_pub_id": "H-pgq9QAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Comparison of brain–computer interface decoding algorithms in open-loop and closed-loop control",
         "pub_year": "2010",
         "citation": "Journal of computational neuroscience 29, 73-87, 2010",
-        "num_citations": 182,
+        "num_citations": 185,
         "author_pub_id": "H-pgq9QAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "Comprehensive chronic laminar single-unit, multi-unit, and local field potential recording performance with planar single shank electrode arrays",
         "pub_year": "2015",
         "citation": "Journal of neuroscience methods 242, 15-40, 2015",
-        "num_citations": 120,
+        "num_citations": 119,
         "author_pub_id": "H-pgq9QAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Constraints on neural redundancy",
         "pub_year": "2018",
         "citation": "Elife 7, e36774, 2018",
-        "num_citations": 64,
+        "num_citations": 66,
         "author_pub_id": "H-pgq9QAAAAJ:7PzlFSSx8tAC"
     },
     {
         "title": "Control of a brain–computer interface without spike sorting",
         "pub_year": "2009",
         "citation": "Journal of neural engineering 6 (5), 055004, 2009",
-        "num_citations": 193,
+        "num_citations": 196,
         "author_pub_id": "H-pgq9QAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "Cues for sound localization are encoded in multiple aspects of spike trains in the inferior colliculus",
         "pub_year": "2008",
         "citation": "Journal of neurophysiology 99 (4), 1672-1682, 2008",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "H-pgq9QAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -129,20 +129,20 @@
         "title": "Dimensionality reduction of calcium-imaged neuronal population activity",
         "pub_year": "2023",
         "citation": "Nature computational science 3 (1), 71-85, 2023",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "H-pgq9QAAAAJ:NaGl4SEjCO4C"
     },
     {
         "title": "Direction and speed tuning of motor-cortex multi-unit activity and local field potentials during reaching movements",
         "pub_year": "2013",
         "citation": "2013 35th Annual International Conference of the IEEE Engineering in …, 2013",
-        "num_citations": 19,
+        "num_citations": 17,
         "author_pub_id": "H-pgq9QAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Dissociating the Influence of Limb Posture and Visual Feedback Shifts on the Adaptation to Novel Movement Dynamics",
         "pub_year": "2024",
-        "citation": "Neuroscience, 2024",
+        "citation": "Neuroscience 549, 24-41, 2024",
         "num_citations": 0,
         "author_pub_id": "H-pgq9QAAAAJ:u_35RYKgDlwC"
     },
@@ -157,14 +157,14 @@
         "title": "Distinct types of neural reorganization during long-term learning",
         "pub_year": "2019",
         "citation": "Journal of neurophysiology 121 (4), 1329-1341, 2019",
-        "num_citations": 58,
+        "num_citations": 57,
         "author_pub_id": "H-pgq9QAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Dynamic range adaptation in primary motor cortical populations",
         "pub_year": "2017",
         "citation": "Elife 6, e21409, 2017",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "H-pgq9QAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -178,28 +178,28 @@
         "title": "Extracellular voltage threshold settings can be tuned for optimal encoding of movement and stimulus parameters",
         "pub_year": "2016",
         "citation": "Journal of neural engineering 13 (3), 036009, 2016",
-        "num_citations": 47,
+        "num_citations": 46,
         "author_pub_id": "H-pgq9QAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Feature selectivity is stable in primary visual cortex across a range of spatial frequencies",
         "pub_year": "2018",
         "citation": "Scientific Reports 8 (1), 15288, 2018",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "H-pgq9QAAAAJ:L8Ckcad2t8MC"
     },
     {
         "title": "First-spike latency information in single neurons increases when referenced to population onset",
         "pub_year": "2007",
         "citation": "Proceedings of the National Academy of Sciences 104 (12), 5175-5180, 2007",
-        "num_citations": 213,
+        "num_citations": 215,
         "author_pub_id": "H-pgq9QAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Functional network reorganization during learning in a brain-computer interface paradigm",
         "pub_year": "2008",
         "citation": "Proceedings of the National Academy of Sciences 105 (49), 19486-19491, 2008",
-        "num_citations": 350,
+        "num_citations": 355,
         "author_pub_id": "H-pgq9QAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -213,7 +213,7 @@
         "title": "How learning unfolds in the brain: toward an optimization view",
         "pub_year": "2021",
         "citation": "Neuron 109 (23), 3720-3735, 2021",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "H-pgq9QAAAAJ:GnPB-g6toBAC"
     },
     {
@@ -240,7 +240,7 @@
         "title": "Internal models for interpreting neural population activity during sensorimotor control",
         "pub_year": "2015",
         "citation": "Elife 4, e10015, 2015",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "H-pgq9QAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -254,35 +254,35 @@
         "title": "Intracortical recording stability in human brain–computer interface users",
         "pub_year": "2018",
         "citation": "Journal of neural engineering 15 (4), 046016, 2018",
-        "num_citations": 125,
+        "num_citations": 129,
         "author_pub_id": "H-pgq9QAAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "Latent inputs improve estimates of neural encoding in motor cortex",
         "pub_year": "2010",
         "citation": "Journal of Neuroscience 30 (41), 13873-13882, 2010",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "H-pgq9QAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Learning alters neural activity to simultaneously support memory and action",
         "pub_year": "2022",
-        "citation": "bioRxiv, 2022.07. 05.498856, 2022",
-        "num_citations": 8,
+        "citation": "BioRxiv, 2022.07. 05.498856, 2022",
+        "num_citations": 9,
         "author_pub_id": "H-pgq9QAAAAJ:35N4QoGY0k4C"
     },
     {
         "title": "Learning an internal dynamics model from control demonstration",
         "pub_year": "2013",
         "citation": "International Conference on Machine Learning, 606-614, 2013",
-        "num_citations": 43,
+        "num_citations": 42,
         "author_pub_id": "H-pgq9QAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "Learning by neural reassociation",
         "pub_year": "2018",
         "citation": "Nature neuroscience 21 (4), 607-616, 2018",
-        "num_citations": 221,
+        "num_citations": 225,
         "author_pub_id": "H-pgq9QAAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -290,13 +290,13 @@
         "pub_year": "2018",
         "citation": "NATURE NEUROSCIENCE 21 (8), 1138-1138, 2018",
         "num_citations": 0,
-        "author_pub_id": "H-pgq9QAAAAJ:zA6iFVUQeVQC"
+        "author_pub_id": "H-pgq9QAAAAJ:yD5IFk8b50cC"
     },
     {
         "title": "Learning is shaped by abrupt changes in neural engagement",
         "pub_year": "2021",
         "citation": "Nature Neuroscience 24 (5), 727-736, 2021",
-        "num_citations": 50,
+        "num_citations": 53,
         "author_pub_id": "H-pgq9QAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -310,7 +310,7 @@
         "title": "Limited segregation of different types of sound localization information among classes of units in the inferior colliculus",
         "pub_year": "2005",
         "citation": "Journal of Neuroscience 25 (33), 7575-7585, 2005",
-        "num_citations": 86,
+        "num_citations": 89,
         "author_pub_id": "H-pgq9QAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -324,35 +324,35 @@
         "title": "Monkeys exhibit a paradoxical decrease in performance in high-stakes scenarios",
         "pub_year": "2021",
         "citation": "Proceedings of the National Academy of Sciences 118 (35), e2109643118, 2021",
-        "num_citations": 12,
+        "num_citations": 14,
         "author_pub_id": "H-pgq9QAAAAJ:YFjsv_pBGBYC"
     },
     {
         "title": "Motor cortex retains and reorients neural dynamics during motor imagery",
         "pub_year": "2024",
         "citation": "Nature Human Behaviour, 1-14, 2024",
-        "num_citations": 2,
+        "num_citations": 5,
         "author_pub_id": "H-pgq9QAAAAJ:HoB7MX3m0LUC"
     },
     {
         "title": "Motor cortical control of movement speed with implications for brain-machine interface control",
         "pub_year": "2014",
         "citation": "Journal of neurophysiology 112 (2), 411-429, 2014",
-        "num_citations": 73,
+        "num_citations": 74,
         "author_pub_id": "H-pgq9QAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Neural constraints on learning",
         "pub_year": "2014",
         "citation": "Nature 512 (7515), 423-426, 2014",
-        "num_citations": 666,
+        "num_citations": 668,
         "author_pub_id": "H-pgq9QAAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "New neural activity patterns emerge with long-term learning",
         "pub_year": "2019",
         "citation": "Proceedings of the National Academy of Sciences 116 (30), 15210-15215, 2019",
-        "num_citations": 198,
+        "num_citations": 201,
         "author_pub_id": "H-pgq9QAAAAJ:HDshCWvjkbEC"
     },
     {
@@ -373,21 +373,21 @@
         "title": "Population activity structure of excitatory and inhibitory neurons",
         "pub_year": "2017",
         "citation": "PloS one 12 (8), e0181773, 2017",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "H-pgq9QAAAAJ:4DMP91E08xMC"
     },
     {
         "title": "Recasting brain-machine interface design from a physical control system perspective",
         "pub_year": "2015",
         "citation": "Journal of Computational Neuroscience 39, 107-118, 2015",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "H-pgq9QAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Sensory constraints on volitional modulation of the motor cortex",
         "pub_year": "2023",
         "citation": "bioRxiv, 2023.01. 22.525098, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "H-pgq9QAAAAJ:pqnbT2bcN3wC"
     },
     {
@@ -422,7 +422,7 @@
         "title": "Stabilization of a brain–computer interface via the alignment of low-dimensional spaces of neural activity",
         "pub_year": "2020",
         "citation": "Nature biomedical engineering 4 (7), 672-685, 2020",
-        "num_citations": 147,
+        "num_citations": 150,
         "author_pub_id": "H-pgq9QAAAAJ:4JMBOYKVnBMC"
     },
     {
