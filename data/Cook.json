@@ -17,14 +17,14 @@
         "title": "7-DAY, IN PARALLEL ARTIFICIAL LUNG TESTING IN SHEEP",
         "pub_year": "2005",
         "citation": "ASAIO Journal 51 (2), 50A, 2005",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "sAdoeA8AAAAJ:_kc_bZDykSQC"
     },
     {
         "title": "72-Hour in vivo evaluation of nitric oxide generating artificial lung gas exchange fibers in sheep",
         "pub_year": "2019",
         "citation": "Acta biomaterialia 90, 122-131, 2019",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "sAdoeA8AAAAJ:8AbLer7MMksC"
     },
     {
@@ -58,7 +58,7 @@
         "title": "A fibrin enhanced thrombosis model for medical devices operating at low shear regimes or large surface areas",
         "pub_year": "2022",
         "citation": "PLOS Computational Biology 18 (10), e1010277, 2022",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "sAdoeA8AAAAJ:tkaPQYYpVKoC"
     },
     {
@@ -86,7 +86,7 @@
         "title": "A polymethylpentene fiber gas exchanger for long-term extracorporeal life support",
         "pub_year": "2005",
         "citation": "ASAIO journal 51 (2), 48A, 2005",
-        "num_citations": 116,
+        "num_citations": 118,
         "author_pub_id": "sAdoeA8AAAAJ:qjMakFHDy7sC"
     },
     {
@@ -114,7 +114,7 @@
         "title": "Achieving one‐step surface coating of highly hydrophilic poly (carboxybetaine methacrylate) polymers on hydrophobic and hydrophilic surfaces",
         "pub_year": "2014",
         "citation": "Advanced Materials Interfaces 1 (6), 1400071, 2014",
-        "num_citations": 105,
+        "num_citations": 106,
         "author_pub_id": "sAdoeA8AAAAJ:yD5IFk8b50cC"
     },
     {
@@ -233,7 +233,7 @@
         "title": "Combination of polycarboxybetaine coating and factor XII inhibitor reduces clot formation while preserving normal tissue coagulation during extracorporeal life support",
         "pub_year": "2021",
         "citation": "Biomaterials 272, 120778, 2021",
-        "num_citations": 37,
+        "num_citations": 41,
         "author_pub_id": "sAdoeA8AAAAJ:5ugPr518TE4C"
     },
     {
@@ -261,7 +261,7 @@
         "title": "Cyclic peptide FXII inhibitor provides safe anticoagulation in a thrombosis model and in artificial lungs",
         "pub_year": "2020",
         "citation": "Nature communications 11 (1), 3890, 2020",
-        "num_citations": 63,
+        "num_citations": 66,
         "author_pub_id": "sAdoeA8AAAAJ:1qzjygNMrQYC"
     },
     {
@@ -331,7 +331,7 @@
         "title": "Development of an artificial placenta I: pumpless arterio-venous extracorporeal life support in a neonatal sheep model",
         "pub_year": "2009",
         "citation": "Journal of pediatric surgery 44 (1), 53-59, 2009",
-        "num_citations": 76,
+        "num_citations": 78,
         "author_pub_id": "sAdoeA8AAAAJ:Se3iqnhoufwC"
     },
     {
@@ -372,7 +372,7 @@
         "title": "Effect of artificial lung compliance on in vivo pulmonary system hemodynamics",
         "pub_year": "2006",
         "citation": "ASAIO journal 52 (3), 248-256, 2006",
-        "num_citations": 19,
+        "num_citations": 21,
         "author_pub_id": "sAdoeA8AAAAJ:WF5omc3nYNoC"
     },
     {
@@ -500,10 +500,17 @@
         "author_pub_id": "sAdoeA8AAAAJ:Mojj43d5GZwC"
     },
     {
+        "title": "Five-day Wearable Respiratory Support With a Novel Ambulatory Pulmonary Assist System in an Awake Ovine Model",
+        "pub_year": "2024",
+        "citation": "Transplantation, 10.1097, 2024",
+        "num_citations": 0,
+        "author_pub_id": "sAdoeA8AAAAJ:kzcrU_BdoSEC"
+    },
+    {
         "title": "Fourteen day in vivo testing of a compliant thoracic artificial lung",
         "pub_year": "2017",
         "citation": "ASAIO Journal 63 (5), 644-649, 2017",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "sAdoeA8AAAAJ:XiSMed-E-HIC"
     },
     {
@@ -558,14 +565,14 @@
         "title": "Hemocompatibility Evaluation of a Novel Ambulatory Pulmonary Assist System Using a Lightweight Axial-Flow Pump",
         "pub_year": "2024",
         "citation": "ASAIO Journal, 10.1097, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "sAdoeA8AAAAJ:_Ybze24A_UAC"
     },
     {
         "title": "Hemodynamic and gas transfer properties of a compliant thoracic artificial lung",
         "pub_year": "2005",
         "citation": "ASAIO journal 51 (4), 404-411, 2005",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "sAdoeA8AAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -670,7 +677,7 @@
         "title": "Large animal model of chronic pulmonary hypertension",
         "pub_year": "2008",
         "citation": "ASAIO journal 54 (4), 396-400, 2008",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "sAdoeA8AAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -828,7 +835,7 @@
         "title": "Pilot testing of a lightweight, pulmonary assist system in an ambulatory sheep model of destination therapy respiratory support",
         "pub_year": "2024",
         "citation": "ASAIO Journal 70 (2), e23-e26, 2024",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "sAdoeA8AAAAJ:ZuybSZzF8UAC"
     },
     {
@@ -895,10 +902,17 @@
         "author_pub_id": "sAdoeA8AAAAJ:Y5dfb0dijaUC"
     },
     {
+        "title": "Robust (Dopamine)n-Polycarboxybetaine Coatings for Blood-Contacting Devices Reduce Non-Specific Protein Adsorption and Improve Anticoagulation",
+        "pub_year": "2024",
+        "citation": "2024 AIChE Annual Meeting, 2024",
+        "num_citations": 0,
+        "author_pub_id": "sAdoeA8AAAAJ:Fu2w8maKXqMC"
+    },
+    {
         "title": "Seven-day artificial lung testing in an in-parallel configuration",
         "pub_year": "2007",
         "citation": "The Annals of thoracic surgery 84 (3), 988-994, 2007",
-        "num_citations": 36,
+        "num_citations": 38,
         "author_pub_id": "sAdoeA8AAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -1009,7 +1023,7 @@
         "title": "Thirty-day in-parallel artificial lung testing in sheep",
         "pub_year": "2007",
         "citation": "The Annals of thoracic surgery 84 (4), 1136-1143, 2007",
-        "num_citations": 55,
+        "num_citations": 57,
         "author_pub_id": "sAdoeA8AAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -1106,7 +1120,7 @@
         "title": "Zwitterionic poly-carboxybetaine coating reduces artificial lung thrombosis in sheep and rabbits",
         "pub_year": "2019",
         "citation": "Acta biomaterialia 92, 71-81, 2019",
-        "num_citations": 62,
+        "num_citations": 66,
         "author_pub_id": "sAdoeA8AAAAJ:4fKUyHm3Qg0C"
     }
 ]

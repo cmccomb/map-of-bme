@@ -44,7 +44,7 @@
         "title": "A comprehensive electromagnetic evaluation of an MRI anthropomorphic head phantom",
         "pub_year": "2021",
         "citation": "NMR in Biomedicine 34 (3), e4441, 2021",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "qC52bkkAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -74,6 +74,12 @@
         "citation": "Joint Annual Meeting ISMRMESMRMB, 2018",
         "num_citations": 1,
         "author_pub_id": "qC52bkkAAAAJ:JV2RwH3_ST0C"
+    },
+    {
+        "title": "Analyzing Cortical Thickness and Volume in patients with Sickle Cell Disease using 7T-MRI",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qC52bkkAAAAJ:pqnbT2bcN3wC"
     },
     {
         "title": "Anatomically detailed human head phantom for MR testing purposes",
@@ -147,14 +153,14 @@
         "title": "Demographic reporting and phenotypic exclusion in fNIRS",
         "pub_year": "2023",
         "citation": "Frontiers in Neuroscience 17, 1086208, 2023",
-        "num_citations": 20,
+        "num_citations": 23,
         "author_pub_id": "qC52bkkAAAAJ:35N4QoGY0k4C"
     },
     {
         "title": "Design and fabrication of a realistic anthropomorphic heterogeneous head phantom for MR purposes",
         "pub_year": "2017",
         "citation": "PLoS ONE 12 (8), 2017",
-        "num_citations": 47,
+        "num_citations": 49,
         "author_pub_id": "qC52bkkAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -196,14 +202,14 @@
         "title": "How to design and construct a 3D-printed human head phantom",
         "pub_year": "2019",
         "citation": "Journal of 3D printing in medicine 3 (3), 119-125, 2019",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "qC52bkkAAAAJ:e5wmG9Sq2KIC"
     },
     {
         "title": "ISMRM best practices for safety testing of experimental RF hardware",
         "pub_year": "2022",
         "citation": "",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "qC52bkkAAAAJ:k_IJM867U9cC"
     },
     {
@@ -255,6 +261,12 @@
         "author_pub_id": "qC52bkkAAAAJ:GnPB-g6toBAC"
     },
     {
+        "title": "Patients with sickle cell disease have altered brain fractional anisotropy, axial, mean and radial diffusivity quantified by 7T MRI.",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qC52bkkAAAAJ:HoB7MX3m0LUC"
+    },
+    {
         "title": "Quantifying Cerebral Autoregulation in Patients with Sickle Cell Disease Using Near-Infrared Spectroscopy",
         "pub_year": "2020",
         "citation": "Optics and the Brain, JTu3A. 5, 2020",
@@ -293,7 +305,7 @@
         "title": "Two-layer analytical model for estimation of layer thickness and flow using Diffuse Correlation Spectroscopy",
         "pub_year": "2022",
         "citation": "Plos one 17 (9), e0274258, 2022",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "qC52bkkAAAAJ:lSLTfruPkqcC"
     },
     {
