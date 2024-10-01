@@ -23,7 +23,7 @@
     {
         "title": "A neural basis of choking under pressure",
         "pub_year": "2023",
-        "citation": "bioRxiv, 2023.04. 16.537007, 2023",
+        "citation": "Neuron, 2023",
         "num_citations": 5,
         "author_pub_id": "H-pgq9QAAAAJ:ZHo1McVdvXMC"
     },
@@ -80,7 +80,7 @@
         "title": "Bias, optimal linear estimation, and the differences between open-loop simulation and closed-loop performance of spiking-based brain–computer interface algorithms",
         "pub_year": "2009",
         "citation": "Neural networks 22 (9), 1203-1213, 2009",
-        "num_citations": 163,
+        "num_citations": 165,
         "author_pub_id": "H-pgq9QAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -94,7 +94,7 @@
         "title": "Comparison of brain–computer interface decoding algorithms in open-loop and closed-loop control",
         "pub_year": "2010",
         "citation": "Journal of computational neuroscience 29, 73-87, 2010",
-        "num_citations": 186,
+        "num_citations": 188,
         "author_pub_id": "H-pgq9QAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -108,14 +108,14 @@
         "title": "Constraints on neural redundancy",
         "pub_year": "2018",
         "citation": "Elife 7, e36774, 2018",
-        "num_citations": 66,
+        "num_citations": 69,
         "author_pub_id": "H-pgq9QAAAAJ:7PzlFSSx8tAC"
     },
     {
         "title": "Control of a brain–computer interface without spike sorting",
         "pub_year": "2009",
         "citation": "Journal of neural engineering 6 (5), 055004, 2009",
-        "num_citations": 197,
+        "num_citations": 200,
         "author_pub_id": "H-pgq9QAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -129,14 +129,14 @@
         "title": "Development of natural scene representation in primary visual cortex requires early postnatal experience",
         "pub_year": "2021",
         "citation": "Current Biology 31 (2), 369-380. e5, 2021",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "H-pgq9QAAAAJ:k_IJM867U9cC"
     },
     {
         "title": "Dimensionality reduction of calcium-imaged neuronal population activity",
         "pub_year": "2023",
         "citation": "Nature computational science 3 (1), 71-85, 2023",
-        "num_citations": 11,
+        "num_citations": 13,
         "author_pub_id": "H-pgq9QAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -157,14 +157,14 @@
         "title": "Distinct kinematic adjustments over multiple timescales accompany locomotor skill development in mice",
         "pub_year": "2021",
         "citation": "Neuroscience 466, 260-272, 2021",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "H-pgq9QAAAAJ:blknAaTinKkC"
     },
     {
         "title": "Distinct types of neural reorganization during long-term learning",
         "pub_year": "2019",
         "citation": "Journal of neurophysiology 121 (4), 1329-1341, 2019",
-        "num_citations": 61,
+        "num_citations": 62,
         "author_pub_id": "H-pgq9QAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -206,7 +206,7 @@
         "title": "Functional network reorganization during learning in a brain-computer interface paradigm",
         "pub_year": "2008",
         "citation": "Proceedings of the National Academy of Sciences 105 (49), 19486-19491, 2008",
-        "num_citations": 357,
+        "num_citations": 358,
         "author_pub_id": "H-pgq9QAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -220,7 +220,7 @@
         "title": "How learning unfolds in the brain: toward an optimization view",
         "pub_year": "2021",
         "citation": "Neuron 109 (23), 3720-3735, 2021",
-        "num_citations": 30,
+        "num_citations": 34,
         "author_pub_id": "H-pgq9QAAAAJ:GnPB-g6toBAC"
     },
     {
@@ -247,7 +247,7 @@
         "title": "Internal models for interpreting neural population activity during sensorimotor control",
         "pub_year": "2015",
         "citation": "Elife 4, e10015, 2015",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "H-pgq9QAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -261,7 +261,7 @@
         "title": "Intracortical recording stability in human brain–computer interface users",
         "pub_year": "2018",
         "citation": "Journal of neural engineering 15 (4), 046016, 2018",
-        "num_citations": 134,
+        "num_citations": 136,
         "author_pub_id": "H-pgq9QAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -289,7 +289,7 @@
         "title": "Learning by neural reassociation",
         "pub_year": "2018",
         "citation": "Nature neuroscience 21 (4), 607-616, 2018",
-        "num_citations": 233,
+        "num_citations": 235,
         "author_pub_id": "H-pgq9QAAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -303,7 +303,7 @@
         "title": "Learning is shaped by abrupt changes in neural engagement",
         "pub_year": "2021",
         "citation": "Nature Neuroscience 24 (5), 727-736, 2021",
-        "num_citations": 58,
+        "num_citations": 59,
         "author_pub_id": "H-pgq9QAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -317,7 +317,7 @@
         "title": "Limited segregation of different types of sound localization information among classes of units in the inferior colliculus",
         "pub_year": "2005",
         "citation": "Journal of Neuroscience 25 (33), 7575-7585, 2005",
-        "num_citations": 90,
+        "num_citations": 91,
         "author_pub_id": "H-pgq9QAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -338,14 +338,14 @@
         "title": "Motor cortex retains and reorients neural dynamics during motor imagery",
         "pub_year": "2024",
         "citation": "Nature Human Behaviour, 1-14, 2024",
-        "num_citations": 7,
+        "num_citations": 9,
         "author_pub_id": "H-pgq9QAAAAJ:HoB7MX3m0LUC"
     },
     {
         "title": "Motor cortical control of movement speed with implications for brain-machine interface control",
         "pub_year": "2014",
         "citation": "Journal of neurophysiology 112 (2), 411-429, 2014",
-        "num_citations": 76,
+        "num_citations": 77,
         "author_pub_id": "H-pgq9QAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -359,14 +359,14 @@
         "title": "Neural constraints on learning",
         "pub_year": "2014",
         "citation": "Nature 512 (7515), 423-426, 2014",
-        "num_citations": 686,
+        "num_citations": 695,
         "author_pub_id": "H-pgq9QAAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "New neural activity patterns emerge with long-term learning",
         "pub_year": "2019",
         "citation": "Proceedings of the National Academy of Sciences 116 (30), 15210-15215, 2019",
-        "num_citations": 206,
+        "num_citations": 208,
         "author_pub_id": "H-pgq9QAAAAJ:HDshCWvjkbEC"
     },
     {
@@ -387,14 +387,14 @@
         "title": "Population activity structure of excitatory and inhibitory neurons",
         "pub_year": "2017",
         "citation": "PloS one 12 (8), e0181773, 2017",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "H-pgq9QAAAAJ:4DMP91E08xMC"
     },
     {
         "title": "Recasting brain-machine interface design from a physical control system perspective",
         "pub_year": "2015",
         "citation": "Journal of Computational Neuroscience 39, 107-118, 2015",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "H-pgq9QAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -422,7 +422,7 @@
         "title": "Single-unit activity, threshold crossings, and local field potentials in motor cortex differentially encode reach kinematics",
         "pub_year": "2015",
         "citation": "Journal of neurophysiology 114 (3), 1500-1512, 2015",
-        "num_citations": 73,
+        "num_citations": 74,
         "author_pub_id": "H-pgq9QAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -436,7 +436,7 @@
         "title": "Stabilization of a brain–computer interface via the alignment of low-dimensional spaces of neural activity",
         "pub_year": "2020",
         "citation": "Nature biomedical engineering 4 (7), 672-685, 2020",
-        "num_citations": 157,
+        "num_citations": 160,
         "author_pub_id": "H-pgq9QAAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -457,7 +457,7 @@
         "title": "To sort or not to sort: the impact of spike-sorting on neural decoding performance",
         "pub_year": "2014",
         "citation": "Journal of neural engineering 11 (5), 056005, 2014",
-        "num_citations": 140,
+        "num_citations": 141,
         "author_pub_id": "H-pgq9QAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -471,7 +471,7 @@
         "title": "Workshops of the sixth international brain–computer interface meeting: brain–computer interfaces past, present, and future",
         "pub_year": "2017",
         "citation": "Brain-computer interfaces 4 (1-2), 3-36, 2017",
-        "num_citations": 36,
+        "num_citations": 38,
         "author_pub_id": "H-pgq9QAAAAJ:4TOpqqG69KYC"
     }
 ]

@@ -10,7 +10,7 @@
         "title": "A Paradigm for Measuring Resting State Functional Connectivity in Young Children Using fNIRS and Freeplay",
         "pub_year": "2020",
         "citation": "bioRxiv, 2020.01. 13.904029, 2020",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "QsY8HmEAAAAJ:M05iB0D1s5AC"
     },
     {
@@ -101,7 +101,7 @@
         "title": "Broadband optical mammography: chromophore concentration and hemoglobin saturation contrast in breast cancer",
         "pub_year": "2015",
         "citation": "PloS one 10 (3), e0117322, 2015",
-        "num_citations": 61,
+        "num_citations": 62,
         "author_pub_id": "QsY8HmEAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -129,8 +129,15 @@
         "title": "Cerebral autoregulation in the microvasculature measured with near-infrared spectroscopy",
         "pub_year": "2015",
         "citation": "Journal of Cerebral Blood Flow & Metabolism 35 (6), 959-966, 2015",
-        "num_citations": 114,
+        "num_citations": 116,
         "author_pub_id": "QsY8HmEAAAAJ:UebtZRa9Y70C"
+    },
+    {
+        "title": "Cerebral hemodynamic and systemic physiological changes in trained freedivers completing sled-assisted dives to two different depths",
+        "pub_year": "2024",
+        "citation": "American Journal of Physiology-Regulatory, Integrative and Comparative …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "QsY8HmEAAAAJ:1yQoGdGgb4wC"
     },
     {
         "title": "Cerebrovascular impedance as a function of cerebral perfusion pressure",
@@ -143,7 +150,7 @@
         "title": "Cerebrovascular impedance estimation with near-infrared and diffuse correlation spectroscopy",
         "pub_year": "2023",
         "citation": "Neurophotonics 10 (1), 015002-015002, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "QsY8HmEAAAAJ:1qzjygNMrQYC"
     },
     {
@@ -164,7 +171,7 @@
         "title": "Changes in neurovascular coupling with cerebral perfusion pressure indicate a link to cerebral autoregulation",
         "pub_year": "2022",
         "citation": "Journal of Cerebral Blood Flow & Metabolism 42 (7), 1247-1258, 2022",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "QsY8HmEAAAAJ:SP6oXDckpogC"
     },
     {
@@ -199,7 +206,7 @@
         "title": "Clinical translation of noninvasive intracranial pressure sensing with diffuse correlation spectroscopy",
         "pub_year": "2022",
         "citation": "Journal of Neurosurgery 139 (1), 184-193, 2022",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "QsY8HmEAAAAJ:u9iWguZQMMsC"
     },
     {
@@ -241,7 +248,7 @@
         "title": "Comparison of static and dynamic cerebral autoregulation under anesthesia influence in a controlled animal model",
         "pub_year": "2021",
         "citation": "PLoS One 16 (1), e0245291, 2021",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "QsY8HmEAAAAJ:D03iK_w7-QYC"
     },
     {
@@ -353,7 +360,7 @@
         "title": "Enhanced spatiotemporal resolution imaging of neuronal activity using joint electroencephalography and diffuse optical tomography",
         "pub_year": "2021",
         "citation": "Neurophotonics 8 (1), 015002-015002, 2021",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "QsY8HmEAAAAJ:a0OBvERweLwC"
     },
     {
@@ -367,7 +374,7 @@
         "title": "Estimating intracranial pressure using pulsatile cerebral blood flow measured with diffuse correlation spectroscopy",
         "pub_year": "2020",
         "citation": "Biomedical optics express 11 (3), 1462-1476, 2020",
-        "num_citations": 64,
+        "num_citations": 65,
         "author_pub_id": "QsY8HmEAAAAJ:pqnbT2bcN3wC"
     },
     {
@@ -388,7 +395,7 @@
         "title": "Evaluating feasibility of functional near-infrared spectroscopy in dolphins",
         "pub_year": "2023",
         "citation": "Journal of Biomedical Optics 28 (7), 075001-075001, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "QsY8HmEAAAAJ:AXPGKjj_ei8C"
     },
     {
@@ -413,6 +420,13 @@
         "author_pub_id": "QsY8HmEAAAAJ:JV2RwH3_ST0C"
     },
     {
+        "title": "Exploring the impact and influence of melanin on frequency-domain near-infrared spectroscopy measurements",
+        "pub_year": "2024",
+        "citation": "Journal of biomedical optics 29 (Suppl 3), S33310, 2024",
+        "num_citations": 0,
+        "author_pub_id": "QsY8HmEAAAAJ:dQ2og3OwTAUC"
+    },
+    {
         "title": "Extended correction model for retinal optical imaging",
         "pub_year": "2011",
         "citation": "2011 IEEE 1st International Conference on Computational Advances in Bio and …, 2011",
@@ -430,7 +444,7 @@
         "title": "Feasibility of spatial frequency-domain imaging for monitoring palpable breast lesions",
         "pub_year": "2017",
         "citation": "Journal of Biomedical Optics 22 (12), 121605-121605, 2017",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "QsY8HmEAAAAJ:blknAaTinKkC"
     },
     {
@@ -486,7 +500,7 @@
         "title": "Hand-held multi-wavelength spatial frequency domain imaging for breast cancer imaging",
         "pub_year": "2019",
         "citation": "Optical Tomography and Spectroscopy of Tissue XIII 10874, 94-100, 2019",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "QsY8HmEAAAAJ:J_g5lzvAfSwC"
     },
     {
@@ -586,6 +600,13 @@
         "citation": "Clinical and Translational Neurophotonics 2023 12364, 13-21, 2023",
         "num_citations": 0,
         "author_pub_id": "QsY8HmEAAAAJ:bnK-pcrLprsC"
+    },
+    {
+        "title": "Monte Carlo simulation of spatial frequency domain imaging for breast tumors during compression",
+        "pub_year": "2024",
+        "citation": "Journal of Biomedical Optics 29 (9), 096001-096001, 2024",
+        "num_citations": 0,
+        "author_pub_id": "QsY8HmEAAAAJ:PR6Y55bgFSsC"
     },
     {
         "title": "Multispectral imaging as a potential predictor of treatment efficacy for Kaposi's sarcoma skin lesions",
@@ -738,7 +759,7 @@
         "title": "Optical imaging and spectroscopy for the study of the human brain: status report",
         "pub_year": "2022",
         "citation": "Neurophotonics 9 (S2), S24001, 2022",
-        "num_citations": 99,
+        "num_citations": 106,
         "author_pub_id": "QsY8HmEAAAAJ:fQNAKQ3IYiAC"
     },
     {
@@ -871,7 +892,7 @@
         "title": "Pulsatile microvascular cerebral blood flow waveforms change with intracranial compliance and age",
         "pub_year": "2024",
         "citation": "Neurophotonics 11 (1), 015003-015003, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "QsY8HmEAAAAJ:_B80troHkn4C"
     },
     {
@@ -934,7 +955,7 @@
         "title": "Review of studies on dynamic cerebral autoregulation in the acute phase of stroke and the relationship with clinical outcome",
         "pub_year": "2022",
         "citation": "Journal of Cerebral Blood Flow & Metabolism 42 (3), 430-453, 2022",
-        "num_citations": 41,
+        "num_citations": 43,
         "author_pub_id": "QsY8HmEAAAAJ:CHSYGLWDkRkC"
     },
     {
@@ -962,7 +983,7 @@
         "title": "Self-calibrated pulse oximetry algorithm based on photon pathlength change and the application in human freedivers",
         "pub_year": "2023",
         "citation": "Journal of Biomedical Optics 28 (11), 115002-115002, 2023",
-        "num_citations": 0,
+        "num_citations": 2,
         "author_pub_id": "QsY8HmEAAAAJ:tkaPQYYpVKoC"
     },
     {
@@ -997,7 +1018,7 @@
         "title": "Spatial frequency domain imaging for monitoring palpable breast lesions",
         "pub_year": "2017",
         "citation": "Optical Tomography and Spectroscopy of Tissue XII 10059, 77-83, 2017",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "QsY8HmEAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -1078,10 +1099,16 @@
         "author_pub_id": "QsY8HmEAAAAJ:7PzlFSSx8tAC"
     },
     {
+        "title": "The potential of using a hemodynamic signal as a biomarker of cognitive load in sickle cell disease",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "QsY8HmEAAAAJ:hkOj_22Ku90C"
+    },
+    {
         "title": "Two-layer analytical model for estimation of layer thickness and flow using Diffuse Correlation Spectroscopy",
         "pub_year": "2022",
         "citation": "Plos one 17 (9), e0274258, 2022",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "QsY8HmEAAAAJ:eJXPG6dFmWUC"
     },
     {
