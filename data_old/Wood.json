@@ -106,7 +106,7 @@
         "title": "Association of hippocampal substructure resting-state functional connectivity with memory performance in older adults",
         "pub_year": "2018",
         "citation": "The American Journal of Geriatric Psychiatry 26 (6), 690-699, 2018",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "qC52bkkAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -132,7 +132,7 @@
         "title": "Computational and experimental evaluation of the Tic-Tac-Toe RF coil for 7 Tesla MRI",
         "pub_year": "2019",
         "citation": "PloS one 14 (1), e0209663, 2019",
-        "num_citations": 32,
+        "num_citations": 34,
         "author_pub_id": "qC52bkkAAAAJ:-f6ydRqryjwC"
     },
     {
@@ -153,14 +153,14 @@
         "title": "Demographic reporting and phenotypic exclusion in fNIRS",
         "pub_year": "2023",
         "citation": "Frontiers in Neuroscience 17, 1086208, 2023",
-        "num_citations": 23,
+        "num_citations": 25,
         "author_pub_id": "qC52bkkAAAAJ:35N4QoGY0k4C"
     },
     {
         "title": "Design and fabrication of a realistic anthropomorphic heterogeneous head phantom for MR purposes",
         "pub_year": "2017",
         "citation": "PLoS ONE 12 (8), 2017",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "qC52bkkAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -183,6 +183,13 @@
         "citation": "The 26th International Society of Magnetic Resonance in Medicine Annual Meeting, 2018",
         "num_citations": 1,
         "author_pub_id": "qC52bkkAAAAJ:M3NEmzRMIkIC"
+    },
+    {
+        "title": "Exploring the impact and influence of melanin on frequency-domain near-infrared spectroscopy measurements",
+        "pub_year": "2024",
+        "citation": "Journal of biomedical optics 29 (Suppl 3), S33310, 2024",
+        "num_citations": 0,
+        "author_pub_id": "qC52bkkAAAAJ:ZHo1McVdvXMC"
     },
     {
         "title": "Fundamentals of MRI and Neuroimaging Analysis Final Project",
@@ -209,14 +216,14 @@
         "title": "ISMRM best practices for safety testing of experimental RF hardware",
         "pub_year": "2022",
         "citation": "",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "qC52bkkAAAAJ:k_IJM867U9cC"
     },
     {
         "title": "Improved 7 Tesla transmit field homogeneity with reduced electromagnetic power deposition using coupled Tic Tac Toe antennas",
         "pub_year": "2021",
         "citation": "Scientific reports 11 (1), 3370, 2021",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "qC52bkkAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -230,7 +237,7 @@
         "title": "In-vivo and numerical analysis of the eigenmodes produced by a multi-level Tic-Tac-Toe head transmit array for 7 Tesla MRI",
         "pub_year": "2018",
         "citation": "PloS one 13 (11), e0206127, 2018",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "qC52bkkAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -288,6 +295,12 @@
         "author_pub_id": "qC52bkkAAAAJ:_Qo2XoVZTnwC"
     },
     {
+        "title": "The potential of using a hemodynamic signal as a biomarker of cognitive load in sickle cell disease",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qC52bkkAAAAJ:SeFeTyx0c_EC"
+    },
+    {
         "title": "Towards homogenous 7T neuro imaging: findings and comparisons between 7T TTT and NOVA RF coil systems",
         "pub_year": "2017",
         "citation": "Proc of the 25th International Society of Magnetic Resonance in Medicine …, 2017",
@@ -305,7 +318,7 @@
         "title": "Two-layer analytical model for estimation of layer thickness and flow using Diffuse Correlation Spectroscopy",
         "pub_year": "2022",
         "citation": "Plos one 17 (9), e0274258, 2022",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "qC52bkkAAAAJ:lSLTfruPkqcC"
     },
     {

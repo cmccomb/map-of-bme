@@ -3,7 +3,7 @@
         "title": "A novel ventilator design for COVID-19 and resource-limited settings",
         "pub_year": "2021",
         "citation": "Frontiers in medical technology 3, 707826, 2021",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "XEMsPO8AAAAJ:l7t_Zn2s7bgC"
     },
     {
@@ -31,7 +31,7 @@
         "title": "An analytical model to predict interstitial lubrication of cartilage in migrating contact areas",
         "pub_year": "2014",
         "citation": "Journal of biomechanics 47 (1), 148-153, 2014",
-        "num_citations": 90,
+        "num_citations": 92,
         "author_pub_id": "XEMsPO8AAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -45,7 +45,7 @@
         "title": "Buoyancy‐driven gradients for biomaterial fabrication and tissue engineering",
         "pub_year": "2019",
         "citation": "Advanced Materials 31 (17), 1900291, 2019",
-        "num_citations": 93,
+        "num_citations": 96,
         "author_pub_id": "XEMsPO8AAAAJ:xtRiw3GOFMkC"
     },
     {
@@ -73,14 +73,14 @@
         "title": "Cellular interactions with hydrogel microfibers synthesized via interfacial tetrazine ligation",
         "pub_year": "2018",
         "citation": "Biomaterials 180, 24-35, 2018",
-        "num_citations": 21,
+        "num_citations": 23,
         "author_pub_id": "XEMsPO8AAAAJ:abG-DnoFyZgC"
     },
     {
         "title": "Core–shell patterning of synthetic hydrogels via interfacial bioorthogonal chemistry for spatial control of stem cell behavior",
         "pub_year": "2018",
         "citation": "Chemical Science 9 (24), 5394-5404, 2018",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "XEMsPO8AAAAJ:_xSYboBqXhAC"
     },
     {
@@ -108,7 +108,7 @@
         "title": "Fiber reinforced hydrated networks recapitulate the poroelastic mechanics of articular cartilage",
         "pub_year": "2023",
         "citation": "Acta Biomaterialia 167, 69-82, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "XEMsPO8AAAAJ:B3FOqHPlNUQC"
     },
     {
@@ -128,7 +128,7 @@
         "title": "How sliding and hydrodynamics contribute to articular cartilage fluid and lubrication recovery",
         "pub_year": "2019",
         "citation": "Tribology Letters 67, 1-10, 2019",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "XEMsPO8AAAAJ:CHSYGLWDkRkC"
     },
     {
@@ -142,7 +142,7 @@
         "title": "In vitro and in vivo investigation of a zonal microstructured scaffold for osteochondral defect repair",
         "pub_year": "2022",
         "citation": "Biomaterials 286, 121548, 2022",
-        "num_citations": 41,
+        "num_citations": 46,
         "author_pub_id": "XEMsPO8AAAAJ:tOudhMTPpwUC"
     },
     {
@@ -246,7 +246,7 @@
         "title": "Range-of-motion affects cartilage fluid load support: functional implications for prolonged inactivity",
         "pub_year": "2021",
         "citation": "Osteoarthritis and Cartilage 29 (1), 134-142, 2021",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "XEMsPO8AAAAJ:OU6Ihb5iCvQC"
     },
     {
@@ -274,7 +274,7 @@
         "title": "Size-tunable nanoneedle arrays for influencing stem cell morphology, gene expression, and nuclear membrane curvature",
         "pub_year": "2020",
         "citation": "ACS nano 14 (5), 5371-5381, 2020",
-        "num_citations": 62,
+        "num_citations": 66,
         "author_pub_id": "XEMsPO8AAAAJ:UxriW0iASnsC"
     },
     {
@@ -288,14 +288,14 @@
         "title": "Spatial patterning of molecular cues and vascular cells in fully integrated hydrogel channels via interfacial bioorthogonal cross-linking",
         "pub_year": "2019",
         "citation": "ACS applied materials & interfaces 11 (18), 16402-16411, 2019",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "XEMsPO8AAAAJ:P5F9QuxV20EC"
     },
     {
         "title": "The modes and competing rates of cartilage fluid loss and recovery",
         "pub_year": "2022",
         "citation": "Acta Biomaterialia 138, 390-397, 2022",
-        "num_citations": 13,
+        "num_citations": 15,
         "author_pub_id": "XEMsPO8AAAAJ:u9iWguZQMMsC"
     },
     {
@@ -343,7 +343,14 @@
         "title": "Unexpected tribological synergy in polymer blend coatings: leveraging phase separation to isolate domain size effects and reduce friction",
         "pub_year": "2017",
         "citation": "ACS applied materials & interfaces 9 (39), 34480-34488, 2017",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "XEMsPO8AAAAJ:dfsIfKJdRG4C"
+    },
+    {
+        "title": "Walking Recovers Cartilage Compressive Strain In Vivo",
+        "pub_year": "2024",
+        "citation": "Osteoarthritis and Cartilage Open, 100526, 2024",
+        "num_citations": 0,
+        "author_pub_id": "XEMsPO8AAAAJ:eflP2zaiRacC"
     }
 ]

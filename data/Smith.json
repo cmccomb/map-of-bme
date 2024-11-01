@@ -3,7 +3,7 @@
         "title": "A neural network for online spike classification that improves decoding accuracy",
         "pub_year": "2020",
         "citation": "Journal of Neurophysiology 123 (4), 1472-1485, 2020",
-        "num_citations": 22,
+        "num_citations": 24,
         "author_pub_id": "mhi9LhkAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -17,7 +17,7 @@
         "title": "A stable population code for attention in prefrontal cortex leads a dynamic attention code in visual cortex",
         "pub_year": "2021",
         "citation": "Journal of Neuroscience 41 (44), 9163-9176, 2021",
-        "num_citations": 20,
+        "num_citations": 22,
         "author_pub_id": "mhi9LhkAAAAJ:CHSYGLWDkRkC"
     },
     {
@@ -45,7 +45,7 @@
         "title": "Adjusted regularization of cortical covariance",
         "pub_year": "2018",
         "citation": "Journal of computational neuroscience 45, 83-101, 2018",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "mhi9LhkAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -65,7 +65,7 @@
     {
         "title": "Brain-wide arousal signals are segregated from movement planning in the superior colliculus",
         "pub_year": "2024",
-        "citation": "bioRxiv, 2024",
+        "citation": "bioRxiv, 2024.04. 26.591284, 2024",
         "num_citations": 0,
         "author_pub_id": "mhi9LhkAAAAJ:K3LRdlH-MEoC"
     },
@@ -73,7 +73,7 @@
         "title": "Bridging large-scale neuronal recordings and large-scale network models using dimensionality reduction",
         "pub_year": "2019",
         "citation": "Current opinion in neurobiology 55, 40-47, 2019",
-        "num_citations": 70,
+        "num_citations": 72,
         "author_pub_id": "mhi9LhkAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -101,14 +101,14 @@
         "title": "Compact deep neural network models of visual cortex",
         "pub_year": "2023",
         "citation": "bioRxiv, 2023",
-        "num_citations": 3,
+        "num_citations": 5,
         "author_pub_id": "mhi9LhkAAAAJ:738O_yMBCRsC"
     },
     {
         "title": "Comparing Acute IOP-Induced Lamina Cribrosa Deformations Premortem and Postmortem",
         "pub_year": "2022",
         "citation": "Translational Vision Science & Technology 11 (12), 1-1, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "mhi9LhkAAAAJ:uWQEDVKXjbEC"
     },
     {
@@ -122,14 +122,14 @@
         "title": "Comparison of static and dynamic cerebral autoregulation under anesthesia influence in a controlled animal model",
         "pub_year": "2021",
         "citation": "Plos one 16 (1), e0245291, 2021",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "mhi9LhkAAAAJ:b0M2c_1WBrUC"
     },
     {
         "title": "Comprehensive chronic laminar single-unit, multi-unit, and local field potential recording performance with planar single shank electrode arrays",
         "pub_year": "2015",
         "citation": "Journal of neuroscience methods 242, 15-40, 2015",
-        "num_citations": 126,
+        "num_citations": 127,
         "author_pub_id": "mhi9LhkAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -150,7 +150,7 @@
         "title": "Correlations in V1 are reduced by stimulation outside the receptive field",
         "pub_year": "2014",
         "citation": "Journal of Neuroscience 34 (34), 11222-11227, 2014",
-        "num_citations": 61,
+        "num_citations": 62,
         "author_pub_id": "mhi9LhkAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -164,7 +164,7 @@
         "title": "Distance covariance analysis",
         "pub_year": "2017",
         "citation": "Artificial Intelligence and Statistics, 242-251, 2017",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "mhi9LhkAAAAJ:GnPB-g6toBAC"
     },
     {
@@ -185,7 +185,7 @@
         "title": "Dynamic shifts of visual and saccadic signals in prefrontal cortical regions 8Ar and FEF",
         "pub_year": "2020",
         "citation": "Journal of Neurophysiology 124 (6), 1774-1791, 2020",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "mhi9LhkAAAAJ:cFHS6HbyZ2cC"
     },
     {
@@ -262,7 +262,7 @@
         "title": "Estimating intracranial pressure using pulsatile cerebral blood flow measured with diffuse correlation spectroscopy",
         "pub_year": "2020",
         "citation": "Biomedical Optics Express 11 (3), 1462-1476, 2020",
-        "num_citations": 60,
+        "num_citations": 62,
         "author_pub_id": "mhi9LhkAAAAJ:pyW8ca7W8N0C"
     },
     {
@@ -332,7 +332,7 @@
         "title": "Global network influences on local functional connectivity",
         "pub_year": "2015",
         "citation": "Nature neuroscience 18 (5), 736-743, 2015",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "mhi9LhkAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -374,7 +374,7 @@
         "title": "Laminar dependence of neuronal correlations in visual cortex",
         "pub_year": "2013",
         "citation": "Journal of neurophysiology 109 (4), 940-947, 2013",
-        "num_citations": 152,
+        "num_citations": 153,
         "author_pub_id": "mhi9LhkAAAAJ:dhFuZR0502QC"
     },
     {
@@ -416,7 +416,7 @@
         "title": "Monkey prefrontal neurons during Sternberg task performance: full contents of working memory or most recent item?",
         "pub_year": "2017",
         "citation": "Journal of neurophysiology 117 (6), 2269-2281, 2017",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "mhi9LhkAAAAJ:NMxIlDl6LWMC"
     },
     {
@@ -444,14 +444,21 @@
         "title": "Population activity structure of excitatory and inhibitory neurons",
         "pub_year": "2017",
         "citation": "PloS one 12 (8), e0181773, 2017",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "mhi9LhkAAAAJ:maZDTaKrznsC"
+    },
+    {
+        "title": "Recent visual experience reshapes V4 neuronal activity and improves perceptual performance",
+        "pub_year": "2024",
+        "citation": "Journal of Neuroscience 44 (41), 2024",
+        "num_citations": 0,
+        "author_pub_id": "mhi9LhkAAAAJ:l7t_Zn2s7bgC"
     },
     {
         "title": "Scaling properties of dimensionality reduction for neural populations and network models",
         "pub_year": "2016",
         "citation": "PLoS computational biology 12 (12), e1005141, 2016",
-        "num_citations": 101,
+        "num_citations": 103,
         "author_pub_id": "mhi9LhkAAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -486,14 +493,14 @@
         "title": "Slow drift of neural activity as a signature of impulsivity in macaque visual and prefrontal cortex",
         "pub_year": "2020",
         "citation": "Neuron 108 (3), 551-567. e8, 2020",
-        "num_citations": 117,
+        "num_citations": 118,
         "author_pub_id": "mhi9LhkAAAAJ:D03iK_w7-QYC"
     },
     {
         "title": "Spatial and temporal scales of neuronal correlation in primary visual cortex",
         "pub_year": "2008",
         "citation": "Journal of Neuroscience 28 (48), 12591-12603, 2008",
-        "num_citations": 678,
+        "num_citations": 688,
         "author_pub_id": "mhi9LhkAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -507,21 +514,21 @@
         "title": "Stimulus dependence of neuronal correlation in primary visual cortex of the macaque",
         "pub_year": "2005",
         "citation": "Journal of Neuroscience 25 (14), 3661-3673, 2005",
-        "num_citations": 647,
+        "num_citations": 650,
         "author_pub_id": "mhi9LhkAAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "Stimulus onset quenches neural variability: a widespread cortical phenomenon",
         "pub_year": "2010",
         "citation": "Nature neuroscience 13 (3), 369-378, 2010",
-        "num_citations": 1180,
+        "num_citations": 1191,
         "author_pub_id": "mhi9LhkAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Stimulus selectivity and spatial coherence of gamma components of the local field potential",
         "pub_year": "2011",
         "citation": "Journal of Neuroscience 31 (25), 9390-9403, 2011",
-        "num_citations": 186,
+        "num_citations": 188,
         "author_pub_id": "mhi9LhkAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -535,7 +542,7 @@
         "title": "Stimulus-driven population activity patterns in macaque primary visual cortex",
         "pub_year": "2016",
         "citation": "PLoS computational biology 12 (12), e1005185, 2016",
-        "num_citations": 56,
+        "num_citations": 57,
         "author_pub_id": "mhi9LhkAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -549,7 +556,7 @@
         "title": "The existence of the vomeronasal organ in postnatal chimpanzees and evidence for its homology with that of humans",
         "pub_year": "2001",
         "citation": "The Journal of Anatomy 198 (1), 77-82, 2001",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "mhi9LhkAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -570,14 +577,14 @@
         "title": "The spatial structure of correlated neuronal variability",
         "pub_year": "2017",
         "citation": "Nature neuroscience 20 (1), 107-114, 2017",
-        "num_citations": 224,
+        "num_citations": 227,
         "author_pub_id": "mhi9LhkAAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "The timing of response onset and offset in macaque visual neurons",
         "pub_year": "2002",
         "citation": "Journal of Neuroscience 22 (8), 3189-3205, 2002",
-        "num_citations": 218,
+        "num_citations": 219,
         "author_pub_id": "mhi9LhkAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -598,7 +605,7 @@
         "title": "Utah array extracellular recordings of spontaneous and visually evoked activity from anesthetized macaque primary visual cortex (V1)",
         "pub_year": "2016",
         "citation": "CRCNS. org 10, K0NC5Z4X, 2016",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "mhi9LhkAAAAJ:xtRiw3GOFMkC"
     },
     {
@@ -612,7 +619,7 @@
         "title": "What does scalp electroencephalogram coherence tell us about long‐range cortical networks?",
         "pub_year": "2018",
         "citation": "European Journal of Neuroscience 48 (7), 2466-2481, 2018",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "mhi9LhkAAAAJ:isC4tDSrTZIC"
     }
 ]

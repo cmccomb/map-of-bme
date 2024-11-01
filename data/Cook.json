@@ -58,7 +58,7 @@
         "title": "A fibrin enhanced thrombosis model for medical devices operating at low shear regimes or large surface areas",
         "pub_year": "2022",
         "citation": "PLOS Computational Biology 18 (10), e1010277, 2022",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "sAdoeA8AAAAJ:tkaPQYYpVKoC"
     },
     {
@@ -86,7 +86,7 @@
         "title": "A polymethylpentene fiber gas exchanger for long-term extracorporeal life support",
         "pub_year": "2005",
         "citation": "ASAIO journal 51 (2), 48A, 2005",
-        "num_citations": 118,
+        "num_citations": 120,
         "author_pub_id": "sAdoeA8AAAAJ:qjMakFHDy7sC"
     },
     {
@@ -114,14 +114,14 @@
         "title": "Achieving one‐step surface coating of highly hydrophilic poly (carboxybetaine methacrylate) polymers on hydrophobic and hydrophilic surfaces",
         "pub_year": "2014",
         "citation": "Advanced Materials Interfaces 1 (6), 1400071, 2014",
-        "num_citations": 106,
+        "num_citations": 108,
         "author_pub_id": "sAdoeA8AAAAJ:yD5IFk8b50cC"
     },
     {
         "title": "Achieving ultralow fouling under ambient conditions via surface-initiated ARGET ATRP of carboxybetaine",
         "pub_year": "2017",
         "citation": "ACS applied materials & interfaces 9 (11), 9255-9259, 2017",
-        "num_citations": 98,
+        "num_citations": 100,
         "author_pub_id": "sAdoeA8AAAAJ:u9iWguZQMMsC"
     },
     {
@@ -156,7 +156,7 @@
         "title": "Artificial Lungs for Lung Failure: JACC Technology Corner",
         "pub_year": "2018",
         "citation": "Journal of the American College of Cardiology 72 (14), 1640-1652, 2018",
-        "num_citations": 28,
+        "num_citations": 30,
         "author_pub_id": "sAdoeA8AAAAJ:vRqMK49ujn8C"
     },
     {
@@ -233,7 +233,7 @@
         "title": "Combination of polycarboxybetaine coating and factor XII inhibitor reduces clot formation while preserving normal tissue coagulation during extracorporeal life support",
         "pub_year": "2021",
         "citation": "Biomaterials 272, 120778, 2021",
-        "num_citations": 42,
+        "num_citations": 45,
         "author_pub_id": "sAdoeA8AAAAJ:5ugPr518TE4C"
     },
     {
@@ -261,7 +261,7 @@
         "title": "Cyclic peptide FXII inhibitor provides safe anticoagulation in a thrombosis model and in artificial lungs",
         "pub_year": "2020",
         "citation": "Nature communications 11 (1), 3890, 2020",
-        "num_citations": 70,
+        "num_citations": 73,
         "author_pub_id": "sAdoeA8AAAAJ:1qzjygNMrQYC"
     },
     {
@@ -331,7 +331,7 @@
         "title": "Development of an artificial placenta I: pumpless arterio-venous extracorporeal life support in a neonatal sheep model",
         "pub_year": "2009",
         "citation": "Journal of pediatric surgery 44 (1), 53-59, 2009",
-        "num_citations": 78,
+        "num_citations": 79,
         "author_pub_id": "sAdoeA8AAAAJ:Se3iqnhoufwC"
     },
     {
@@ -500,10 +500,10 @@
         "author_pub_id": "sAdoeA8AAAAJ:Mojj43d5GZwC"
     },
     {
-        "title": "Five-day Wearable Respiratory Support With a Novel Ambulatory Pulmonary Assist System in an Awake Ovine Model",
+        "title": "Five-day wearable respiratory support with a novel ambulatory pulmonary assist system in an awake ovine model",
         "pub_year": "2024",
         "citation": "Transplantation, 10.1097, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "sAdoeA8AAAAJ:kzcrU_BdoSEC"
     },
     {
@@ -988,7 +988,7 @@
         "title": "The relationships between air exposure, negative pressure, and hemolysis",
         "pub_year": "2009",
         "citation": "ASAIO Journal 55 (5), 469-473, 2009",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "sAdoeA8AAAAJ:hFOr9nPyWt4C"
     },
     {
@@ -1002,14 +1002,14 @@
         "title": "The role of porous media in modeling fluid flow within hollow fiber membranes of the total artificial lung",
         "pub_year": "2012",
         "citation": "Journal of porous media 15 (2), 2012",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "sAdoeA8AAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "The time course of clinical oxygenator failure due to clot formation",
         "pub_year": "2020",
         "citation": "medRxiv, 2020.11. 20.20235606, 2020",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "sAdoeA8AAAAJ:J-pR_7NvFogC"
     },
     {
@@ -1120,7 +1120,7 @@
         "title": "Zwitterionic poly-carboxybetaine coating reduces artificial lung thrombosis in sheep and rabbits",
         "pub_year": "2019",
         "citation": "Acta biomaterialia 92, 71-81, 2019",
-        "num_citations": 66,
+        "num_citations": 67,
         "author_pub_id": "sAdoeA8AAAAJ:4fKUyHm3Qg0C"
     }
 ]
