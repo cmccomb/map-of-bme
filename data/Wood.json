@@ -44,7 +44,7 @@
         "title": "A comprehensive electromagnetic evaluation of an MRI anthropomorphic head phantom",
         "pub_year": "2021",
         "citation": "NMR in Biomedicine 34 (3), e4441, 2021",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "qC52bkkAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -65,7 +65,7 @@
         "title": "A new RF transmit coil for foot and ankle imaging at 7T MRI",
         "pub_year": "2018",
         "citation": "Magnetic resonance imaging 45, 1-6, 2018",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "qC52bkkAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -132,7 +132,7 @@
         "title": "Computational and experimental evaluation of the Tic-Tac-Toe RF coil for 7 Tesla MRI",
         "pub_year": "2019",
         "citation": "PloS one 14 (1), e0209663, 2019",
-        "num_citations": 38,
+        "num_citations": 41,
         "author_pub_id": "qC52bkkAAAAJ:-f6ydRqryjwC"
     },
     {
@@ -153,14 +153,14 @@
         "title": "Demographic reporting and phenotypic exclusion in fNIRS",
         "pub_year": "2023",
         "citation": "Frontiers in Neuroscience 17, 1086208, 2023",
-        "num_citations": 28,
+        "num_citations": 30,
         "author_pub_id": "qC52bkkAAAAJ:35N4QoGY0k4C"
     },
     {
         "title": "Design and fabrication of a realistic anthropomorphic heterogeneous head phantom for MR purposes",
         "pub_year": "2017",
         "citation": "PLoS ONE 12 (8), 2017",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "qC52bkkAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -216,14 +216,14 @@
         "title": "ISMRM best practices for safety testing of experimental RF hardware",
         "pub_year": "2022",
         "citation": "",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "qC52bkkAAAAJ:k_IJM867U9cC"
     },
     {
         "title": "Improved 7 Tesla transmit field homogeneity with reduced electromagnetic power deposition using coupled Tic Tac Toe antennas",
         "pub_year": "2021",
         "citation": "Scientific reports 11 (1), 3370, 2021",
-        "num_citations": 19,
+        "num_citations": 22,
         "author_pub_id": "qC52bkkAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -237,7 +237,7 @@
         "title": "In-vivo and numerical analysis of the eigenmodes produced by a multi-level Tic-Tac-Toe head transmit array for 7 Tesla MRI",
         "pub_year": "2018",
         "citation": "PloS one 13 (11), e0206127, 2018",
-        "num_citations": 39,
+        "num_citations": 42,
         "author_pub_id": "qC52bkkAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -304,7 +304,7 @@
         "title": "Towards homogenous 7T neuro imaging: findings and comparisons between 7T TTT and NOVA RF coil systems",
         "pub_year": "2017",
         "citation": "Proc of the 25th International Society of Magnetic Resonance in Medicine …, 2017",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "qC52bkkAAAAJ:NaGl4SEjCO4C"
     },
     {

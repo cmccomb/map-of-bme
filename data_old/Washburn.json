@@ -31,21 +31,21 @@
         "title": "A quantitative approach to determining sulfate balance for LC3",
         "pub_year": "2023",
         "citation": "Cement 12, 100063, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "ctYLFRIAAAAJ:k8Z6L05lTy4C"
     },
     {
         "title": "A universal route towards thermoplastic lignin composites with improved mechanical properties",
         "pub_year": "2014",
         "citation": "Polymer 55 (4), 995-1003, 2014",
-        "num_citations": 186,
+        "num_citations": 187,
         "author_pub_id": "ctYLFRIAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "Adsorption kinetics, thermodynamics, and isotherm studies for functionalized lanthanide-chelating resins",
         "pub_year": "2019",
         "citation": "Journal of colloid and interface science 557, 465-477, 2019",
-        "num_citations": 38,
+        "num_citations": 40,
         "author_pub_id": "ctYLFRIAAAAJ:AvfA0Oy_GE0C"
     },
     {
@@ -66,7 +66,7 @@
         "title": "Antibodies and conjugates for modulators of angiogenesis",
         "pub_year": "2012",
         "citation": "US Patent App. 13/511,598, 2012",
-        "num_citations": 12,
+        "num_citations": 11,
         "author_pub_id": "ctYLFRIAAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -191,7 +191,7 @@
         "title": "Cheminformatics for accelerated design of chemical admixtures",
         "pub_year": "2020",
         "citation": "Cement and Concrete Research 136, 106173, 2020",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "ctYLFRIAAAAJ:vbGhcppDl1QC"
     },
     {
@@ -205,8 +205,15 @@
         "title": "Chemistry of lignin-based materials",
         "pub_year": "2013",
         "citation": "Green materials 1 (3), 137-160, 2013",
-        "num_citations": 210,
+        "num_citations": 212,
         "author_pub_id": "ctYLFRIAAAAJ:ufrVoPGSRksC"
+    },
+    {
+        "title": "Chemistry-Inspired Diffusion with Non-Differentiable Guidance",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2410.06502, 2024",
+        "num_citations": 0,
+        "author_pub_id": "ctYLFRIAAAAJ:xtoqd-5pKcoC"
     },
     {
         "title": "Co-Extruded Tissue Engineering Scaffolds and Characterization of Tissue Development Using Magnetic Resonance Imaging",
@@ -362,6 +369,13 @@
         "author_pub_id": "ctYLFRIAAAAJ:5nxA0vEk-isC"
     },
     {
+        "title": "DNA Ligands for Integrating Biointeractive Materials",
+        "pub_year": "2006",
+        "citation": "ANNUAL MEETING-SOCIETY FOR BIOMATERIALS IN CONJUNCTION WITH THE …, 2006",
+        "num_citations": 0,
+        "author_pub_id": "ctYLFRIAAAAJ:HbR8gkJAVGIC"
+    },
+    {
         "title": "Design Principles for Cytokine-Neutralizing Polymers",
         "pub_year": "2009",
         "citation": "Georgia Institute of Technology, 2009",
@@ -418,10 +432,10 @@
         "author_pub_id": "ctYLFRIAAAAJ:i2xiXl-TujoC"
     },
     {
-        "title": "Diffusion Models in De Novo Drug Design",
+        "title": "Diffusion models in de novo drug design",
         "pub_year": "2024",
         "citation": "Journal of Chemical Information and Modeling, 2024",
-        "num_citations": 0,
+        "num_citations": 2,
         "author_pub_id": "ctYLFRIAAAAJ:Dip1O2bNi0gC"
     },
     {
@@ -442,7 +456,7 @@
         "title": "Effects of ligand chemistry and geometry on rare earth element partitioning from saline solutions to functionalized adsorbents",
         "pub_year": "2016",
         "citation": "ACS Sustainable Chemistry & Engineering 4 (11), 6115-6124, 2016",
-        "num_citations": 32,
+        "num_citations": 35,
         "author_pub_id": "ctYLFRIAAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -470,14 +484,14 @@
         "title": "Elucidating the physicochemical basis of the glass transition temperature in linear polyurethane elastomers with machine learning",
         "pub_year": "2020",
         "citation": "The Journal of Physical Chemistry B 124 (43), 9722-9733, 2020",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "ctYLFRIAAAAJ:EYYDruWGBe4C"
     },
     {
         "title": "Embedding domain knowledge for machine learning of complex material systems",
         "pub_year": "2019",
         "citation": "MRS Communications 9 (3), 806-820, 2019",
-        "num_citations": 66,
+        "num_citations": 67,
         "author_pub_id": "ctYLFRIAAAAJ:vDijr-p_gm4C"
     },
     {
@@ -512,7 +526,7 @@
         "title": "Enhanced reversible adhesion of dopamine methacrylamide-coated elastomer microfibrillar structures under wet conditions",
         "pub_year": "2009",
         "citation": "Langmuir 25 (12), 6607-6612, 2009",
-        "num_citations": 246,
+        "num_citations": 247,
         "author_pub_id": "ctYLFRIAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -621,7 +635,7 @@
         "title": "Hierarchical machine learning for high-fidelity 3D printed biopolymers",
         "pub_year": "2020",
         "citation": "ACS Biomaterials Science & Engineering 6 (12), 7021-7031, 2020",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "ctYLFRIAAAAJ:L7CI7m0gUJcC"
     },
     {
@@ -677,7 +691,7 @@
         "title": "Improved lignin polyurethane properties with lewis acid treatment",
         "pub_year": "2012",
         "citation": "ACS applied materials & interfaces 4 (6), 2840-2846, 2012",
-        "num_citations": 238,
+        "num_citations": 240,
         "author_pub_id": "ctYLFRIAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -705,7 +719,7 @@
         "title": "Inflammation-regulating compositions and methods",
         "pub_year": "2013",
         "citation": "US Patent App. 13/969,515, 2013",
-        "num_citations": 7,
+        "num_citations": 6,
         "author_pub_id": "ctYLFRIAAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -719,14 +733,14 @@
         "title": "Influence of cross‐linker chemistry on release kinetics of PEG‐co‐PGA hydrogels",
         "pub_year": "2009",
         "citation": "Journal of Biomedical Materials Research Part A: An Official Journal of The …, 2009",
-        "num_citations": 48,
+        "num_citations": 47,
         "author_pub_id": "ctYLFRIAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Influence of the degree of methacrylation on hyaluronic acid hydrogels properties",
         "pub_year": "2008",
         "citation": "Biomaterials 29 (12), 1739-1749, 2008",
-        "num_citations": 346,
+        "num_citations": 347,
         "author_pub_id": "ctYLFRIAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -789,7 +803,7 @@
         "title": "Lignin-based surfactants",
         "pub_year": "2018",
         "citation": "US Patent App. 15/558,818, 2018",
-        "num_citations": 1,
+        "num_citations": 0,
         "author_pub_id": "ctYLFRIAAAAJ:uLbwQdceFCQC"
     },
     {
@@ -892,7 +906,7 @@
         "title": "Molecular architecture requirements for polymer-grafted lignin superplasticizers",
         "pub_year": "2015",
         "citation": "Soft Matter 11 (13), 2691-2699, 2015",
-        "num_citations": 37,
+        "num_citations": 39,
         "author_pub_id": "ctYLFRIAAAAJ:hFOr9nPyWt4C"
     },
     {
@@ -919,7 +933,7 @@
         "title": "Multi-Objective Design of LC3: Sustainability and Strength",
         "pub_year": "2022",
         "citation": "Special Publication 355, 293-306, 2022",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "ctYLFRIAAAAJ:tuHXwOkdijsC"
     },
     {
@@ -933,7 +947,7 @@
         "title": "Nanostructured hybrid hydrogels prepared by a combination of atom transfer radical polymerization and free radical polymerization",
         "pub_year": "2009",
         "citation": "Biomaterials 30 (29), 5270-5278, 2009",
-        "num_citations": 169,
+        "num_citations": 173,
         "author_pub_id": "ctYLFRIAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -974,7 +988,7 @@
         "title": "Optimization of silicone 3D printing with hierarchical machine learning",
         "pub_year": "2019",
         "citation": "3D Printing and Additive Manufacturing 6 (4), 181-189, 2019",
-        "num_citations": 95,
+        "num_citations": 97,
         "author_pub_id": "ctYLFRIAAAAJ:zLWjf1WUPmwC"
     },
     {
@@ -1065,14 +1079,14 @@
         "title": "Polymer-grafted lignin surfactants prepared via reversible addition–fragmentation chain-transfer polymerization",
         "pub_year": "2014",
         "citation": "Langmuir 30 (31), 9303-9312, 2014",
-        "num_citations": 90,
+        "num_citations": 92,
         "author_pub_id": "ctYLFRIAAAAJ:9ZlFYXVOiuMC"
     },
     {
         "title": "Predicting the rheology of limestone calcined clay cements (LC3): Linking composition and hydration kinetics to yield stress through Machine Learning",
         "pub_year": "2022",
         "citation": "Cement and Concrete Research 160, 106925, 2022",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "ctYLFRIAAAAJ:VaXvl8Fpj5cC"
     },
     {
@@ -1086,7 +1100,7 @@
         "title": "Prediction of heat of hydration of cementitious systems using Gaussian process regression enables mass concrete thermal modeling",
         "pub_year": "2023",
         "citation": "Materials and Structures 56 (2), 45, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "ctYLFRIAAAAJ:kz9GbA2Ns4gC"
     },
     {
@@ -1170,7 +1184,7 @@
         "title": "Robotic concrete surface finishing: a moldless approach to creating thermally tuned surface geometry for architectural building components using Profile-3D-Printing",
         "pub_year": "2018",
         "citation": "Construction robotics 2 (1), 53-65, 2018",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "ctYLFRIAAAAJ:35r97b3x0nAC"
     },
     {
@@ -1191,7 +1205,7 @@
         "title": "Selective adsorption of rare earth elements onto functionalized silica particles",
         "pub_year": "2018",
         "citation": "Green Chemistry 20 (7), 1515-1526, 2018",
-        "num_citations": 108,
+        "num_citations": 113,
         "author_pub_id": "ctYLFRIAAAAJ:dQ2og3OwTAUC"
     },
     {
@@ -1212,7 +1226,7 @@
         "title": "Structure and mechanical properties of poly (D, L-lactic acid)/poly (ε-caprolactone) blends",
         "pub_year": "2003",
         "citation": "Biomaterials 24 (23), 4181-4190, 2003",
-        "num_citations": 478,
+        "num_citations": 481,
         "author_pub_id": "ctYLFRIAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -1226,7 +1240,7 @@
         "title": "Structure− property relationships of photopolymerizable poly (ethylene glycol) dimethacrylate hydrogels",
         "pub_year": "2005",
         "citation": "Macromolecules 38 (7), 2897-2902, 2005",
-        "num_citations": 206,
+        "num_citations": 207,
         "author_pub_id": "ctYLFRIAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -1259,7 +1273,7 @@
         "title": "Synthesis and characterization of PEG dimethacrylates and their hydrogels",
         "pub_year": "2004",
         "citation": "Biomacromolecules 5 (4), 1280-1287, 2004",
-        "num_citations": 349,
+        "num_citations": 350,
         "author_pub_id": "ctYLFRIAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -1328,7 +1342,7 @@
         "title": "The grateful dead: damage‐associated molecular pattern molecules and reduction/oxidation regulate immunity",
         "pub_year": "2007",
         "citation": "Immunological reviews 220 (1), 60-81, 2007",
-        "num_citations": 795,
+        "num_citations": 799,
         "author_pub_id": "ctYLFRIAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -1342,7 +1356,7 @@
         "title": "Therapeutic intradermal delivery of tumor necrosis factor-alpha antibodies using tip-loaded dissolvable microneedle arrays",
         "pub_year": "2015",
         "citation": "Acta biomaterialia 24, 96-105, 2015",
-        "num_citations": 85,
+        "num_citations": 87,
         "author_pub_id": "ctYLFRIAAAAJ:IWHjjKOFINEC"
     },
     {
@@ -1356,7 +1370,7 @@
         "title": "Thermally informed robotic topologies: profile-3d-printing for the robotic construction of concrete panels, thermally tuned through high resolution surface geometry",
         "pub_year": "2019",
         "citation": "Robotic Fabrication in Architecture, Art and Design 2018: Foreword by Sigrid …, 2019",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "ctYLFRIAAAAJ:ZfRJV9d4-WMC"
     },
     {
@@ -1370,7 +1384,7 @@
         "title": "Tip-loaded dissolvable microneedle arrays effectively deliver polymer-conjugated antibody inhibitors of tumor-necrosis-factor-alpha into human skin",
         "pub_year": "2016",
         "citation": "Journal of pharmaceutical sciences 105 (11), 3453-3457, 2016",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "ctYLFRIAAAAJ:K3LRdlH-MEoC"
     },
     {
@@ -1391,7 +1405,7 @@
         "title": "Tunable Pickering emulsions with polymer-grafted lignin nanoparticles (PGLNs)",
         "pub_year": "2016",
         "citation": "Journal of colloid and interface science 466, 91-100, 2016",
-        "num_citations": 105,
+        "num_citations": 106,
         "author_pub_id": "ctYLFRIAAAAJ:e5wmG9Sq2KIC"
     },
     {
