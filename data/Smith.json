@@ -73,7 +73,7 @@
         "title": "Bridging large-scale neuronal recordings and large-scale network models using dimensionality reduction",
         "pub_year": "2019",
         "citation": "Current opinion in neurobiology 55, 40-47, 2019",
-        "num_citations": 72,
+        "num_citations": 73,
         "author_pub_id": "mhi9LhkAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -94,14 +94,14 @@
         "title": "Changes in neurovascular coupling with cerebral perfusion pressure indicate a link to cerebral autoregulation",
         "pub_year": "2022",
         "citation": "Journal of Cerebral Blood Flow & Metabolism 42 (7), 1247-1258, 2022",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "mhi9LhkAAAAJ:1sJd4Hv_s6UC"
     },
     {
         "title": "Compact deep neural network models of visual cortex",
         "pub_year": "2023",
         "citation": "bioRxiv, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "mhi9LhkAAAAJ:738O_yMBCRsC"
     },
     {
@@ -129,7 +129,7 @@
         "title": "Comprehensive chronic laminar single-unit, multi-unit, and local field potential recording performance with planar single shank electrode arrays",
         "pub_year": "2015",
         "citation": "Journal of neuroscience methods 242, 15-40, 2015",
-        "num_citations": 132,
+        "num_citations": 134,
         "author_pub_id": "mhi9LhkAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -220,7 +220,7 @@
         "title": "Dynamics of suppression in macaque primary visual cortex",
         "pub_year": "2006",
         "citation": "Journal of Neuroscience 26 (18), 4826-4834, 2006",
-        "num_citations": 125,
+        "num_citations": 126,
         "author_pub_id": "mhi9LhkAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -255,14 +255,14 @@
         "title": "Establishing a statistical link between network oscillations and neural synchrony",
         "pub_year": "2015",
         "citation": "PLoS computational biology 11 (10), e1004549, 2015",
-        "num_citations": 21,
+        "num_citations": 20,
         "author_pub_id": "mhi9LhkAAAAJ:RHpTSmoSYBkC"
     },
     {
         "title": "Estimating intracranial pressure using pulsatile cerebral blood flow measured with diffuse correlation spectroscopy",
         "pub_year": "2020",
         "citation": "Biomedical Optics Express 11 (3), 1462-1476, 2020",
-        "num_citations": 63,
+        "num_citations": 66,
         "author_pub_id": "mhi9LhkAAAAJ:pyW8ca7W8N0C"
     },
     {
@@ -304,7 +304,7 @@
         "title": "Formalin fixation and cryosectioning cause only minimal changes in shape or size of ocular tissues",
         "pub_year": "2017",
         "citation": "Scientific reports 7 (1), 12065, 2017",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "mhi9LhkAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -318,7 +318,7 @@
         "title": "Glass patterns",
         "pub_year": "2011",
         "citation": "Scholarpedia 6 (8), 9594, 2011",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "mhi9LhkAAAAJ:70eg2SAEIzsC"
     },
     {
@@ -332,7 +332,7 @@
         "title": "Global network influences on local functional connectivity",
         "pub_year": "2015",
         "citation": "Nature neuroscience 18 (5), 736-743, 2015",
-        "num_citations": 63,
+        "num_citations": 65,
         "author_pub_id": "mhi9LhkAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -380,14 +380,14 @@
         "title": "Laminar dependence of neuronal correlations in visual cortex",
         "pub_year": "2013",
         "citation": "Journal of neurophysiology 109 (4), 940-947, 2013",
-        "num_citations": 157,
+        "num_citations": 156,
         "author_pub_id": "mhi9LhkAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Latent Dynamic Factor Analysis of High-Dimensional Neural Recordings.",
         "pub_year": "2020",
         "citation": "NeurIPS, 2020",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "mhi9LhkAAAAJ:abG-DnoFyZgC"
     },
     {
@@ -457,14 +457,14 @@
         "title": "Recent visual experience reshapes V4 neuronal activity and improves perceptual performance",
         "pub_year": "2024",
         "citation": "Journal of Neuroscience 44 (41), 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "mhi9LhkAAAAJ:l7t_Zn2s7bgC"
     },
     {
         "title": "Scaling properties of dimensionality reduction for neural populations and network models",
         "pub_year": "2016",
         "citation": "PLoS computational biology 12 (12), e1005141, 2016",
-        "num_citations": 103,
+        "num_citations": 104,
         "author_pub_id": "mhi9LhkAAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -492,49 +492,49 @@
         "title": "Signals in macaque striate cortical neurons that support the perception of glass patterns",
         "pub_year": "2002",
         "citation": "Journal of Neuroscience 22 (18), 8334-8345, 2002",
-        "num_citations": 155,
+        "num_citations": 157,
         "author_pub_id": "mhi9LhkAAAAJ:M3NEmzRMIkIC"
     },
     {
         "title": "Slow drift of neural activity as a signature of impulsivity in macaque visual and prefrontal cortex",
         "pub_year": "2020",
         "citation": "Neuron 108 (3), 551-567. e8, 2020",
-        "num_citations": 120,
+        "num_citations": 123,
         "author_pub_id": "mhi9LhkAAAAJ:D03iK_w7-QYC"
     },
     {
         "title": "Spatial and temporal scales of neuronal correlation in primary visual cortex",
         "pub_year": "2008",
         "citation": "Journal of Neuroscience 28 (48), 12591-12603, 2008",
-        "num_citations": 693,
+        "num_citations": 698,
         "author_pub_id": "mhi9LhkAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Spatial and temporal scales of neuronal correlation in visual area V4",
         "pub_year": "2013",
         "citation": "Journal of Neuroscience 33 (12), 5422-5432, 2013",
-        "num_citations": 133,
+        "num_citations": 134,
         "author_pub_id": "mhi9LhkAAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "Stimulus dependence of neuronal correlation in primary visual cortex of the macaque",
         "pub_year": "2005",
         "citation": "Journal of Neuroscience 25 (14), 3661-3673, 2005",
-        "num_citations": 654,
+        "num_citations": 656,
         "author_pub_id": "mhi9LhkAAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "Stimulus onset quenches neural variability: a widespread cortical phenomenon",
         "pub_year": "2010",
         "citation": "Nature neuroscience 13 (3), 369-378, 2010",
-        "num_citations": 1198,
+        "num_citations": 1202,
         "author_pub_id": "mhi9LhkAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Stimulus selectivity and spatial coherence of gamma components of the local field potential",
         "pub_year": "2011",
         "citation": "Journal of Neuroscience 31 (25), 9390-9403, 2011",
-        "num_citations": 191,
+        "num_citations": 192,
         "author_pub_id": "mhi9LhkAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -548,14 +548,14 @@
         "title": "Stimulus-driven population activity patterns in macaque primary visual cortex",
         "pub_year": "2016",
         "citation": "PLoS computational biology 12 (12), e1005185, 2016",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "mhi9LhkAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Surround suppression in the early visual system",
         "pub_year": "2006",
         "citation": "Journal of Neuroscience 26 (14), 3624-3625, 2006",
-        "num_citations": 38,
+        "num_citations": 37,
         "author_pub_id": "mhi9LhkAAAAJ:mB3voiENLucC"
     },
     {
@@ -576,14 +576,14 @@
         "title": "The role of correlations in direction and contrast coding in the primary visual cortex",
         "pub_year": "2007",
         "citation": "Journal of Neuroscience 27 (9), 2338-2348, 2007",
-        "num_citations": 114,
+        "num_citations": 116,
         "author_pub_id": "mhi9LhkAAAAJ:HDshCWvjkbEC"
     },
     {
         "title": "The spatial structure of correlated neuronal variability",
         "pub_year": "2017",
         "citation": "Nature neuroscience 20 (1), 107-114, 2017",
-        "num_citations": 229,
+        "num_citations": 233,
         "author_pub_id": "mhi9LhkAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -604,7 +604,7 @@
         "title": "Using near-infrared spectroscopy and a random forest regressor to estimate intracranial pressure",
         "pub_year": "2022",
         "citation": "Neurophotonics 9 (4), 045001-045001, 2022",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "mhi9LhkAAAAJ:SP6oXDckpogC"
     },
     {

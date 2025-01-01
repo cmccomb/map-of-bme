@@ -10,7 +10,7 @@
         "title": "A probabilistic approach to receptive field mapping in the frontal eye fields",
         "pub_year": "2016",
         "citation": "Frontiers in systems neuroscience 10, 25, 2016",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "mhi9LhkAAAAJ:TQgYirikUcIC"
     },
     {
@@ -65,7 +65,7 @@
     {
         "title": "Brain-wide arousal signals are segregated from movement planning in the superior colliculus",
         "pub_year": "2024",
-        "citation": "bioRxiv, 2024.04. 26.591284, 2024",
+        "citation": "bioRxiv, 2024",
         "num_citations": 0,
         "author_pub_id": "mhi9LhkAAAAJ:K3LRdlH-MEoC"
     },
@@ -80,7 +80,7 @@
         "title": "Bridging neuronal correlations and dimensionality reduction",
         "pub_year": "2021",
         "citation": "Neuron 109 (17), 2740-2754. e12, 2021",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "mhi9LhkAAAAJ:NhqRSupF_l8C"
     },
     {
@@ -101,7 +101,7 @@
         "title": "Compact deep neural network models of visual cortex",
         "pub_year": "2023",
         "citation": "bioRxiv, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "mhi9LhkAAAAJ:738O_yMBCRsC"
     },
     {
@@ -115,7 +115,7 @@
         "title": "Comparison of recordings from microelectrode arrays and single electrodes in the visual cortex",
         "pub_year": "2007",
         "citation": "Journal of Neuroscience 27 (2), 261-264, 2007",
-        "num_citations": 246,
+        "num_citations": 247,
         "author_pub_id": "mhi9LhkAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -129,7 +129,7 @@
         "title": "Comprehensive chronic laminar single-unit, multi-unit, and local field potential recording performance with planar single shank electrode arrays",
         "pub_year": "2015",
         "citation": "Journal of neuroscience methods 242, 15-40, 2015",
-        "num_citations": 127,
+        "num_citations": 132,
         "author_pub_id": "mhi9LhkAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -143,7 +143,7 @@
         "title": "Correlations and brain states: from electrophysiology to functional imaging",
         "pub_year": "2009",
         "citation": "Current opinion in neurobiology 19 (4), 434-438, 2009",
-        "num_citations": 106,
+        "num_citations": 107,
         "author_pub_id": "mhi9LhkAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -178,7 +178,7 @@
         "title": "Distinct sources of variability affect eye movement preparation",
         "pub_year": "2019",
         "citation": "Journal of Neuroscience 39 (23), 4511-4526, 2019",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "mhi9LhkAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -192,7 +192,7 @@
         "title": "Dynamics of excitatory and inhibitory networks are differentially altered by selective attention",
         "pub_year": "2016",
         "citation": "Journal of neurophysiology 116 (4), 1807-1820, 2016",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "mhi9LhkAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -262,7 +262,7 @@
         "title": "Estimating intracranial pressure using pulsatile cerebral blood flow measured with diffuse correlation spectroscopy",
         "pub_year": "2020",
         "citation": "Biomedical Optics Express 11 (3), 1462-1476, 2020",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "mhi9LhkAAAAJ:pyW8ca7W8N0C"
     },
     {
@@ -283,7 +283,7 @@
         "title": "False discovery rate regression: an application to neural synchrony detection in primary visual cortex",
         "pub_year": "2015",
         "citation": "Journal of the American Statistical Association 110 (510), 459-471, 2015",
-        "num_citations": 101,
+        "num_citations": 103,
         "author_pub_id": "mhi9LhkAAAAJ:9ZlFYXVOiuMC"
     },
     {
@@ -364,6 +364,12 @@
         "author_pub_id": "mhi9LhkAAAAJ:roLk4NBRz8UC"
     },
     {
+        "title": "Inter-hemispheric prefrontal mechanisms of within-and across-trial working memory",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "mhi9LhkAAAAJ:tOudhMTPpwUC"
+    },
+    {
         "title": "Interplay between intraocular and intracranial pressure effects on the optic nerve head in vivo",
         "pub_year": "2021",
         "citation": "Experimental Eye Research 213, 108809, 2021",
@@ -374,14 +380,14 @@
         "title": "Laminar dependence of neuronal correlations in visual cortex",
         "pub_year": "2013",
         "citation": "Journal of neurophysiology 109 (4), 940-947, 2013",
-        "num_citations": 153,
+        "num_citations": 157,
         "author_pub_id": "mhi9LhkAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Latent Dynamic Factor Analysis of High-Dimensional Neural Recordings.",
         "pub_year": "2020",
         "citation": "NeurIPS, 2020",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "mhi9LhkAAAAJ:abG-DnoFyZgC"
     },
     {
@@ -395,7 +401,7 @@
         "title": "Local field potentials indicate network state and account for neuronal response variability",
         "pub_year": "2010",
         "citation": "Journal of computational neuroscience 29 (3), 567-579, 2010",
-        "num_citations": 135,
+        "num_citations": 136,
         "author_pub_id": "mhi9LhkAAAAJ:qUcmZB5y_30C"
     },
     {
@@ -444,7 +450,7 @@
         "title": "Population activity structure of excitatory and inhibitory neurons",
         "pub_year": "2017",
         "citation": "PloS one 12 (8), e0181773, 2017",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "mhi9LhkAAAAJ:maZDTaKrznsC"
     },
     {
@@ -493,14 +499,14 @@
         "title": "Slow drift of neural activity as a signature of impulsivity in macaque visual and prefrontal cortex",
         "pub_year": "2020",
         "citation": "Neuron 108 (3), 551-567. e8, 2020",
-        "num_citations": 118,
+        "num_citations": 120,
         "author_pub_id": "mhi9LhkAAAAJ:D03iK_w7-QYC"
     },
     {
         "title": "Spatial and temporal scales of neuronal correlation in primary visual cortex",
         "pub_year": "2008",
         "citation": "Journal of Neuroscience 28 (48), 12591-12603, 2008",
-        "num_citations": 688,
+        "num_citations": 693,
         "author_pub_id": "mhi9LhkAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -514,21 +520,21 @@
         "title": "Stimulus dependence of neuronal correlation in primary visual cortex of the macaque",
         "pub_year": "2005",
         "citation": "Journal of Neuroscience 25 (14), 3661-3673, 2005",
-        "num_citations": 650,
+        "num_citations": 654,
         "author_pub_id": "mhi9LhkAAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "Stimulus onset quenches neural variability: a widespread cortical phenomenon",
         "pub_year": "2010",
         "citation": "Nature neuroscience 13 (3), 369-378, 2010",
-        "num_citations": 1191,
+        "num_citations": 1198,
         "author_pub_id": "mhi9LhkAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Stimulus selectivity and spatial coherence of gamma components of the local field potential",
         "pub_year": "2011",
         "citation": "Journal of Neuroscience 31 (25), 9390-9403, 2011",
-        "num_citations": 188,
+        "num_citations": 191,
         "author_pub_id": "mhi9LhkAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -570,21 +576,21 @@
         "title": "The role of correlations in direction and contrast coding in the primary visual cortex",
         "pub_year": "2007",
         "citation": "Journal of Neuroscience 27 (9), 2338-2348, 2007",
-        "num_citations": 113,
+        "num_citations": 114,
         "author_pub_id": "mhi9LhkAAAAJ:HDshCWvjkbEC"
     },
     {
         "title": "The spatial structure of correlated neuronal variability",
         "pub_year": "2017",
         "citation": "Nature neuroscience 20 (1), 107-114, 2017",
-        "num_citations": 227,
+        "num_citations": 229,
         "author_pub_id": "mhi9LhkAAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "The timing of response onset and offset in macaque visual neurons",
         "pub_year": "2002",
         "citation": "Journal of Neuroscience 22 (8), 3189-3205, 2002",
-        "num_citations": 219,
+        "num_citations": 220,
         "author_pub_id": "mhi9LhkAAAAJ:L8Ckcad2t8MC"
     },
     {

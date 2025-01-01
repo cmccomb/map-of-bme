@@ -103,6 +103,13 @@
         "author_pub_id": "qC52bkkAAAAJ:bEWYMUwI8FkC"
     },
     {
+        "title": "Assessing the Impact of Cognitive Load on Resting State Tissue Oxygen Saturation in Adult Patients with Sickle Cell Disease",
+        "pub_year": "2024",
+        "citation": "Blood 144, 3879, 2024",
+        "num_citations": 0,
+        "author_pub_id": "qC52bkkAAAAJ:rO6llkc54NcC"
+    },
+    {
         "title": "Association of hippocampal substructure resting-state functional connectivity with memory performance in older adults",
         "pub_year": "2018",
         "citation": "The American Journal of Geriatric Psychiatry 26 (6), 690-699, 2018",
@@ -132,7 +139,7 @@
         "title": "Computational and experimental evaluation of the Tic-Tac-Toe RF coil for 7 Tesla MRI",
         "pub_year": "2019",
         "citation": "PloS one 14 (1), e0209663, 2019",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "qC52bkkAAAAJ:-f6ydRqryjwC"
     },
     {
@@ -153,7 +160,7 @@
         "title": "Demographic reporting and phenotypic exclusion in fNIRS",
         "pub_year": "2023",
         "citation": "Frontiers in Neuroscience 17, 1086208, 2023",
-        "num_citations": 30,
+        "num_citations": 36,
         "author_pub_id": "qC52bkkAAAAJ:35N4QoGY0k4C"
     },
     {
@@ -169,6 +176,13 @@
         "citation": "PLOS ONE 13 (2), 2018",
         "num_citations": 0,
         "author_pub_id": "qC52bkkAAAAJ:mB3voiENLucC"
+    },
+    {
+        "title": "Dynamic Cerebral Autoregulation and Blood Pressure Oscillations Reveal the Severity of Autoregulatory Dysfunction in Sickle Cell Disease",
+        "pub_year": "2024",
+        "citation": "Blood 144, 3876, 2024",
+        "num_citations": 0,
+        "author_pub_id": "qC52bkkAAAAJ:3s1wT3WcHBgC"
     },
     {
         "title": "Evaluation of an Anthropomorphic Phantom with In-Vivo Using Quantitative MRI",
@@ -199,6 +213,13 @@
         "author_pub_id": "qC52bkkAAAAJ:ldfaerwXgEUC"
     },
     {
+        "title": "Higher Hemoglobin Level Correlates with Increased Tissue Oxygenation in a Comprehensive Profile of Hemorheology in Sickle Cell Disease",
+        "pub_year": "2024",
+        "citation": "Blood 144, 294, 2024",
+        "num_citations": 0,
+        "author_pub_id": "qC52bkkAAAAJ:zA6iFVUQeVQC"
+    },
+    {
         "title": "Homogeneous 64-channel RF transmit array for brain imaging at 7T, 9.4 T, and 10.5 T",
         "pub_year": "2019",
         "citation": "Proc. of the 27th International Society of Magnetic Resonance in Medicine …, 2019",
@@ -209,7 +230,7 @@
         "title": "How to design and construct a 3D-printed human head phantom",
         "pub_year": "2019",
         "citation": "Journal of 3D printing in medicine 3 (3), 119-125, 2019",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "qC52bkkAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -237,7 +258,7 @@
         "title": "In-vivo and numerical analysis of the eigenmodes produced by a multi-level Tic-Tac-Toe head transmit array for 7 Tesla MRI",
         "pub_year": "2018",
         "citation": "PloS one 13 (11), e0206127, 2018",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "qC52bkkAAAAJ:ZeXyd9-uunAC"
     },
     {

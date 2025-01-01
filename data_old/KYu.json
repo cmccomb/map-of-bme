@@ -45,7 +45,7 @@
         "title": "Dual-mode Ultrasound: Magnetoacoustics for Biological Tissue Imaging and Ultrasound Mediated Neuromodulation",
         "pub_year": "2018",
         "citation": "University of Minnesota, 2018",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "wP966k4AAAAJ:mB3voiENLucC"
     },
     {
@@ -59,7 +59,7 @@
         "title": "Electrophysiological source imaging of brain networks perturbed by low-intensity transcranial focused ultrasound",
         "pub_year": "2016",
         "citation": "IEEE Transactions on Biomedical Engineering 63 (9), 1787-1794, 2016",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "wP966k4AAAAJ:ufrVoPGSRksC"
     },
     {
@@ -87,8 +87,14 @@
         "title": "Intrinsic functional neuron-type selectivity of transcranial focused ultrasound neuromodulation",
         "pub_year": "2021",
         "citation": "Nature communications 12 (1), 2519, 2021",
-        "num_citations": 137,
+        "num_citations": 142,
         "author_pub_id": "wP966k4AAAAJ:-f6ydRqryjwC"
+    },
+    {
+        "title": "Intrinsic functional neuron-type selectivity of transcranial focused ultrasound neuromodulation. Nat Commun 2021; 12: 2519",
+        "citation": "",
+        "num_citations": 7,
+        "author_pub_id": "wP966k4AAAAJ:O3NaXMp0MMsC"
     },
     {
         "title": "Investigation of displacement of intracranial electrode induced by focused ultrasound stimulation",
@@ -108,21 +114,21 @@
         "title": "Low-intensity transcranial focused ultrasound suppresses pain by modulating pain-processing brain circuits",
         "pub_year": "2024",
         "citation": "Blood 144 (10), 1101-1115, 2024",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "wP966k4AAAAJ:JV2RwH3_ST0C"
     },
     {
         "title": "Magneto acoustic tomography with short pulsed magnetic field for in-vivo imaging of magnetic iron oxide nanoparticles",
         "pub_year": "2016",
         "citation": "Nanomedicine: Nanotechnology, Biology and Medicine 12 (3), 689-699, 2016",
-        "num_citations": 52,
+        "num_citations": 54,
         "author_pub_id": "wP966k4AAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Magnetoacoustic tomography with magnetic induction (MAT-MI) for imaging electrical conductivity of biological tissue: a tutorial review",
         "pub_year": "2016",
         "citation": "Physics in Medicine & Biology 61 (18), R249, 2016",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "wP966k4AAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -157,7 +163,7 @@
         "title": "Neuromodulation management of chronic neuropathic pain in the central nervous system",
         "pub_year": "2020",
         "citation": "Advanced Functional Materials 30 (37), 1908999, 2020",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "wP966k4AAAAJ:IWHjjKOFINEC"
     },
     {
@@ -199,7 +205,7 @@
         "title": "The analysis of volatile organic compounds biomarkers for lung cancer in exhaled breath, tissues and cell lines",
         "pub_year": "2012",
         "citation": "Cancer Biomarkers 11 (4), 129-137, 2012",
-        "num_citations": 175,
+        "num_citations": 176,
         "author_pub_id": "wP966k4AAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -213,21 +219,21 @@
         "title": "Transcranial focused ultrasound activates feedforward and feedback cortico-thalamo-cortical pathways by selectively activating excitatory neurons",
         "pub_year": "2024",
         "citation": "bioRxiv, 2024.06. 26.600794, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "wP966k4AAAAJ:YFjsv_pBGBYC"
     },
     {
         "title": "Transcranial focused ultrasound enhances sensory discrimination capability through somatosensory cortical excitation",
         "pub_year": "2021",
         "citation": "Ultrasound in medicine & biology 47 (5), 1356-1366, 2021",
-        "num_citations": 38,
+        "num_citations": 42,
         "author_pub_id": "wP966k4AAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "Transcranial focused ultrasound induces sustained synaptic plasticity in rat hippocampus",
         "pub_year": "2022",
         "citation": "Brain Stimulation 15 (2), 352-359, 2022",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "wP966k4AAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -241,14 +247,21 @@
         "title": "Transcranial focused ultrasound neuromodulation of voluntary movement-related cortical activity in humans",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Biomedical Engineering 68 (6), 1923-1931, 2020",
-        "num_citations": 43,
+        "num_citations": 47,
         "author_pub_id": "wP966k4AAAAJ:ZeXyd9-uunAC"
+    },
+    {
+        "title": "Transcranial focused ultrasound remotely modulates extrastriate visual cortex by stimulating frontal eye field with subregion specificity",
+        "pub_year": "2024",
+        "citation": "Journal of Neural Engineering, 2024",
+        "num_citations": 0,
+        "author_pub_id": "wP966k4AAAAJ:ns9cj8rnVeAC"
     },
     {
         "title": "Transcranial focused ultrasound to V5 enhances human visual motion brain-computer interface by modulating feature-based attention",
         "pub_year": "2024",
         "citation": "Nature Communications 15 (1), 4382, 2024",
-        "num_citations": 4,
+        "num_citations": 7,
         "author_pub_id": "wP966k4AAAAJ:hMod-77fHWUC"
     },
     {
