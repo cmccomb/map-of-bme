@@ -10,21 +10,21 @@
         "title": "Alliance of heart and endoderm: multilineage organoids to model co-development",
         "pub_year": "2023",
         "citation": "Circulation research 132 (4), 511-518, 2023",
-        "num_citations": 6,
+        "num_citations": 8,
         "author_pub_id": "xJrrWmQAAAAJ:M3NEmzRMIkIC"
     },
     {
         "title": "Assessment of proliferation and cytotoxicity in a biomimetic three-dimensional model of lung cancer",
         "pub_year": "2015",
         "citation": "The Annals of thoracic surgery 100 (2), 414-421, 2015",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "xJrrWmQAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Bioengineering human lung grafts on porcine matrix",
         "pub_year": "2018",
         "citation": "Annals of surgery 267 (3), 590-598, 2018",
-        "num_citations": 105,
+        "num_citations": 106,
         "author_pub_id": "xJrrWmQAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -38,7 +38,7 @@
         "title": "Bioengineering of functional human induced pluripotent stem cell-derived intestinal grafts",
         "pub_year": "2017",
         "citation": "Nature communications 8 (1), 765, 2017",
-        "num_citations": 122,
+        "num_citations": 123,
         "author_pub_id": "xJrrWmQAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -59,7 +59,7 @@
         "title": "Biofabrication of a vascularized islet organ for type 1 diabetes",
         "pub_year": "2019",
         "citation": "Biomaterials 199, 40-51, 2019",
-        "num_citations": 84,
+        "num_citations": 85,
         "author_pub_id": "xJrrWmQAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -73,7 +73,7 @@
         "title": "Cell–Surface Binding of DNA Nanostructures for Enhanced Intracellular and Intranuclear Delivery",
         "pub_year": "2024",
         "citation": "ACS Applied Materials & Interfaces 16 (13), 15783-15797, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "xJrrWmQAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -94,14 +94,14 @@
         "title": "Creation of laryngeal grafts from primary human cells and decellularized laryngeal scaffolds",
         "pub_year": "2020",
         "citation": "Tissue Engineering Part A 26 (9-10), 543-555, 2020",
-        "num_citations": 20,
+        "num_citations": 22,
         "author_pub_id": "xJrrWmQAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Current challenges and future directions for engineering extracellular vesicles for heart, lung, blood and sleep diseases",
         "pub_year": "2023",
         "citation": "Journal of extracellular vesicles 12 (2), 12305, 2023",
-        "num_citations": 62,
+        "num_citations": 64,
         "author_pub_id": "xJrrWmQAAAAJ:maZDTaKrznsC"
     },
     {
@@ -129,21 +129,21 @@
         "title": "Engineered composite tissue as a bioartificial limb graft",
         "pub_year": "2015",
         "citation": "Biomaterials 61, 246-256, 2015",
-        "num_citations": 135,
+        "num_citations": 136,
         "author_pub_id": "xJrrWmQAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Engineering a 3D vascularized adipose tissue construct using a decellularized lung matrix",
         "pub_year": "2021",
         "citation": "Biomimetics 6 (3), 52, 2021",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "xJrrWmQAAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "Engineering pro-angiogenic biomaterials via chemoselective extracellular vesicle immobilization",
         "pub_year": "2022",
         "citation": "Biomaterials 281, 121357, 2022",
-        "num_citations": 28,
+        "num_citations": 30,
         "author_pub_id": "xJrrWmQAAAAJ:mB3voiENLucC"
     },
     {
@@ -157,7 +157,7 @@
         "title": "Engineering rotating apical-out airway organoid for assessing respiratory cilia motility",
         "pub_year": "2022",
         "citation": "Iscience 25 (8), 2022",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "xJrrWmQAAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -185,14 +185,14 @@
         "title": "Extracellular matrix dynamics: tracking in biological systems and their implications",
         "pub_year": "2022",
         "citation": "Journal of Biological Engineering 16 (1), 13, 2022",
-        "num_citations": 85,
+        "num_citations": 92,
         "author_pub_id": "xJrrWmQAAAAJ:RHpTSmoSYBkC"
     },
     {
         "title": "Fibrillin-2 and Tenascin-C bridge the age gap in lung epithelial regeneration",
         "pub_year": "2017",
         "citation": "Biomaterials 140, 212-219, 2017",
-        "num_citations": 58,
+        "num_citations": 59,
         "author_pub_id": "xJrrWmQAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -231,10 +231,17 @@
         "author_pub_id": "xJrrWmQAAAAJ:ns9cj8rnVeAC"
     },
     {
+        "title": "Lung Progenitor and Stem Cell Transplantation as a Potential Regenerative Therapy for Lung Diseases.",
+        "pub_year": "2024",
+        "citation": "Transplantation, 2024",
+        "num_citations": 2,
+        "author_pub_id": "xJrrWmQAAAAJ:70eg2SAEIzsC"
+    },
+    {
         "title": "Magnify is a universal molecular anchoring strategy for expansion microscopy",
         "pub_year": "2023",
         "citation": "Nature biotechnology 41 (6), 858-869, 2023",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "xJrrWmQAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -255,7 +262,7 @@
         "title": "Metabolic glycan labeling and chemoselective functionalization of native biomaterials",
         "pub_year": "2018",
         "citation": "Biomaterials 182, 127-134, 2018",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "xJrrWmQAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -328,17 +335,23 @@
         "author_pub_id": "xJrrWmQAAAAJ:W7OEmFMy1HYC"
     },
     {
+        "title": "Online First",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "xJrrWmQAAAAJ:2P1L_qKh6hAC"
+    },
+    {
         "title": "Perfusion decellularization of human and porcine lungs: bringing the matrix to clinical scale",
         "pub_year": "2014",
         "citation": "The Journal of heart and lung transplantation 33 (3), 298-308, 2014",
-        "num_citations": 320,
+        "num_citations": 322,
         "author_pub_id": "xJrrWmQAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Perfusion decellularization of whole organs",
         "pub_year": "2014",
         "citation": "Nature protocols 9 (6), 1451-1468, 2014",
-        "num_citations": 330,
+        "num_citations": 331,
         "author_pub_id": "xJrrWmQAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -352,14 +365,14 @@
         "title": "Rebuilding the Vascular Network: In vivo and in vitro Approaches",
         "pub_year": "2021",
         "citation": "Frontiers in Cell and Developmental Biology 9, 639299, 2021",
-        "num_citations": 39,
+        "num_citations": 41,
         "author_pub_id": "xJrrWmQAAAAJ:7PzlFSSx8tAC"
     },
     {
         "title": "Recapitulating human cardio-pulmonary co-development using simultaneous multilineage differentiation of pluripotent stem cells",
         "pub_year": "2022",
         "citation": "Elife 11, e67872, 2022",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "xJrrWmQAAAAJ:HDshCWvjkbEC"
     },
     {
@@ -394,7 +407,7 @@
         "title": "Regenerative potential of human airway stem cells in lung epithelial engineering",
         "pub_year": "2016",
         "citation": "Biomaterials 108, 111-119, 2016",
-        "num_citations": 80,
+        "num_citations": 81,
         "author_pub_id": "xJrrWmQAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -422,14 +435,14 @@
         "title": "Super‐resolution vibrational imaging using expansion stimulated Raman scattering microscopy",
         "pub_year": "2022",
         "citation": "Advanced Science 9 (20), 2200315, 2022",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "xJrrWmQAAAAJ:hFOr9nPyWt4C"
     },
     {
         "title": "Synthetic cell armor made of DNA origami",
         "pub_year": "2023",
         "citation": "Nano Letters 23 (15), 7076-7085, 2023",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "xJrrWmQAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -450,7 +463,7 @@
         "title": "Visualization of monoaminergic neurons and neurotoxicity of MPTP in live transgenic zebrafish",
         "pub_year": "2008",
         "citation": "Developmental biology 314 (1), 84-92, 2008",
-        "num_citations": 220,
+        "num_citations": 221,
         "author_pub_id": "xJrrWmQAAAAJ:u5HHmVD_uO8C"
     }
 ]
