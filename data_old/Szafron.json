@@ -10,14 +10,14 @@
         "title": "A computational growth and remodeling framework for adaptive and maladaptive pulmonary arterial hemodynamics",
         "pub_year": "2023",
         "citation": "Biomechanics and Modeling in Mechanobiology 22 (6), 1935-1951, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "gbVHsS0AAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "A fluid–solid-growth solver for cardiovascular modeling",
         "pub_year": "2023",
         "citation": "Computer Methods in Applied Mechanics and Engineering 417, 116312, 2023",
-        "num_citations": 11,
+        "num_citations": 14,
         "author_pub_id": "gbVHsS0AAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -31,7 +31,7 @@
         "title": "Adaptive integration of history variables in constrained mixture models for organ‐scale growth and remodeling",
         "pub_year": "2024",
         "citation": "International Journal for Numerical Methods in Biomedical Engineering 40 (11 …, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "gbVHsS0AAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -45,7 +45,7 @@
         "title": "Computer-controlled biaxial bioreactor for investigating cell-mediated homeostasis in tissue equivalents",
         "pub_year": "2020",
         "citation": "Journal of biomechanical engineering 142 (7), 071011, 2020",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "gbVHsS0AAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -66,7 +66,7 @@
         "title": "Differential outcomes of venous and arterial tissue engineered vascular grafts highlight the importance of coupling long-term implantation studies with computational modeling",
         "pub_year": "2019",
         "citation": "Acta biomaterialia 94, 183-194, 2019",
-        "num_citations": 43,
+        "num_citations": 45,
         "author_pub_id": "gbVHsS0AAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -80,14 +80,14 @@
         "title": "Electrospun Tissue-Engineered Arterial Graft Thickness Affects Long-Term Composition and Mechanics",
         "pub_year": "2021",
         "citation": "Tissue Engineering Part A 27 (9-10), 593-603, 2021",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "gbVHsS0AAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "FSGe: A fast and strongly-coupled 3D fluid-solid-growth interaction method",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2404.13523, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "gbVHsS0AAAAJ:aqlVkmm33-oC"
     },
     {
@@ -113,8 +113,8 @@
     },
     {
         "title": "High Shear Stress Reduces ERG Causing Endothelial-Mesenchymal Transition and Pulmonary Arterial Hypertension",
-        "pub_year": "2024",
-        "citation": "Arteriosclerosis, Thrombosis, and Vascular Biology, 2024",
+        "pub_year": "2025",
+        "citation": "Arteriosclerosis, Thrombosis, and Vascular Biology 45 (2), 218-237, 2025",
         "num_citations": 2,
         "author_pub_id": "gbVHsS0AAAAJ:_kc_bZDykSQC"
     },
@@ -129,7 +129,7 @@
         "title": "In vivo development of tissue engineered vascular grafts: a fluid-solid-growth model",
         "pub_year": "2022",
         "citation": "Biomechanics and Modeling in Mechanobiology 21 (3), 827-848, 2022",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "gbVHsS0AAAAJ:0EnyYjriUFMC"
     },
     {
@@ -199,7 +199,7 @@
         "title": "Spontaneous reversal of stenosis in tissue-engineered vascular grafts",
         "pub_year": "2020",
         "citation": "Science translational medicine 12 (537), eaax6919, 2020",
-        "num_citations": 112,
+        "num_citations": 113,
         "author_pub_id": "gbVHsS0AAAAJ:eQOLeE2rZwMC"
     },
     {

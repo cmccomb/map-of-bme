@@ -22,14 +22,14 @@
     {
         "title": "64-channel Double-Octagon Tx Head Coil for 7T Imaging",
         "pub_year": "2017",
-        "citation": "Proc. of the 25th International Society of Magnetic Resonance in Medicine …, 2017",
+        "citation": "In Proc. of the 25th International Society of Magnetic Resonance in Medicine …, 2017",
         "num_citations": 7,
         "author_pub_id": "qC52bkkAAAAJ:blknAaTinKkC"
     },
     {
         "title": "7T Multi-slab Whole-Head Homogenous and Low SAR T2 Acquisitions with Limited RF Power Amplifiers Capabilities",
         "pub_year": "2015",
-        "citation": "Proc. Intl. Soc. Mag. Reson. Med 23, 3209, 2015",
+        "citation": "Toronto, Canada, 2015",
         "num_citations": 1,
         "author_pub_id": "qC52bkkAAAAJ:O3NaXMp0MMsC"
     },
@@ -65,7 +65,7 @@
         "title": "A new RF transmit coil for foot and ankle imaging at 7T MRI",
         "pub_year": "2018",
         "citation": "Magnetic resonance imaging 45, 1-6, 2018",
-        "num_citations": 17,
+        "num_citations": 16,
         "author_pub_id": "qC52bkkAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -113,7 +113,7 @@
         "title": "Association of hippocampal substructure resting-state functional connectivity with memory performance in older adults",
         "pub_year": "2018",
         "citation": "The American Journal of Geriatric Psychiatry 26 (6), 690-699, 2018",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "qC52bkkAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -153,21 +153,21 @@
         "title": "Corrigendum: Demographic reporting and phenotypic exclusion in fNIRS",
         "pub_year": "2023",
         "citation": "Frontiers in Neuroscience 17, 1331375, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "qC52bkkAAAAJ:M05iB0D1s5AC"
     },
     {
         "title": "Demographic reporting and phenotypic exclusion in fNIRS",
         "pub_year": "2023",
         "citation": "Frontiers in Neuroscience 17, 1086208, 2023",
-        "num_citations": 40,
+        "num_citations": 45,
         "author_pub_id": "qC52bkkAAAAJ:35N4QoGY0k4C"
     },
     {
         "title": "Design and fabrication of a realistic anthropomorphic heterogeneous head phantom for MR purposes",
         "pub_year": "2017",
         "citation": "PLoS ONE 12 (8), 2017",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "qC52bkkAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -202,7 +202,7 @@
         "title": "Exploring the impact and influence of melanin on frequency-domain near-infrared spectroscopy measurements",
         "pub_year": "2024",
         "citation": "Journal of Biomedical Optics 29 (S3), S33310-S33310, 2024",
-        "num_citations": 1,
+        "num_citations": 3,
         "author_pub_id": "qC52bkkAAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -237,14 +237,14 @@
         "title": "ISMRM best practices for safety testing of experimental RF hardware",
         "pub_year": "2022",
         "citation": "",
-        "num_citations": 16,
+        "num_citations": 18,
         "author_pub_id": "qC52bkkAAAAJ:k_IJM867U9cC"
     },
     {
         "title": "Improved 7 Tesla transmit field homogeneity with reduced electromagnetic power deposition using coupled Tic Tac Toe antennas",
         "pub_year": "2021",
         "citation": "Scientific reports 11 (1), 3370, 2021",
-        "num_citations": 22,
+        "num_citations": 28,
         "author_pub_id": "qC52bkkAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -264,7 +264,7 @@
     {
         "title": "Initial Results: Ultra-High Field 32-ch Tx Body Array with Bright Centers.",
         "pub_year": "2015",
-        "citation": "Proc. Intl. Soc. Mag. Reson. Med 23, 3135, 2015",
+        "citation": "Toronto, Canada2015, 2015",
         "num_citations": 1,
         "author_pub_id": "qC52bkkAAAAJ:hMod-77fHWUC"
     },
@@ -338,8 +338,8 @@
     {
         "title": "Two-layer analytical model for estimation of layer thickness and flow using Diffuse Correlation Spectroscopy",
         "pub_year": "2022",
-        "citation": "Plos one 17 (9), e0274258, 2022",
-        "num_citations": 11,
+        "citation": "PLoS One 17 (9), e0274258, 2022",
+        "num_citations": 12,
         "author_pub_id": "qC52bkkAAAAJ:lSLTfruPkqcC"
     },
     {

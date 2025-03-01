@@ -24,7 +24,7 @@
         "title": "72-Hour in vivo evaluation of nitric oxide generating artificial lung gas exchange fibers in sheep",
         "pub_year": "2019",
         "citation": "Acta biomaterialia 90, 122-131, 2019",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "sAdoeA8AAAAJ:8AbLer7MMksC"
     },
     {
@@ -114,14 +114,14 @@
         "title": "Achieving one‐step surface coating of highly hydrophilic poly (carboxybetaine methacrylate) polymers on hydrophobic and hydrophilic surfaces",
         "pub_year": "2014",
         "citation": "Advanced Materials Interfaces 1 (6), 1400071, 2014",
-        "num_citations": 112,
+        "num_citations": 114,
         "author_pub_id": "sAdoeA8AAAAJ:yD5IFk8b50cC"
     },
     {
         "title": "Achieving ultralow fouling under ambient conditions via surface-initiated ARGET ATRP of carboxybetaine",
         "pub_year": "2017",
         "citation": "ACS applied materials & interfaces 9 (11), 9255-9259, 2017",
-        "num_citations": 102,
+        "num_citations": 104,
         "author_pub_id": "sAdoeA8AAAAJ:u9iWguZQMMsC"
     },
     {
@@ -144,6 +144,13 @@
         "citation": "ASAIO 2009 Annual Meeting, 2009",
         "num_citations": 7,
         "author_pub_id": "sAdoeA8AAAAJ:OU6Ihb5iCvQC"
+    },
+    {
+        "title": "Antifouling Zwitterionic Polymer Coatings for Blood-Bearing Medical Devices",
+        "pub_year": "2025",
+        "citation": "Langmuir, 2025",
+        "num_citations": 0,
+        "author_pub_id": "sAdoeA8AAAAJ:7T2F9Uy0os0C"
     },
     {
         "title": "Artificial Lungs",
@@ -198,7 +205,7 @@
         "title": "Biocompatibility of artificial lungs",
         "pub_year": "2002",
         "citation": "The Artificial Lung. Austin, TX, Landes Bioscience, 2002",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "sAdoeA8AAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -233,7 +240,7 @@
         "title": "Combination of polycarboxybetaine coating and factor XII inhibitor reduces clot formation while preserving normal tissue coagulation during extracorporeal life support",
         "pub_year": "2021",
         "citation": "Biomaterials 272, 120778, 2021",
-        "num_citations": 45,
+        "num_citations": 47,
         "author_pub_id": "sAdoeA8AAAAJ:5ugPr518TE4C"
     },
     {
@@ -261,7 +268,7 @@
         "title": "Cyclic peptide FXII inhibitor provides safe anticoagulation in a thrombosis model and in artificial lungs",
         "pub_year": "2020",
         "citation": "Nature communications 11 (1), 3890, 2020",
-        "num_citations": 76,
+        "num_citations": 78,
         "author_pub_id": "sAdoeA8AAAAJ:1qzjygNMrQYC"
     },
     {
@@ -303,7 +310,7 @@
         "title": "Design and evaluation of a new, low pressure loss, implantable artificial lung",
         "pub_year": "1994",
         "citation": "ASAIO journal 40 (3), M522-M526, 1994",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "sAdoeA8AAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -444,17 +451,24 @@
         "author_pub_id": "sAdoeA8AAAAJ:3fE2CSJIrl8C"
     },
     {
+        "title": "Enhancing Hemocompatibility in ECMO Systems With a Fibrinolytic Interactive Coating: in Vitro Evaluation of Blood Clot Lysis Using a 3D Microfluidic Model",
+        "pub_year": "2025",
+        "citation": "Macromolecular Bioscience, 2400530, 2025",
+        "num_citations": 0,
+        "author_pub_id": "sAdoeA8AAAAJ:NJ774b8OgUMC"
+    },
+    {
         "title": "Establishment and evaluation of a rat model of extracorporeal membrane oxygenation (ECMO) thrombosis using a 3D-printed mock-oxygenator",
         "pub_year": "2021",
         "citation": "Journal of Translational Medicine 19 (1), 179, 2021",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "sAdoeA8AAAAJ:wbdj-CoPYUoC"
     },
     {
         "title": "Evaluating the effect of shear stress on graft-to zwitterionic polycarboxybetaine coating stability using a flow cell",
         "pub_year": "2018",
         "citation": "Langmuir 35 (5), 1984-1988, 2018",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "sAdoeA8AAAAJ:tS2w5q8j5-wC"
     },
     {
@@ -468,7 +482,7 @@
         "title": "Extracorporeal artificial organs and therapeutic devices",
         "pub_year": "2020",
         "citation": "Biomaterials Science, 1051-1077, 2020",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "sAdoeA8AAAAJ:olpn-zPbct0C"
     },
     {
@@ -496,7 +510,7 @@
         "title": "Factor XII silencing using siRNA prevents thrombus formation in a rat model of extracorporeal life support",
         "pub_year": "2023",
         "citation": "ASAIO Journal 69 (6), 527-532, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "sAdoeA8AAAAJ:Mojj43d5GZwC"
     },
     {
@@ -726,7 +740,7 @@
         "title": "Multimodal, biomaterial‐focused anticoagulation via superlow fouling zwitterionic functional groups coupled with anti‐platelet nitric oxide release",
         "pub_year": "2016",
         "citation": "Advanced Materials Interfaces 3 (6), 1500646, 2016",
-        "num_citations": 42,
+        "num_citations": 44,
         "author_pub_id": "sAdoeA8AAAAJ:abG-DnoFyZgC"
     },
     {
@@ -863,7 +877,7 @@
         "title": "Pulsatile flow and oxygen transport past cylindrical fiber arrays for an artificial lung: Computational and experimental studies",
         "pub_year": "2008",
         "citation": "",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "sAdoeA8AAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -884,7 +898,7 @@
         "title": "Remodeling of mechanical junctions and of microtubule-associated proteins accompany cardiac connexin43 lateralization",
         "pub_year": "2012",
         "citation": "Heart rhythm 9 (7), 1133-1140. e6, 2012",
-        "num_citations": 76,
+        "num_citations": 77,
         "author_pub_id": "sAdoeA8AAAAJ:4TOpqqG69KYC"
     },
     {
@@ -1050,7 +1064,7 @@
         "title": "Timing of heparin and perfusion temperature during procurement of organs with extracorporeal support in donors after circulatory determination of death",
         "pub_year": "2011",
         "citation": "ASAIO Journal 57 (5), 368-374, 2011",
-        "num_citations": 23,
+        "num_citations": 25,
         "author_pub_id": "sAdoeA8AAAAJ:hC7cP41nSMkC"
     },
     {
@@ -1113,14 +1127,14 @@
         "title": "Zwitterionic Polysulfobetaine Coating and Antiplatelet Liposomes Reduce Fouling in Artificial Lung Circuits",
         "pub_year": "2023",
         "citation": "Macromolecular bioscience 23 (4), 2200479, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "sAdoeA8AAAAJ:eq2jaN3J8jMC"
     },
     {
         "title": "Zwitterionic poly-carboxybetaine coating reduces artificial lung thrombosis in sheep and rabbits",
         "pub_year": "2019",
         "citation": "Acta biomaterialia 92, 71-81, 2019",
-        "num_citations": 69,
+        "num_citations": 70,
         "author_pub_id": "sAdoeA8AAAAJ:4fKUyHm3Qg0C"
     }
 ]

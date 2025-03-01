@@ -9,7 +9,7 @@
         "title": "A novel calcium aluminate‐melatonin scaffold enhances bone regeneration within a calvarial defect",
         "pub_year": "2012",
         "citation": "Journal of pineal research 53 (2), 206-218, 2012",
-        "num_citations": 80,
+        "num_citations": 79,
         "author_pub_id": "LyK-4aEAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -23,7 +23,7 @@
         "title": "Chemically‐Induced Cross‐Linking of Peptidic Fibrils for Scaffolding Polymeric Particles and Macrophages",
         "pub_year": "2021",
         "citation": "Macromolecular bioscience 21 (4), 2000350, 2021",
-        "num_citations": 1,
+        "num_citations": 0,
         "author_pub_id": "LyK-4aEAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -58,21 +58,21 @@
         "title": "Development of polydimethylsiloxane substrates with tunable elastic modulus to study cell mechanobiology in muscle and nerve",
         "pub_year": "2012",
         "citation": "PloS one 7 (12), e51499, 2012",
-        "num_citations": 686,
+        "num_citations": 688,
         "author_pub_id": "LyK-4aEAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Dynamic loading of human engineered heart tissue enhances contractile function and drives a desmosome-linked disease phenotype",
         "pub_year": "2021",
         "citation": "Science Translational Medicine 13 (603), eabd1817, 2021",
-        "num_citations": 89,
+        "num_citations": 90,
         "author_pub_id": "LyK-4aEAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Engineered basement membranes for regenerating the corneal endothelium",
         "pub_year": "2016",
         "citation": "Advanced healthcare materials 5 (22), 2942-2950, 2016",
-        "num_citations": 44,
+        "num_citations": 43,
         "author_pub_id": "LyK-4aEAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -86,14 +86,14 @@
         "title": "FRESH 3D bioprinting a full-size model of the human heart",
         "pub_year": "2020",
         "citation": "ACS Biomaterials Science & Engineering 6 (11), 6453-6459, 2020",
-        "num_citations": 253,
+        "num_citations": 268,
         "author_pub_id": "LyK-4aEAAAAJ:_kc_bZDykSQC"
     },
     {
         "title": "Functionalization of stainless steel 316L with corrosion resistant polymer films",
         "pub_year": "2021",
         "citation": "Thin Solid Films 721, 138543, 2021",
-        "num_citations": 5,
+        "num_citations": 7,
         "author_pub_id": "LyK-4aEAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -107,13 +107,13 @@
         "title": "In vitro expansion of corneal endothelial cells on biomimetic substrates",
         "pub_year": "2015",
         "citation": "Scientific reports 5 (1), 7955, 2015",
-        "num_citations": 93,
+        "num_citations": 96,
         "author_pub_id": "LyK-4aEAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "In vivo engraftment into the cornea endothelium using extracellular matrix shrink-wrapped cells",
         "pub_year": "2022",
-        "citation": "Communications Materials 3 (1), 25, 2022",
+        "citation": "Communications materials 3 (1), 25, 2022",
         "num_citations": 2,
         "author_pub_id": "LyK-4aEAAAAJ:QIV2ME_5wuYC"
     },
@@ -121,7 +121,7 @@
         "title": "Increased osteoblast adhesion on physically optimized KRSR modified calcium aluminate",
         "pub_year": "2012",
         "citation": "Journal of Biomedical Materials Research Part A 100 (5), 1229-1238, 2012",
-        "num_citations": 25,
+        "num_citations": 24,
         "author_pub_id": "LyK-4aEAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -135,14 +135,14 @@
         "title": "Nanofiber biomaterials",
         "pub_year": "2013",
         "citation": "Springer Handbook of Nanomaterials, 977-1010, 2013",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "LyK-4aEAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Natural biomaterials for corneal tissue engineering, repair, and regeneration",
         "pub_year": "2018",
         "citation": "Advanced healthcare materials 7 (16), 1701434, 2018",
-        "num_citations": 102,
+        "num_citations": 105,
         "author_pub_id": "LyK-4aEAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -170,7 +170,7 @@
         "title": "Shrink wrapping cells in a defined extracellular matrix to modulate the chemo-mechanical microenvironment",
         "pub_year": "2014",
         "citation": "Cellular and molecular bioengineering 7, 355-368, 2014",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "LyK-4aEAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -191,13 +191,13 @@
         "title": "Three-dimensional printing of complex biological structures by freeform reversible embedding of suspended hydrogels",
         "pub_year": "2015",
         "citation": "Science advances 1 (9), e1500758, 2015",
-        "num_citations": 1861,
+        "num_citations": 1872,
         "author_pub_id": "LyK-4aEAAAAJ:LkGwnXOMwfcC"
     },
     {
-        "title": "Three-dimensional printing of complex biological structures by freeform reversible embedding of suspended hydrogels, Sci. Adv. 1 (2015) 1–10",
+        "title": "Three-dimensional printing of complex biological structures by freeform reversible embedding of suspended hydrogels, Sci. Adv. 1 (2015) e1500758",
         "citation": "",
-        "num_citations": 21,
+        "num_citations": 34,
         "author_pub_id": "LyK-4aEAAAAJ:M3ejUd6NZC8C"
     }
 ]
