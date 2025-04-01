@@ -10,20 +10,20 @@
         "title": "A computational growth and remodeling framework for adaptive and maladaptive pulmonary arterial hemodynamics",
         "pub_year": "2023",
         "citation": "Biomechanics and Modeling in Mechanobiology 22 (6), 1935-1951, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "gbVHsS0AAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "A fluid–solid-growth solver for cardiovascular modeling",
         "pub_year": "2023",
         "citation": "Computer Methods in Applied Mechanics and Engineering 417, 116312, 2023",
-        "num_citations": 14,
+        "num_citations": 16,
         "author_pub_id": "gbVHsS0AAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "A probabilistic neural twin for treatment planning in peripheral pulmonary artery stenosis",
         "pub_year": "2024",
-        "citation": "International Journal for Numerical Methods in Biomedical Engineering, e3820, 2024",
+        "citation": "International journal for numerical methods in biomedical engineering 40 (5 …, 2024",
         "num_citations": 1,
         "author_pub_id": "gbVHsS0AAAAJ:YOwf2qJgpHMC"
     },
@@ -45,7 +45,7 @@
         "title": "Computer-controlled biaxial bioreactor for investigating cell-mediated homeostasis in tissue equivalents",
         "pub_year": "2020",
         "citation": "Journal of biomechanical engineering 142 (7), 071011, 2020",
-        "num_citations": 28,
+        "num_citations": 30,
         "author_pub_id": "gbVHsS0AAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -66,42 +66,42 @@
         "title": "Differential outcomes of venous and arterial tissue engineered vascular grafts highlight the importance of coupling long-term implantation studies with computational modeling",
         "pub_year": "2019",
         "citation": "Acta biomaterialia 94, 183-194, 2019",
-        "num_citations": 45,
+        "num_citations": 47,
         "author_pub_id": "gbVHsS0AAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Effects of Braiding Parameters on Tissue Engineered Vascular Graft Development",
         "pub_year": "2020",
         "citation": "Advanced Healthcare Materials 9 (24), 2001093, 2020",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "gbVHsS0AAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Electrospun Tissue-Engineered Arterial Graft Thickness Affects Long-Term Composition and Mechanics",
         "pub_year": "2021",
         "citation": "Tissue Engineering Part A 27 (9-10), 593-603, 2021",
-        "num_citations": 21,
+        "num_citations": 23,
         "author_pub_id": "gbVHsS0AAAAJ:_FxGoFyzp5QC"
     },
     {
-        "title": "FSGe: A fast and strongly-coupled 3D fluid-solid-growth interaction method",
+        "title": "FSGe: A fast and strongly-coupled 3D fluid–solid-growth interaction method",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2404.13523, 2024",
-        "num_citations": 1,
+        "citation": "Computer Methods in Applied Mechanics and Engineering 431, 117259, 2024",
+        "num_citations": 2,
         "author_pub_id": "gbVHsS0AAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "From Uniaxial Testing of Isolated Layers to a Tri-Layered Arterial Wall: A Novel Constitutive Modelling Framework",
         "pub_year": "2021",
         "citation": "Annals of Biomedical Engineering 49 (9), 2454-2467, 2021",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "gbVHsS0AAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Hemodynamic performance of tissue-engineered vascular grafts in Fontan patients",
         "pub_year": "2021",
         "citation": "NPJ Regenerative Medicine 6 (1), 38, 2021",
-        "num_citations": 40,
+        "num_citations": 42,
         "author_pub_id": "gbVHsS0AAAAJ:Se3iqnhoufwC"
     },
     {
@@ -119,17 +119,24 @@
         "author_pub_id": "gbVHsS0AAAAJ:_kc_bZDykSQC"
     },
     {
+        "title": "Hypoxia-Induced Cardiopulmonary Remodeling and Recovery: Critical Roles of the Proximal Pulmonary Artery, Macrophages, and Exercise",
+        "pub_year": "2025",
+        "citation": "bioRxiv, 2025.02. 15.638455, 2025",
+        "num_citations": 0,
+        "author_pub_id": "gbVHsS0AAAAJ:4DMP91E08xMC"
+    },
+    {
         "title": "Immuno-driven and mechano-mediated neotissue formation in tissue engineered vascular grafts",
         "pub_year": "2018",
         "citation": "Annals of biomedical engineering 46 (11), 1938-1950, 2018",
-        "num_citations": 66,
+        "num_citations": 68,
         "author_pub_id": "gbVHsS0AAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "In vivo development of tissue engineered vascular grafts: a fluid-solid-growth model",
         "pub_year": "2022",
         "citation": "Biomechanics and Modeling in Mechanobiology 21 (3), 827-848, 2022",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "gbVHsS0AAAAJ:0EnyYjriUFMC"
     },
     {
@@ -150,7 +157,7 @@
         "title": "Optimization of tissue-engineered vascular graft design using computational modeling",
         "pub_year": "2019",
         "citation": "Tissue Engineering Part C: Methods 25 (10), 561-570, 2019",
-        "num_citations": 69,
+        "num_citations": 68,
         "author_pub_id": "gbVHsS0AAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -163,14 +170,14 @@
     {
         "title": "Publisher Correction: Hemodynamic performance of tissue-engineered vascular grafts in Fontan patients",
         "pub_year": "2021",
-        "citation": "NPJ Regenerative Medicine 6, 2021",
-        "num_citations": 0,
+        "citation": "NPJ Regenerative Medicine 6, 47, 2021",
+        "num_citations": 1,
         "author_pub_id": "gbVHsS0AAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "Rapid model-guided design of organ-scale synthetic vasculature for biomanufacturing",
         "pub_year": "2023",
-        "citation": "ArXiv, 2023",
+        "citation": "ArXiv, arXiv: 2308.07586 v1, 2023",
         "num_citations": 8,
         "author_pub_id": "gbVHsS0AAAAJ:Zph67rFs4hoC"
     },
@@ -178,7 +185,7 @@
         "title": "Revealing the glass transition in shape memory polymers using Brillouin spectroscopy",
         "pub_year": "2017",
         "citation": "Applied Physics Letters 111 (24), 2017",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "gbVHsS0AAAAJ:qjMakFHDy7sC"
     },
     {
@@ -199,7 +206,7 @@
         "title": "Spontaneous reversal of stenosis in tissue-engineered vascular grafts",
         "pub_year": "2020",
         "citation": "Science translational medicine 12 (537), eaax6919, 2020",
-        "num_citations": 113,
+        "num_citations": 110,
         "author_pub_id": "gbVHsS0AAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -227,7 +234,7 @@
         "title": "Vascular dimorphism ensured by regulated proteoglycan dynamics favors rapid umbilical artery closure at birth",
         "pub_year": "2020",
         "citation": "Elife 9, e60683, 2020",
-        "num_citations": 15,
+        "num_citations": 17,
         "author_pub_id": "gbVHsS0AAAAJ:ufrVoPGSRksC"
     }
 ]

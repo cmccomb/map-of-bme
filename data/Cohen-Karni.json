@@ -59,21 +59,21 @@
         "title": "3D fuzzy graphene microelectrode array for dopamine sensing at sub-cellular spatial resolution",
         "pub_year": "2021",
         "citation": "Biosensors and Bioelectronics 191, 113440, 2021",
-        "num_citations": 48,
+        "num_citations": 50,
         "author_pub_id": "7dey80AAAAAJ:G36d5HCDkJYC"
     },
     {
         "title": "3D fuzzy graphene microelectrode array for neurotransmitter sensing at sub-cellular spatial resolution",
         "pub_year": "2020",
         "citation": "",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "7dey80AAAAAJ:q1zXlPLtbUIC"
     },
     {
         "title": "3D graphene-nanowire “sandwich” thermal interface with ultralow resistance and stiffness",
         "pub_year": "2023",
         "citation": "ACS nano 17 (3), 2602-2610, 2023",
-        "num_citations": 21,
+        "num_citations": 23,
         "author_pub_id": "7dey80AAAAAJ:cB__R-XWw9UC"
     },
     {
@@ -115,14 +115,14 @@
         "title": "Bioelectrical interfaces with cortical spheroids in three-dimensions",
         "pub_year": "2021",
         "citation": "Journal of Neural Engineering 18 (5), 055005, 2021",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "7dey80AAAAAJ:8uzoZH4hB9AC"
     },
     {
         "title": "Bioelectronics with graphene nanostructures",
         "pub_year": "2020",
         "citation": "APL Materials 8 (10), 2020",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "7dey80AAAAAJ:7VEv-pLvLSsC"
     },
     {
@@ -157,14 +157,14 @@
         "title": "Design and implementation of functional nanoelectronic interfaces with biomolecules, cells, and tissue using nanowire device arrays",
         "pub_year": "2009",
         "citation": "IEEE transactions on nanotechnology 9 (3), 269-280, 2009",
-        "num_citations": 140,
+        "num_citations": 142,
         "author_pub_id": "7dey80AAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Detection of single biopolymers at high current bandwidth with hafnium oxide nanopores",
         "pub_year": "2014",
         "citation": "Biophysical Journal 106 (2), 413a-414a, 2014",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "7dey80AAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -199,7 +199,7 @@
         "title": "Electrocatalytic on-site oxygenation for transplanted cell-based-therapies",
         "pub_year": "2023",
         "citation": "Nature communications 14 (1), 7019, 2023",
-        "num_citations": 10,
+        "num_citations": 12,
         "author_pub_id": "7dey80AAAAAJ:ojlX30-wUrgC"
     },
     {
@@ -213,7 +213,7 @@
         "title": "Engineering three-dimensional (3D) out-of-plane graphene edge sites for highly selective two-electron oxygen reduction electrocatalysis",
         "pub_year": "2020",
         "citation": "ACS catalysis 10 (3), 1993-2008, 2020",
-        "num_citations": 151,
+        "num_citations": 152,
         "author_pub_id": "7dey80AAAAAJ:tBlTYpvFGQIC"
     },
     {
@@ -234,14 +234,14 @@
         "title": "First Organoid Intelligence (OI) workshop to form an OI community",
         "pub_year": "2023",
         "citation": "Frontiers in Artificial Intelligence 6, 1116870, 2023",
-        "num_citations": 36,
+        "num_citations": 39,
         "author_pub_id": "7dey80AAAAAJ:K4-iKlO5MD4C"
     },
     {
         "title": "Flexible Glassy Carbon Multielectrode Array for In Vivo Multisite Detection of Tonic and Phasic Dopamine Concentrations",
         "pub_year": "2022",
         "citation": "Biosensors 12 (7), 540, 2022",
-        "num_citations": 17,
+        "num_citations": 19,
         "author_pub_id": "7dey80AAAAAJ:T8_be82Iz5gC"
     },
     {
@@ -289,8 +289,15 @@
         "title": "High thermal conductivity of sandwich‐structured flexible thermal interface materials",
         "pub_year": "2023",
         "citation": "Small 19 (11), 2207015, 2023",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "7dey80AAAAAJ:S2WlVNSe3u4C"
+    },
+    {
+        "title": "Hybrid-nanomaterials for cellular activity modulation",
+        "pub_year": "2025",
+        "citation": "Optogenetics and Optical Manipulation 2025, PC1330403, 2025",
+        "num_citations": 0,
+        "author_pub_id": "7dey80AAAAAJ:NtGNdKbuCngC"
     },
     {
         "title": "Hysteresis‐Free and High‐Sensitivity Strain Sensing of Ionically Conductive Hydrogels",
@@ -303,35 +310,35 @@
         "title": "Intact mangrove root electrodes for desalination",
         "pub_year": "2019",
         "citation": "RSC advances 9 (9), 4735-4743, 2019",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "7dey80AAAAAJ:gV6rEsy15s0C"
     },
     {
         "title": "Integrating bioelectronics with cell-based synthetic biology",
         "pub_year": "2025",
         "citation": "Nature Reviews Bioengineering, 1-16, 2025",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "7dey80AAAAAJ:gmHTDCtJMcoC"
     },
     {
         "title": "Intracellular action potential recordings from cardiomyocytes by ultrafast pulsed laser irradiation of fuzzy graphene microelectrodes",
         "pub_year": "2021",
         "citation": "Science Advances 7 (15), eabd5175, 2021",
-        "num_citations": 58,
+        "num_citations": 60,
         "author_pub_id": "7dey80AAAAAJ:Nw_I7GeUguwC"
     },
     {
         "title": "Intracellular recordings of action potentials by an extracellular nanoscale field-effect transistor",
         "pub_year": "2012",
         "citation": "Nature nanotechnology 7 (3), 174-179, 2012",
-        "num_citations": 521,
+        "num_citations": 524,
         "author_pub_id": "7dey80AAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "Modulation of early stage neuronal outgrowth through out-of-plane graphene",
         "pub_year": "2022",
         "citation": "Nano Letters 22 (21), 8633-8640, 2022",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "7dey80AAAAAJ:3MwzVuqRcA0C"
     },
     {
@@ -366,7 +373,7 @@
         "title": "Nanocomposite gold-silk nanofibers",
         "pub_year": "2012",
         "citation": "Nano letters 12 (10), 5403-5406, 2012",
-        "num_citations": 112,
+        "num_citations": 113,
         "author_pub_id": "7dey80AAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -401,7 +408,7 @@
         "title": "Nanowire transistor arrays for mapping neural circuits in acute brain slices",
         "pub_year": "2010",
         "citation": "Proceedings of the National Academy of Sciences 107 (5), 1882-1887, 2010",
-        "num_citations": 235,
+        "num_citations": 236,
         "author_pub_id": "7dey80AAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -436,7 +443,7 @@
         "title": "Neural modulation with photothermally active nanomaterials",
         "pub_year": "2023",
         "citation": "Nature reviews bioengineering 1 (3), 193-207, 2023",
-        "num_citations": 36,
+        "num_citations": 41,
         "author_pub_id": "7dey80AAAAAJ:wGzT3bKASkAC"
     },
     {
@@ -450,7 +457,7 @@
         "title": "Organ-on-e-chip: Three-dimensional self-rolled biosensor array for electrical interrogations of human electrogenic spheroids",
         "pub_year": "2019",
         "citation": "Science advances 5 (8), eaax0729, 2019",
-        "num_citations": 185,
+        "num_citations": 188,
         "author_pub_id": "7dey80AAAAAJ:qCpRzq7zkD8C"
     },
     {
@@ -464,7 +471,7 @@
         "title": "Outside looking in: nanotube transistor intracellular sensors",
         "pub_year": "2012",
         "citation": "Nano letters 12 (6), 3329-3333, 2012",
-        "num_citations": 139,
+        "num_citations": 140,
         "author_pub_id": "7dey80AAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -484,14 +491,14 @@
         "title": "Photothermal excitation of neurons using MXene: cellular stress and phototoxicity evaluation",
         "pub_year": "2024",
         "citation": "Advanced healthcare materials 13 (24), 2302330, 2024",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "7dey80AAAAAJ:Nufq_to8ts0C"
     },
     {
         "title": "Real-Time In Vivo Sensing of Nitric Oxide Using Photonic Microring Resonators",
         "pub_year": "2022",
         "citation": "ACS sensors 7 (8), 2253-2261, 2022",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "7dey80AAAAAJ:9LpHyFPp1DQC"
     },
     {
@@ -512,7 +519,7 @@
         "title": "Remote nongenetic optical modulation of neuronal activity using fuzzy graphene",
         "pub_year": "2020",
         "citation": "Proceedings of the National Academy of Sciences 117 (24), 13339-13349, 2020",
-        "num_citations": 80,
+        "num_citations": 82,
         "author_pub_id": "7dey80AAAAAJ:c1AJUTjuCtUC"
     },
     {
@@ -526,7 +533,7 @@
         "title": "Slow DNA transport through nanopores in hafnium oxide membranes",
         "pub_year": "2013",
         "citation": "ACS nano 7 (11), 10121-10128, 2013",
-        "num_citations": 252,
+        "num_citations": 253,
         "author_pub_id": "7dey80AAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -554,7 +561,7 @@
         "title": "The Baltimore declaration toward the exploration of organoid intelligence",
         "pub_year": "2023",
         "citation": "Frontiers in Science 1, 1068159, 2023",
-        "num_citations": 20,
+        "num_citations": 22,
         "author_pub_id": "7dey80AAAAAJ:BW2nPTmhBn4C"
     },
     {
@@ -589,14 +596,14 @@
         "title": "Three-dimensional, flexible nanoscale field-effect transistors as localized bioprobes",
         "pub_year": "2010",
         "citation": "Science 329 (5993), 830-834, 2010",
-        "num_citations": 896,
+        "num_citations": 897,
         "author_pub_id": "7dey80AAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Ti3C2Tx MXene Flakes for Optical Control of Neuronal Electrical Activity",
         "pub_year": "2021",
         "citation": "ACS nano 15 (9), 14662-14671, 2021",
-        "num_citations": 59,
+        "num_citations": 63,
         "author_pub_id": "7dey80AAAAAJ:qPeb-qHga9sC"
     },
     {

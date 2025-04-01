@@ -10,13 +10,13 @@
         "title": "3D bioprinting of collagen to rebuild components of the human heart",
         "pub_year": "2019",
         "citation": "Science 365 (6452), 482-487, 2019",
-        "num_citations": 1649,
+        "num_citations": 1668,
         "author_pub_id": "CxBBWlIAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "63 Plasmin activation of insulin-like growth factors in the bone pericellular environment",
         "pub_year": "1997",
-        "citation": "Fibrinolysis and Proteolysis, 18, 1997",
+        "citation": "Fibrinolysis and Proteolysis 11, 18, 1997",
         "num_citations": 0,
         "author_pub_id": "CxBBWlIAAAAJ:70eg2SAEIzsC"
     },
@@ -31,7 +31,7 @@
         "title": "A Plasma-Based, Amiodarone-Impregnated Material Decreases Susceptibility to Atrial Fibrillation in a Post–Cardiac Surgery Model",
         "pub_year": "2016",
         "citation": "Innovations 11 (1), 59-63, 2016",
-        "num_citations": 6,
+        "num_citations": 5,
         "author_pub_id": "CxBBWlIAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -58,21 +58,21 @@
         "title": "An engineered approach to stem cell culture: automating the decision process for real-time adaptive subculture of stem cells",
         "pub_year": "2011",
         "citation": "PLoS One 6 (11), e27672, 2011",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "CxBBWlIAAAAJ:eflP2zaiRacC"
     },
     {
         "title": "An off-the-shelf plasma-based material to prevent pacemaker pocket infection",
         "pub_year": "2015",
         "citation": "Biomaterials 60, 1-8, 2015",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "CxBBWlIAAAAJ:nb7KW1ujOQ8C"
     },
     {
         "title": "Analysis of In Vitro Cytotoxicity of Carbohydrate-Based Materials Used for Dissolvable Microneedle Arrays",
         "pub_year": "2020",
         "citation": "Pharmaceutical research 37, 1-18, 2020",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "CxBBWlIAAAAJ:k_IJM867U9cC"
     },
     {
@@ -99,7 +99,7 @@
         "title": "BMP-2 and insulin-like growth factor-I mediate Osterix (Osx) expression in human mesenchymal stem cells via the MAPK and protein kinase D signaling pathways",
         "pub_year": "2005",
         "citation": "Journal of Biological Chemistry 280 (36), 31353-31359, 2005",
-        "num_citations": 391,
+        "num_citations": 394,
         "author_pub_id": "CxBBWlIAAAAJ:g5m5HwL7SMYC"
     },
     {
@@ -127,35 +127,28 @@
         "title": "Bayesian computer-aided experimental design of heterogeneous scaffolds for tissue engineering",
         "pub_year": "2005",
         "citation": "Computer-Aided Design 37 (11), 1127-1139, 2005",
-        "num_citations": 73,
+        "num_citations": 75,
         "author_pub_id": "CxBBWlIAAAAJ:_xSYboBqXhAC"
     },
     {
         "title": "Binding and activation of plasminogen on the surface of osteosarcoma cells",
         "pub_year": "1994",
         "citation": "Journal of cellular physiology 159 (1), 1-10, 1994",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "CxBBWlIAAAAJ:P5F9QuxV20EC"
     },
     {
         "title": "Biocompatible polymers and methods of use",
-        "pub_year": "2007",
-        "citation": "",
-        "num_citations": 84,
+        "pub_year": "2010",
+        "citation": "US Patent App. 11/495,115, 2010",
+        "num_citations": 88,
         "author_pub_id": "CxBBWlIAAAAJ:p2g8aNsByqUC"
-    },
-    {
-        "title": "Biocompatible polymers and methods of use",
-        "pub_year": "2008",
-        "citation": "EP Patent App. 06,851,119 A, 2008",
-        "num_citations": 2,
-        "author_pub_id": "CxBBWlIAAAAJ:t7zJ5fGR-2UC"
     },
     {
         "title": "Bioimplantable bone stress sensor",
         "pub_year": "2006",
         "citation": "2005 IEEE Engineering in Medicine and Biology 27th Annual Conference, 518-521, 2006",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "CxBBWlIAAAAJ:SP6oXDckpogC"
     },
     {
@@ -169,13 +162,13 @@
         "title": "Biopatterned CTLA4/Fc matrices facilitate local immunomodulation, engraftment, and glucose homeostasis after pancreatic islet transplantation",
         "pub_year": "2016",
         "citation": "Diabetes 65 (12), 3660-3666, 2016",
-        "num_citations": 29,
+        "num_citations": 28,
         "author_pub_id": "CxBBWlIAAAAJ:KxtntwgDAa4C"
     },
     {
         "title": "Bioprinted Notch ligand to function as stem cell niche improves muscle regeneration in dystrophic muscle",
         "pub_year": "2023",
-        "citation": "International Journal of Bioprinting 9 (3), 2023",
+        "citation": "International Journal of Bioprinting 9 (3), 711, 2023",
         "num_citations": 2,
         "author_pub_id": "CxBBWlIAAAAJ:tKAzc9rXhukC"
     },
@@ -190,11 +183,11 @@
         "title": "Bioprinting of growth factors onto aligned sub-micron fibrous scaffolds for simultaneous control of cell differentiation and alignment",
         "pub_year": "2011",
         "citation": "Biomaterials 32 (32), 8097-8107, 2011",
-        "num_citations": 228,
+        "num_citations": 230,
         "author_pub_id": "CxBBWlIAAAAJ:mB3voiENLucC"
     },
     {
-        "title": "Bioprinting technique for control of stem cells differentiation",
+        "title": "Bioprinting technique for control of stem cells differentiation.",
         "pub_year": "2011",
         "citation": "Advanced Manufacturing Technology 32 (3), 6-8, 2011",
         "num_citations": 0,
@@ -232,14 +225,14 @@
         "title": "Cell population tracking and lineage construction with spatiotemporal context",
         "pub_year": "2008",
         "citation": "Medical image analysis 12 (5), 546-566, 2008",
-        "num_citations": 482,
+        "num_citations": 483,
         "author_pub_id": "CxBBWlIAAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "Cell trafficking and regulation of osteoblastogenesis by extracellular vesicle associated bone morphogenetic protein 2",
         "pub_year": "2021",
         "citation": "Journal of Extracellular Vesicles 10 (12), e12155, 2021",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "CxBBWlIAAAAJ:Y5dfb0dijaUC"
     },
     {
@@ -253,21 +246,21 @@
         "title": "Changes in bovine mammary insulin binding during pregnancy and lactation.",
         "pub_year": "1987",
         "citation": "Comparative Biochemistry and physiology. B, Comparative Biochemistry 87 (4 …, 1987",
-        "num_citations": 22,
+        "num_citations": 24,
         "author_pub_id": "CxBBWlIAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Characterization of Insulin-like growth factor-1/Somatomedin C receptors in the bovine mammary gland.",
         "pub_year": "1986",
         "citation": "",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "CxBBWlIAAAAJ:-_dYPAW6P2MC"
     },
     {
         "title": "Characterization of the change in type I and II insulin-like growth factor receptors of bovine mammary tissue during the pre-and postpartum periods",
         "pub_year": "1990",
         "citation": "Endocrinology 126 (1), 637-643, 1990",
-        "num_citations": 62,
+        "num_citations": 61,
         "author_pub_id": "CxBBWlIAAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -281,7 +274,7 @@
         "title": "Computer vision tracking of stemness",
         "pub_year": "2008",
         "citation": "2008 5th IEEE international symposium on biomedical imaging: from nano to …, 2008",
-        "num_citations": 75,
+        "num_citations": 74,
         "author_pub_id": "CxBBWlIAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -309,7 +302,7 @@
         "title": "Covalent poly (lactic acid) nanoparticles for the sustained delivery of naloxone",
         "pub_year": "2019",
         "citation": "ACS applied bio materials 2 (8), 3418-3428, 2019",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "CxBBWlIAAAAJ:-f6ydRqryjwC"
     },
     {
@@ -330,7 +323,7 @@
         "title": "Crosstalk between substance P and calcitonin gene‐related peptide during heterotopic ossification in murine Achilles tendon",
         "pub_year": "2018",
         "citation": "Journal of Orthopaedic Research® 36 (5), 1444-1455, 2018",
-        "num_citations": 44,
+        "num_citations": 43,
         "author_pub_id": "CxBBWlIAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -351,7 +344,7 @@
         "title": "Design of a multi-axis implantable MEMS sensor for intraosseous bone stress monitoring",
         "pub_year": "2009",
         "citation": "Journal of Micromechanics and Microengineering 19 (8), 085016, 2009",
-        "num_citations": 32,
+        "num_citations": 31,
         "author_pub_id": "CxBBWlIAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -379,7 +372,7 @@
         "title": "Diffusion of insulin-like growth factor-I and ribonuclease through fibrin gels",
         "pub_year": "2007",
         "citation": "Biophysical journal 92 (12), 4444-4450, 2007",
-        "num_citations": 89,
+        "num_citations": 91,
         "author_pub_id": "CxBBWlIAAAAJ:1sJd4Hv_s6UC"
     },
     {
@@ -393,7 +386,7 @@
         "title": "Direct and cell signaling-based, geometry-induced neuronal differentiation of neural stem cells",
         "pub_year": "2011",
         "citation": "Integrative Biology 3 (12), 1207-1214, 2011",
-        "num_citations": 46,
+        "num_citations": 45,
         "author_pub_id": "CxBBWlIAAAAJ:hMod-77fHWUC"
     },
     {
@@ -414,7 +407,7 @@
         "title": "Dose-dependent cell growth in response to concentration modulated patterns of FGF-2 printed on fibrin",
         "pub_year": "2006",
         "citation": "Biomaterials 27 (10), 2213-2221, 2006",
-        "num_citations": 167,
+        "num_citations": 169,
         "author_pub_id": "CxBBWlIAAAAJ:RGFaLdJalmkC"
     },
     {
@@ -456,7 +449,7 @@
         "title": "Engineering exosome polymer hybrids by atom transfer radical polymerization",
         "pub_year": "2021",
         "citation": "Proceedings of the National Academy of Sciences 118 (2), e2020241118, 2021",
-        "num_citations": 84,
+        "num_citations": 85,
         "author_pub_id": "CxBBWlIAAAAJ:V3AGJWp-ZtQC"
     },
     {
@@ -470,14 +463,14 @@
         "title": "Engineering pro-angiogenic biomaterials via chemoselective extracellular vesicle immobilization",
         "pub_year": "2022",
         "citation": "Biomaterials 281, 121357, 2022",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "CxBBWlIAAAAJ:dTyEYWd-f8wC"
     },
     {
         "title": "Engineering spatial control of multiple differentiation fates within a stem cell population",
         "pub_year": "2011",
         "citation": "Biomaterials 32 (13), 3413-3422, 2011",
-        "num_citations": 148,
+        "num_citations": 145,
         "author_pub_id": "CxBBWlIAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -491,7 +484,7 @@
         "title": "Evaluating microcarriers for delivering human adult mesenchymal stem cells in bone tissue engineering.",
         "pub_year": "2002",
         "citation": "Developmental Biology 247 (2), 505-505, 2002",
-        "num_citations": 15,
+        "num_citations": 14,
         "author_pub_id": "CxBBWlIAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -505,42 +498,35 @@
         "title": "Extracellular matrix-mediated signaling by dentin phosphophoryn involves activation of the Smad pathway independent of bone morphogenetic protein",
         "pub_year": "2006",
         "citation": "Journal of Biological Chemistry 281 (9), 5341-5347, 2006",
-        "num_citations": 78,
+        "num_citations": 80,
         "author_pub_id": "CxBBWlIAAAAJ:f2IySw72cVMC"
     },
     {
         "title": "Fabrication of Single and Multi-Layer Fibrous Biomaterial Scaffolds for Tissue Engineering",
         "pub_year": "2008",
         "citation": "ASME International Mechanical Engineering Congress and Exposition 48630, 231-238, 2008",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "CxBBWlIAAAAJ:CHSYGLWDkRkC"
-    },
-    {
-        "title": "Fabrication of Single and Multi-Layer Fibrous Biomaterial Scaffolds for Tissue Engineering",
-        "pub_year": "2009",
-        "citation": "Proceedings of the ASME 2008 International Mechanical Engineering Congress …, 2009",
-        "num_citations": 0,
-        "author_pub_id": "CxBBWlIAAAAJ:j8SEvjWlNXcC"
     },
     {
         "title": "Fibrin glue for wound repair: facts and fancy",
         "pub_year": "2003",
         "citation": "Thrombosis and haemostasis 90 (12), 1003-1006, 2003",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "CxBBWlIAAAAJ:evX43VCCuoAC"
     },
     {
         "title": "Freeform 3D Ice Printing (3D‐ICE) at the Micro Scale",
         "pub_year": "2022",
         "citation": "Advanced Science 9 (27), 2201566, 2022",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "CxBBWlIAAAAJ:hkOj_22Ku90C"
     },
     {
         "title": "Functionally graded, bone‐and tendon‐like polyurethane for rotator cuff repair",
         "pub_year": "2018",
         "citation": "Advanced functional materials 28 (20), 1707107, 2018",
-        "num_citations": 65,
+        "num_citations": 69,
         "author_pub_id": "CxBBWlIAAAAJ:tOudhMTPpwUC"
     },
     {
@@ -554,7 +540,7 @@
         "title": "Growth and differentiation factor-7 immobilized, mechanically strong quadrol-hexamethylene diisocyanate-methacrylic anhydride polyurethane polymer for tendon repair and …",
         "pub_year": "2022",
         "citation": "Acta Biomaterialia 154, 108-122, 2022",
-        "num_citations": 17,
+        "num_citations": 19,
         "author_pub_id": "CxBBWlIAAAAJ:W5xh706n7nkC"
     },
     {
@@ -568,7 +554,7 @@
         "title": "Immobilization of aprotinin to fibrinogen as a novel method for controlling degradation of fibrin gels",
         "pub_year": "2007",
         "citation": "Bioconjugate chemistry 18 (3), 695-701, 2007",
-        "num_citations": 53,
+        "num_citations": 52,
         "author_pub_id": "CxBBWlIAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -582,7 +568,7 @@
         "title": "Inkjet printing of growth factor concentration gradients and combinatorial arrays immobilized on biologically-relevant substrates",
         "pub_year": "2009",
         "citation": "Combinatorial chemistry & high throughput screening 12 (6), 604-618, 2009",
-        "num_citations": 107,
+        "num_citations": 108,
         "author_pub_id": "CxBBWlIAAAAJ:_kc_bZDykSQC"
     },
     {
@@ -624,7 +610,7 @@
         "title": "Insulin-like growth factor I accelerates functional recovery from Achilles tendon injury in a rat model",
         "pub_year": "1999",
         "citation": "The American journal of sports medicine 27 (3), 363-369, 1999",
-        "num_citations": 299,
+        "num_citations": 298,
         "author_pub_id": "CxBBWlIAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -645,7 +631,7 @@
         "title": "Insulin-like growth factor-I induces early osteoblast gene expression in human mesenchymal stem cells",
         "pub_year": "2005",
         "citation": "Stem cells and development 14 (6), 621-631, 2005",
-        "num_citations": 143,
+        "num_citations": 145,
         "author_pub_id": "CxBBWlIAAAAJ:lSLTfruPkqcC"
     },
     {
@@ -659,7 +645,7 @@
         "title": "Insulin‐like growth factor binding protein (IGFBP) inhibits IGF action on human osteosarcoma cells",
         "pub_year": "1991",
         "citation": "Journal of cellular physiology 149 (2), 293-300, 1991",
-        "num_citations": 75,
+        "num_citations": 73,
         "author_pub_id": "CxBBWlIAAAAJ:GnPB-g6toBAC"
     },
     {
@@ -680,7 +666,7 @@
         "title": "Involvement of the plasmin system in dissociation of the insulin-like growth factor-binding protein complex.",
         "pub_year": "1992",
         "citation": "Endocrinology 130 (3), 1401-1412, 1992",
-        "num_citations": 171,
+        "num_citations": 173,
         "author_pub_id": "CxBBWlIAAAAJ:pyW8ca7W8N0C"
     },
     {
@@ -722,7 +708,7 @@
         "title": "Method and apparatus for preparing biomimetic scaffold",
         "pub_year": "2003",
         "citation": "US Patent App. 10/391,458, 2003",
-        "num_citations": 232,
+        "num_citations": 231,
         "author_pub_id": "CxBBWlIAAAAJ:NhqRSupF_l8C"
     },
     {
@@ -736,14 +722,14 @@
         "title": "Method of inducing biomineralization method of inducing bone regeneration and methods related thereof",
         "pub_year": "2007",
         "citation": "US Patent App. 10/568,998, 2007",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "CxBBWlIAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Method of manufacturing hydroxyapatite and uses therefor in delivery of nucleic acids",
         "pub_year": "2007",
         "citation": "US Patent 7,247,288, 2007",
-        "num_citations": 77,
+        "num_citations": 78,
         "author_pub_id": "CxBBWlIAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -757,7 +743,7 @@
         "title": "Methods and apparatus for manufacturing plasma based plastics and bioplastics produced therefrom",
         "pub_year": "2013",
         "citation": "US Patent 8,529,956, 2013",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "CxBBWlIAAAAJ:TQgYirikUcIC"
     },
     {
@@ -771,7 +757,7 @@
         "title": "Methods and apparatus for manufacturing plasma based plastics and bioplastics produced therefrom",
         "pub_year": "2013",
         "citation": "US Patent 8,529,959, 2013",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "CxBBWlIAAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -785,7 +771,7 @@
         "title": "Methods and apparatus for manufacturing plasma based plastics and bioplastics produced therefrom",
         "pub_year": "2013",
         "citation": "US Patent 8,529,960, 2013",
-        "num_citations": 12,
+        "num_citations": 11,
         "author_pub_id": "CxBBWlIAAAAJ:9ZlFYXVOiuMC"
     },
     {
@@ -813,7 +799,7 @@
         "title": "Microenvironments engineered by inkjet bioprinting spatially direct adult stem cells toward muscle-and bone-like subpopulations",
         "pub_year": "2008",
         "citation": "Stem cells 26 (1), 127-134, 2008",
-        "num_citations": 408,
+        "num_citations": 414,
         "author_pub_id": "CxBBWlIAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -841,20 +827,20 @@
         "title": "Novel three dimensional biodegradable scaffolds for bone tissue engineering",
         "pub_year": "1998",
         "citation": "MRS Online Proceedings Library 550, 155-160, 1998",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "CxBBWlIAAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "Online tracking of migrating and proliferating cells imaged with phase-contrast microscopy",
         "pub_year": "2006",
         "citation": "2006 Conference on Computer Vision and Pattern Recognition Workshop (CVPRW …, 2006",
-        "num_citations": 148,
+        "num_citations": 147,
         "author_pub_id": "CxBBWlIAAAAJ:vV6vV6tmYwMC"
     },
     {
         "title": "Osteoconductive enhancement of polyether ether ketone: A mild covalent surface modification approach",
         "pub_year": "2018",
-        "citation": "ACS Applied Bio Materials 1 (4), 1047-1055, 2018",
+        "citation": "ACS applied bio materials 1 (4), 1047-1055, 2018",
         "num_citations": 13,
         "author_pub_id": "CxBBWlIAAAAJ:zYLM7Y9cAGgC"
     },
@@ -862,7 +848,7 @@
         "title": "Osx transcriptional regulation is mediated by additional pathways to BMP2/Smad signaling",
         "pub_year": "2005",
         "citation": "Journal of cellular biochemistry 95 (3), 518-528, 2005",
-        "num_citations": 203,
+        "num_citations": 206,
         "author_pub_id": "CxBBWlIAAAAJ:hFOr9nPyWt4C"
     },
     {
@@ -883,28 +869,28 @@
         "title": "Perivascular extracellular matrix hydrogels mimic native matrix microarchitecture and promote angiogenesis via basic fibroblast growth factor",
         "pub_year": "2017",
         "citation": "Biomaterials 123, 142-154, 2017",
-        "num_citations": 102,
+        "num_citations": 105,
         "author_pub_id": "CxBBWlIAAAAJ:Wp0gIr-vW9MC"
     },
     {
         "title": "Phase contrast time-lapse microscopy datasets with automated and manual cell tracking annotations",
         "pub_year": "2018",
         "citation": "Scientific data 5 (1), 1-12, 2018",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "CxBBWlIAAAAJ:uWQEDVKXjbEC"
     },
     {
         "title": "Phosphophoryn regulates the gene expression and differentiation of NIH3T3, MC3T3-E1, and human mesenchymal stem cells via the integrin/MAPK signaling pathway",
         "pub_year": "2004",
         "citation": "Journal of Biological Chemistry 279 (51), 53323-53330, 2004",
-        "num_citations": 188,
+        "num_citations": 192,
         "author_pub_id": "CxBBWlIAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Plasma‐based biomaterials for the treatment of cutaneous radiation injury",
         "pub_year": "2019",
         "citation": "Wound Repair and Regeneration 27 (2), 139-149, 2019",
-        "num_citations": 14,
+        "num_citations": 16,
         "author_pub_id": "CxBBWlIAAAAJ:738O_yMBCRsC"
     },
     {
@@ -925,21 +911,14 @@
         "title": "Plasminogen binds the heparin-binding domain of insulin-like growth factor-binding protein-3",
         "pub_year": "1998",
         "citation": "American Journal of Physiology-Endocrinology and Metabolism 275 (2), E321-E331, 1998",
-        "num_citations": 68,
+        "num_citations": 70,
         "author_pub_id": "CxBBWlIAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Pneumococcal extracellular vesicles mediate horizontal gene transfer via the transformation machinery",
         "pub_year": "2024",
         "citation": "mSphere 9 (12), e00727-24, 2024",
-        "num_citations": 1,
-        "author_pub_id": "CxBBWlIAAAAJ:2KloaMYe4IUC"
-    },
-    {
-        "title": "Pneumococcal extracellular vesicles mediate horizontal gene transfer via the transformation machinery",
-        "pub_year": "2024",
-        "citation": "mSphere 9 (12), e00727-24, 2024",
-        "num_citations": 0,
+        "num_citations": 2,
         "author_pub_id": "CxBBWlIAAAAJ:_Re3VWB3Y0AC"
     },
     {
@@ -978,13 +957,6 @@
         "author_pub_id": "CxBBWlIAAAAJ:7T2F9Uy0os0C"
     },
     {
-        "title": "Publication Submission Form",
-        "pub_year": "2011",
-        "citation": "Journal Article 6 (11), 2011",
-        "num_citations": 0,
-        "author_pub_id": "CxBBWlIAAAAJ:ZfRJV9d4-WMC"
-    },
-    {
         "title": "Quantitative Untersuchung zum Expressionsprofil von Knochenmarkergenen in humanen mesenchymalen Stammzellen nach adenoviraler Transduktion für IGF-1",
         "pub_year": "2003",
         "citation": "Zeitschrift für Orthopädie und ihre Grenzgebiete 141 (S 1), O26_4, 2003",
@@ -996,13 +968,13 @@
         "pub_year": "1994",
         "citation": "JAMA-JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION 272 (11), 844-845, 1994",
         "num_citations": 0,
-        "author_pub_id": "CxBBWlIAAAAJ:nrtMV_XWKgEC"
+        "author_pub_id": "CxBBWlIAAAAJ:ipzZ9siozwsC"
     },
     {
         "title": "Rabbit Calvarial Wound Healing by Means of Seeded Caprotite® Scaffolds",
         "pub_year": "2003",
         "citation": "Journal of dental research 82 (2), 131-135, 2003",
-        "num_citations": 73,
+        "num_citations": 72,
         "author_pub_id": "CxBBWlIAAAAJ:blknAaTinKkC"
     },
     {
@@ -1016,7 +988,7 @@
         "title": "Rapid on-demand extracellular vesicle augmentation with versatile oligonucleotide tethers",
         "pub_year": "2019",
         "citation": "ACS nano 13 (9), 10555-10565, 2019",
-        "num_citations": 105,
+        "num_citations": 109,
         "author_pub_id": "CxBBWlIAAAAJ:a0OBvERweLwC"
     },
     {
@@ -1037,7 +1009,7 @@
         "title": "Role of RhoA-specific guanine exchange factors in regulation of endomitosis in megakaryocytes",
         "pub_year": "2012",
         "citation": "Developmental cell 22 (3), 573-584, 2012",
-        "num_citations": 105,
+        "num_citations": 109,
         "author_pub_id": "CxBBWlIAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -1051,7 +1023,7 @@
         "title": "Secretion of insulin-like growth factor-I (IGF-I) and IGF-binding proteins from bovine mammary tissue in vitro",
         "pub_year": "1991",
         "citation": "Journal of Endocrinology 128 (2), 219-228, 1991",
-        "num_citations": 96,
+        "num_citations": 95,
         "author_pub_id": "CxBBWlIAAAAJ:pqnbT2bcN3wC"
     },
     {
@@ -1065,14 +1037,14 @@
         "title": "Skin-targeted delivery of extracellular vesicle-encapsulated curcumin using dissolvable microneedle arrays",
         "pub_year": "2022",
         "citation": "Acta Biomaterialia 149, 198-212, 2022",
-        "num_citations": 67,
+        "num_citations": 69,
         "author_pub_id": "CxBBWlIAAAAJ:dQ2og3OwTAUC"
     },
     {
         "title": "Spatially directed guidance of stem cell population migration by immobilized patterns of growth factors",
         "pub_year": "2011",
         "citation": "Biomaterials 32 (11), 2775-2785, 2011",
-        "num_citations": 113,
+        "num_citations": 111,
         "author_pub_id": "CxBBWlIAAAAJ:HDshCWvjkbEC"
     },
     {
@@ -1086,7 +1058,7 @@
         "title": "TGFβ carrying exosomes in plasma: potential biomarkers of cancer progression in patients with head and neck squamous cell carcinoma",
         "pub_year": "2023",
         "citation": "British Journal of Cancer 128 (9), 1733-1741, 2023",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "CxBBWlIAAAAJ:NJ774b8OgUMC"
     },
     {
@@ -1095,6 +1067,13 @@
         "citation": "JOURNAL OF BONE AND MINERAL RESEARCH 10, S204-S204, 1995",
         "num_citations": 0,
         "author_pub_id": "CxBBWlIAAAAJ:RYcK_YlVTxYC"
+    },
+    {
+        "title": "THE ROLE OF Γ-GLUTAMYL TRANSPEPTIDASE (ΓGTPASE) IN",
+        "pub_year": "2017",
+        "citation": "Glutathione (1990), 2017",
+        "num_citations": 0,
+        "author_pub_id": "CxBBWlIAAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "Testing a novel nanofibre scaffold for utility in bone tissue regeneration",
@@ -1107,7 +1086,7 @@
         "title": "Testing the critical size in calvarial bone defects: revisiting the concept of a critical-size defect",
         "pub_year": "2010",
         "citation": "Plastic and reconstructive surgery 125 (6), 1685-1692, 2010",
-        "num_citations": 311,
+        "num_citations": 306,
         "author_pub_id": "CxBBWlIAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -1120,28 +1099,21 @@
         "title": "The CARMA3–Bcl10–MALT1 Signalosome drives NFκB activation and promotes aggressiveness in angiotensin II receptor–positive breast cancer",
         "pub_year": "2018",
         "citation": "Cancer research 78 (5), 1225-1240, 2018",
-        "num_citations": 84,
+        "num_citations": 85,
         "author_pub_id": "CxBBWlIAAAAJ:b0M2c_1WBrUC"
-    },
-    {
-        "title": "The Role of γ-Glutamyl Transpeptidase (γGTPase) in Mammary Tissue",
-        "pub_year": "2017",
-        "citation": "Glutathione (1990), 93-104, 2017",
-        "num_citations": 0,
-        "author_pub_id": "CxBBWlIAAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "The heparin binding domain of insulin-like growth factor binding protein (IGFBP)-3 increases susceptibility of IGFBP-3 to proteolysis",
         "pub_year": "1999",
         "citation": "Hormone and metabolic research 31 (02/03), 216-225, 1999",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "CxBBWlIAAAAJ:WbkHhVStYXYC"
     },
     {
         "title": "The influence of polymer blend composition on the degradation of polymer/hydroxyapatite biomaterials",
         "pub_year": "2001",
         "citation": "Journal of Materials Science: Materials in Medicine 12 (8), 673-677, 2001",
-        "num_citations": 102,
+        "num_citations": 101,
         "author_pub_id": "CxBBWlIAAAAJ:D03iK_w7-QYC"
     },
     {
@@ -1162,7 +1134,7 @@
         "title": "The use of quantum dots for analysis of chick CAM vasculature",
         "pub_year": "2007",
         "citation": "Microvascular research 73 (2), 75-83, 2007",
-        "num_citations": 89,
+        "num_citations": 92,
         "author_pub_id": "CxBBWlIAAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -1183,7 +1155,7 @@
         "title": "Transforming growth factor beta 1 augments calvarial defect healing and promotes suture regeneration",
         "pub_year": "2015",
         "citation": "Tissue Engineering Part A 21 (5-6), 939-947, 2015",
-        "num_citations": 36,
+        "num_citations": 35,
         "author_pub_id": "CxBBWlIAAAAJ:dfsIfKJdRG4C"
     },
     {
