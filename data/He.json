@@ -182,7 +182,7 @@
         "title": "A HUG taxonomy of humans with potential in human–robot hugs",
         "pub_year": "2024",
         "citation": "Scientific Reports 14 (1), 14212, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "vBhJwrkAAAAJ:S_Qw7xXuMuIC"
     },
     {
@@ -301,7 +301,7 @@
         "title": "A digital twin system for Task-Replanning and Human-Robot control of robot manipulation",
         "pub_year": "2024",
         "citation": "Advanced Engineering Informatics 62, 102570, 2024",
-        "num_citations": 5,
+        "num_citations": 7,
         "author_pub_id": "vBhJwrkAAAAJ:gxb_f1p9zx4C"
     },
     {
@@ -399,7 +399,7 @@
         "title": "A method for monitoring the solar resources of high-scale photovoltaic power plants based on wireless sensor networks",
         "pub_year": "2022",
         "citation": "Sustainable Energy Technologies and Assessments 53, 102678, 2022",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "vBhJwrkAAAAJ:j6V8Syvup0UC"
     },
     {
@@ -497,14 +497,14 @@
         "title": "A new theoretical model of magnetic interactions between spherical paramagnetic particles in magnetorheological fluids",
         "pub_year": "2025",
         "citation": "Applied Mathematical Modelling 140, 115887, 2025",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "vBhJwrkAAAAJ:PQ6BjWB6CiEC"
     },
     {
         "title": "A new version of the Riccati transfer matrix method for multibody systems consisting of chain and branch bodies",
         "pub_year": "2020",
         "citation": "Multibody System Dynamics 49, 337-354, 2020",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "vBhJwrkAAAAJ:1_W9tMSvGuwC"
     },
     {
@@ -518,7 +518,7 @@
         "title": "A novel channel selection method for optimal classification in different motor imagery BCI paradigms",
         "pub_year": "2015",
         "citation": "Biomedical engineering online 14, 1-18, 2015",
-        "num_citations": 71,
+        "num_citations": 72,
         "author_pub_id": "vBhJwrkAAAAJ:eflP2zaiRacC"
     },
     {
@@ -553,7 +553,7 @@
         "title": "A novel simulation-reality closed-loop learning framework for autonomous robot skill learning",
         "pub_year": "2021",
         "citation": "IEEE Transactions on Cognitive and Developmental Systems 14 (4), 1520-1531, 2021",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "vBhJwrkAAAAJ:fF_gHTpLxhAC"
     },
     {
@@ -567,7 +567,7 @@
         "title": "A novel texture-less object oriented visual SLAM system",
         "pub_year": "2019",
         "citation": "IEEE Transactions on Intelligent Transportation Systems 22 (1), 36-49, 2019",
-        "num_citations": 26,
+        "num_citations": 28,
         "author_pub_id": "vBhJwrkAAAAJ:AFmTUeZ1pmEC"
     },
     {
@@ -580,8 +580,8 @@
     {
         "title": "A practical tactile exploration with enhanced sampling for fast shape estimation",
         "pub_year": "2025",
-        "citation": "Measurement, 117350, 2025",
-        "num_citations": 0,
+        "citation": "Measurement 252, 117350, 2025",
+        "num_citations": 1,
         "author_pub_id": "vBhJwrkAAAAJ:YEBtnu9hOHUC"
     },
     {
@@ -595,7 +595,7 @@
         "title": "A relation based algorithm for solving direct current circuit problems",
         "pub_year": "2020",
         "citation": "Applied Intelligence 50, 2293-2309, 2020",
-        "num_citations": 21,
+        "num_citations": 24,
         "author_pub_id": "vBhJwrkAAAAJ:u_mOZUIutIEC"
     },
     {
@@ -742,7 +742,7 @@
         "title": "A survey of crowdsensing and privacy protection in digital city",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Computational Social Systems 10 (6), 3471-3487, 2022",
-        "num_citations": 13,
+        "num_citations": 16,
         "author_pub_id": "vBhJwrkAAAAJ:oE_QS-WwsdAC"
     },
     {
@@ -784,21 +784,21 @@
         "title": "A wavelet-based time–frequency analysis approach for classification of motor imagery for brain–computer interface applications",
         "pub_year": "2005",
         "citation": "Journal of neural engineering 2 (4), 65, 2005",
-        "num_citations": 158,
+        "num_citations": 159,
         "author_pub_id": "vBhJwrkAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "A weighted small world network measure for assessing functional connectivity",
         "pub_year": "2013",
         "citation": "Journal of neuroscience methods 212 (1), 133-142, 2013",
-        "num_citations": 71,
+        "num_citations": 73,
         "author_pub_id": "vBhJwrkAAAAJ:Bg7qf7VwUHIC"
     },
     {
         "title": "A wet adhesion inspired biomimetic pad with direction dependence and adaptability",
         "pub_year": "2011",
         "citation": "Chinese Science Bulletin 56, 1935-1941, 2011",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "vBhJwrkAAAAJ:l6Q3WhenKVUC"
     },
     {
@@ -891,7 +891,7 @@
         "title": "Adaptive approximation tracking control of a continuum robot with uncertainty disturbances",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Cybernetics 54 (1), 230-240, 2022",
-        "num_citations": 8,
+        "num_citations": 11,
         "author_pub_id": "vBhJwrkAAAAJ:q09DtPQ_434C"
     },
     {
@@ -926,7 +926,7 @@
         "title": "Advances and challenges in transcranial magnetic stimulation (TMS) research on motor systems",
         "pub_year": "2019",
         "citation": "Engineering in Medicine, 283-318, 2019",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "vBhJwrkAAAAJ:ijdKiLOsEJMC"
     },
     {
@@ -954,7 +954,7 @@
         "title": "Advances in transfer matrix method of multibody system",
         "pub_year": "2009",
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2009",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "vBhJwrkAAAAJ:dFKc6_kCK1wC"
     },
     {
@@ -1037,7 +1037,7 @@
         "title": "An adaptive interval power forecasting method for photovoltaic plant and its optimization",
         "pub_year": "2022",
         "citation": "Sustainable Energy Technologies and Assessments 52, 102360, 2022",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "vBhJwrkAAAAJ:CC3C2HR4nz8C"
     },
     {
@@ -1086,7 +1086,7 @@
         "title": "An end-to-end algorithm for solving circuit problems",
         "pub_year": "2019",
         "citation": "International Journal of Pattern Recognition and Artificial Intelligence 33 …, 2019",
-        "num_citations": 16,
+        "num_citations": 18,
         "author_pub_id": "vBhJwrkAAAAJ:9VeumLvkZSQC"
     },
     {
@@ -1211,7 +1211,7 @@
         "title": "Anodal transcranial direct current stimulation increases bilateral directed brain connectivity during motor-imagery based brain-computer interface control",
         "pub_year": "2017",
         "citation": "Frontiers in neuroscience 11, 691, 2017",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "vBhJwrkAAAAJ:2VqYfGB8ITEC"
     },
     {
@@ -1294,7 +1294,7 @@
         "title": "Automatic problem understanding from circuit schematics",
         "pub_year": "2017",
         "citation": "Pacific-Rim Symposium on Image and Video Technology, 314-325, 2017",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "vBhJwrkAAAAJ:cF7EPgIk0B4C"
     },
     {
@@ -1336,7 +1336,7 @@
         "title": "Benefits of deep learning classification of continuous noninvasive brain–computer interface control",
         "pub_year": "2021",
         "citation": "Journal of neural engineering 18 (4), 046082, 2021",
-        "num_citations": 59,
+        "num_citations": 61,
         "author_pub_id": "vBhJwrkAAAAJ:Y9VhQm-5nPIC"
     },
     {
@@ -1406,7 +1406,7 @@
         "title": "Binocular rivalry requires visual attention",
         "pub_year": "2011",
         "citation": "Neuron 71 (2), 362-369, 2011",
-        "num_citations": 286,
+        "num_citations": 288,
         "author_pub_id": "vBhJwrkAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -1588,7 +1588,7 @@
         "title": "Brain electric source imaging: scalp Laplacian mapping and cortical imaging.",
         "pub_year": "1999",
         "citation": "Critical reviews in biomedical engineering 27 (3-5), 149-188, 1999",
-        "num_citations": 129,
+        "num_citations": 130,
         "author_pub_id": "vBhJwrkAAAAJ:kUhpeDhEZMUC"
     },
     {
@@ -1616,14 +1616,14 @@
         "title": "Brain–computer interfaces",
         "pub_year": "2020",
         "citation": "Neural engineering, 131-183, 2020",
-        "num_citations": 340,
+        "num_citations": 347,
         "author_pub_id": "vBhJwrkAAAAJ:5awf1xo2G04C"
     },
     {
         "title": "Brain–computer interfaces using sensorimotor rhythms: current state and future perspectives",
         "pub_year": "2014",
         "citation": "IEEE Transactions on Biomedical Engineering 61 (5), 1425-1435, 2014",
-        "num_citations": 564,
+        "num_citations": 573,
         "author_pub_id": "vBhJwrkAAAAJ:MhiOAD_qIWkC"
     },
     {
@@ -1637,13 +1637,13 @@
         "title": "Brain—computer interface",
         "pub_year": "2005",
         "citation": "Neural engineering, 85-121, 2005",
-        "num_citations": 349,
+        "num_citations": 350,
         "author_pub_id": "vBhJwrkAAAAJ:UmS_249rOGwC"
     },
     {
         "title": "Bridging training and execution via dynamic directed graph-based communication in cooperative multi-agent systems",
-        "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2408.07397, 2024",
+        "pub_year": "2025",
+        "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 39 (22), 23395 …, 2025",
         "num_citations": 1,
         "author_pub_id": "vBhJwrkAAAAJ:QlnOKEPDpKwC"
     },
@@ -1692,14 +1692,14 @@
         "title": "Can video generation replace cinematographers? Research on the cinematic language of generated video",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2412.12223, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "vBhJwrkAAAAJ:fMcxjvj1mj8C"
     },
     {
         "title": "Cardiac Electrophysiological Imaging: Solving the Inverse Problem of Electrocardiography",
         "pub_year": "2010",
         "citation": "Cardiac Electrophysiology Methods and Models, 357-373, 2010",
-        "num_citations": 104,
+        "num_citations": 105,
         "author_pub_id": "vBhJwrkAAAAJ:abG-DnoFyZgC"
     },
     {
@@ -1803,14 +1803,14 @@
         "title": "Classification of motor imagery tasks for brain-computer interface applications by means of two equivalent dipoles analysis",
         "pub_year": "2005",
         "citation": "IEEE Transactions on Neural Systems and Rehabilitation Engineering 13 (2 …, 2005",
-        "num_citations": 196,
+        "num_citations": 197,
         "author_pub_id": "vBhJwrkAAAAJ:oPLKW5k6eA4C"
     },
     {
         "title": "Classifying EEG-based motor imagery tasks by means of time–frequency synthesized spatial patterns",
         "pub_year": "2004",
         "citation": "Clinical Neurophysiology 115 (12), 2744-2753, 2004",
-        "num_citations": 269,
+        "num_citations": 270,
         "author_pub_id": "vBhJwrkAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -1839,6 +1839,13 @@
         "citation": "Frontiers in Human Neuroscience 16, 951591, 2022",
         "num_citations": 2,
         "author_pub_id": "vBhJwrkAAAAJ:rDsFeusoTZkC"
+    },
+    {
+        "title": "Closely Cooperative Multi-Agent Reinforcement Learning Based on Intention Sharing and Credit Assignment",
+        "pub_year": "2024",
+        "citation": "IEEE Robotics and Automation Letters, 2024",
+        "num_citations": 0,
+        "author_pub_id": "vBhJwrkAAAAJ:ZbXHRDTBJTgC"
     },
     {
         "title": "Cobalt-catalyzed radical hydrotrifluoroethylation of styrenes with trifluoroethyl iodide",
@@ -1988,10 +1995,17 @@
         "author_pub_id": "vBhJwrkAAAAJ:4fKUyHm3Qg0C"
     },
     {
+        "title": "Continuous Reaching and Grasping with a BCI Controlled Robotic Arm in Healthy and Stroke-Affected Individuals",
+        "pub_year": "2025",
+        "citation": "medRxiv, 2025.04. 16.25325551, 2025",
+        "num_citations": 0,
+        "author_pub_id": "vBhJwrkAAAAJ:Fx13dKtzC7kC"
+    },
+    {
         "title": "Continuous sensorimotor rhythm based brain computer interface learning in a large population",
         "pub_year": "2021",
         "citation": "Scientific Data 8 (1), 98, 2021",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "vBhJwrkAAAAJ:RVqaWcrwK10C"
     },
     {
@@ -2005,7 +2019,7 @@
         "title": "Continuous tracking using deep learning-based decoding for noninvasive brain–computer interface",
         "pub_year": "2024",
         "citation": "PNAS nexus 3 (4), pgae145, 2024",
-        "num_citations": 13,
+        "num_citations": 15,
         "author_pub_id": "vBhJwrkAAAAJ:aVq8r21TQD4C"
     },
     {
@@ -2033,14 +2047,14 @@
         "title": "Contribution of ictal source imaging for localizing seizure onset zone in patients with focal epilepsy",
         "pub_year": "2021",
         "citation": "Neurology 96 (3), e366-e375, 2021",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "vBhJwrkAAAAJ:BAanoTsO0WEC"
     },
     {
         "title": "Control System Design and Realization of Wet Adhesion Wall climbing Bio robot",
         "pub_year": "2010",
         "citation": "同济大学学报 (自然科学版)(英文版) 38 (12), 1813-1817, 2010",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "vBhJwrkAAAAJ:QaSi33NTfwYC"
     },
     {
@@ -2102,7 +2116,7 @@
         "title": "Cortical activation mapping of epileptiform activity derived from interictal ECoG spikes",
         "pub_year": "2007",
         "citation": "Epilepsia 48 (2), 305-314, 2007",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "vBhJwrkAAAAJ:UxriW0iASnsC"
     },
     {
@@ -2144,7 +2158,7 @@
         "title": "Cortical imaging of event-related (de) synchronization during online control of brain-computer interface using minimum-norm estimates in frequency domain",
         "pub_year": "2008",
         "citation": "IEEE Transactions on Neural Systems and Rehabilitation Engineering 16 (5 …, 2008",
-        "num_citations": 139,
+        "num_citations": 140,
         "author_pub_id": "vBhJwrkAAAAJ:AYInfyleIOsC"
     },
     {
@@ -2214,14 +2228,14 @@
         "title": "De Novo Transcriptome Sequencing of Oryza officinalis Wall ex Watt to Identify Disease-Resistance Genes",
         "pub_year": "2015",
         "citation": "International Journal of Molecular Sciences 16 (12), 29482-29495, 2015",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "vBhJwrkAAAAJ:j8pvxH-kN2QC"
     },
     {
         "title": "Deactivation in the posterior mid-cingulate cortex reflects perceptual transitions during binocular rivalry: Evidence from simultaneous EEG-fMRI",
         "pub_year": "2017",
         "citation": "NeuroImage 152, 1-11, 2017",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "vBhJwrkAAAAJ:EsEWqaRxkBgC"
     },
     {
@@ -2242,14 +2256,21 @@
         "title": "Deep learning based source imaging provides strong sublobar localization of epileptogenic zone from MEG interictal spikes",
         "pub_year": "2023",
         "citation": "Neuroimage 281, 120366, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "vBhJwrkAAAAJ:pwA0zy_liR0C"
+    },
+    {
+        "title": "Deep learning-based EEG source imaging is robust under varying electrode configurations",
+        "pub_year": "2025",
+        "citation": "Clinical Neurophysiology, 2025",
+        "num_citations": 0,
+        "author_pub_id": "vBhJwrkAAAAJ:38eRAUXPO10C"
     },
     {
         "title": "Deep neural networks constrained by neural mass models improve electrophysiological source imaging of spatiotemporal brain dynamics",
         "pub_year": "2022",
         "citation": "Proceedings of the National Academy of Sciences 119 (31), e2201128119, 2022",
-        "num_citations": 61,
+        "num_citations": 65,
         "author_pub_id": "vBhJwrkAAAAJ:gnsKu8c89wgC"
     },
     {
@@ -2283,7 +2304,7 @@
         "title": "Design and implementation of a cable inspection robot for cable-stayed bridges",
         "pub_year": "2021",
         "citation": "Robotica 39 (8), 1417-1433, 2021",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "vBhJwrkAAAAJ:cSdaV2aYdYsC"
     },
     {
@@ -2360,6 +2381,13 @@
         "citation": "BMC medical informatics and decision making 17, 1-11, 2017",
         "num_citations": 12,
         "author_pub_id": "vBhJwrkAAAAJ:SPgmg5JLkoEC"
+    },
+    {
+        "title": "Development and Application of Coverage Control Algorithms: A Concise Review",
+        "pub_year": "2025",
+        "citation": "IEEE Transactions on Automation Science and Engineering, 2025",
+        "num_citations": 0,
+        "author_pub_id": "vBhJwrkAAAAJ:wyCGhLAOp5UC"
     },
     {
         "title": "Development and modeling of a new ionogel based actuator",
@@ -2490,7 +2518,7 @@
         "title": "Discriminant analysis of milk adulteration based on near-infrared spectroscopy and pattern recognition",
         "pub_year": "2011",
         "citation": "Optical Diagnostics and Sensing XI: Toward Point-of-Care Diagnostics; and …, 2011",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "vBhJwrkAAAAJ:XtJa11BXPS4C"
     },
     {
@@ -2511,7 +2539,7 @@
         "title": "Dissociation of subjectively reported and behaviorally indexed mind wandering by EEG rhythmic activity",
         "pub_year": "2011",
         "citation": "PloS one 6 (9), e23124, 2011",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "vBhJwrkAAAAJ:86PQX7AUzd4C"
     },
     {
@@ -2543,6 +2571,13 @@
         "author_pub_id": "vBhJwrkAAAAJ:Ef4XXjhdXvQC"
     },
     {
+        "title": "Dual-Arm Robotic Fabric Manipulation With Quasi-Static and Dynamic Primitives for Rapid Garment Flattening",
+        "pub_year": "2025",
+        "citation": "IEEE/ASME Transactions on Mechatronics, 2025",
+        "num_citations": 0,
+        "author_pub_id": "vBhJwrkAAAAJ:5o6HiIVP414C"
+    },
+    {
         "title": "Dynamic HIV/AIDS Parameter Estimation With Application to a Vaccine Readiness Study in Southern Africa................................................................... RA …",
         "citation": "",
         "num_citations": 0,
@@ -2559,7 +2594,7 @@
         "title": "Dynamic imaging of ictal oscillations using non-invasive high-resolution EEG",
         "pub_year": "2011",
         "citation": "Neuroimage 56 (4), 1908-1917, 2011",
-        "num_citations": 104,
+        "num_citations": 105,
         "author_pub_id": "vBhJwrkAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -2629,7 +2664,7 @@
         "title": "EEG control of a virtual helicopter in 3-dimensional space using intelligent control strategies",
         "pub_year": "2010",
         "citation": "IEEE Transactions on neural systems and rehabilitation engineering 18 (6 …, 2010",
-        "num_citations": 302,
+        "num_citations": 303,
         "author_pub_id": "vBhJwrkAAAAJ:ziOE8S1-AIUC"
     },
     {
@@ -2664,7 +2699,7 @@
         "title": "EEG source imaging enhances the decoding of complex right-hand motor imagery tasks",
         "pub_year": "2015",
         "citation": "IEEE Transactions on Biomedical Engineering 63 (1), 4-14, 2015",
-        "num_citations": 390,
+        "num_citations": 394,
         "author_pub_id": "vBhJwrkAAAAJ:nZcligLrVowC"
     },
     {
@@ -2678,7 +2713,7 @@
         "title": "EEG source localization",
         "pub_year": "2019",
         "citation": "Handbook of clinical neurology 160, 85-101, 2019",
-        "num_citations": 138,
+        "num_citations": 143,
         "author_pub_id": "vBhJwrkAAAAJ:cBPnxVikjH8C"
     },
     {
@@ -2692,7 +2727,7 @@
         "title": "EEG-Informed fMRI Analysis Reveals Neurovascular Coupling in Motor Execution and Imagery",
         "pub_year": "2025",
         "citation": "bioRxiv, 2025.01. 13.632624, 2025",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "vBhJwrkAAAAJ:hZ5_QnqxF7AC"
     },
     {
@@ -2733,6 +2768,13 @@
         "citation": "INTERNATIONAL JOURNAL OF PSYCHOPHYSIOLOGY 33 (1), 95-95, 1999",
         "num_citations": 0,
         "author_pub_id": "vBhJwrkAAAAJ:KS-xo-ZNxMsC"
+    },
+    {
+        "title": "Eco-Friendly 0G Networks: Unlocking the Power of Backscatter Communications for a Greener Future",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2411.13440, 2024",
+        "num_citations": 0,
+        "author_pub_id": "vBhJwrkAAAAJ:e0CZ6poB34oC"
     },
     {
         "title": "Editorial A Message From the New Editor-in-Chief",
@@ -2787,7 +2829,7 @@
         "title": "Effects of EEG Electrode Numbers on Deep Learning-Based Source Imaging",
         "pub_year": "2023",
         "citation": "International Conference on Brain Informatics, 123-132, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "vBhJwrkAAAAJ:P2d6BWbXU0IC"
     },
     {
@@ -2801,7 +2843,7 @@
         "title": "Effects of Nitrogen and Phosphorus Limitation on Fatty Acid Contents in Aspergillus oryzae",
         "pub_year": "2021",
         "citation": "Frontiers in Microbiology 12, 739569, 2021",
-        "num_citations": 14,
+        "num_citations": 17,
         "author_pub_id": "vBhJwrkAAAAJ:tFzHCjejgA0C"
     },
     {
@@ -2864,28 +2906,28 @@
         "title": "Effects of soft drinks on resting state EEG and brain–computer interface performance",
         "pub_year": "2017",
         "citation": "IEEE Access 5, 18756-18764, 2017",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "vBhJwrkAAAAJ:uWQEDVKXjbEC"
     },
     {
         "title": "Efficient reflection waveform inversion using a locally normalized zero‐lag correlative objective function",
         "pub_year": "2020",
         "citation": "Geophysical Prospecting 68 (9), 2678-2696, 2020",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "vBhJwrkAAAAJ:nU66GSXDKhoC"
     },
     {
         "title": "Electric dipole tracing in the brain by means of the boundary element method and its accuracy",
         "pub_year": "1987",
         "citation": "IEEE Transactions on Biomedical Engineering, 406-414, 1987",
-        "num_citations": 436,
+        "num_citations": 439,
         "author_pub_id": "vBhJwrkAAAAJ:AzKEL7Gb_04C"
     },
     {
         "title": "Electrical Properties Tomography Based on  Maps in MRI: Principles, Applications, and Challenges",
         "pub_year": "2017",
         "citation": "IEEE Transactions on Biomedical Engineering 64 (11), 2515-2530, 2017",
-        "num_citations": 100,
+        "num_citations": 102,
         "author_pub_id": "vBhJwrkAAAAJ:LdasjJ6CEcoC"
     },
     {
@@ -2899,7 +2941,7 @@
         "title": "Electroencephalographic source imaging of spikes with concurrent high‐frequency oscillation s is concordant with the clinical ground truth",
         "pub_year": "2024",
         "citation": "Epilepsia 65 (12), 3571-3582, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "vBhJwrkAAAAJ:EmjvLWWcsQIC"
     },
     {
@@ -2920,7 +2962,7 @@
         "title": "Electromagnetic brain source imaging by means of a robust minimum variance beamformer",
         "pub_year": "2018",
         "citation": "IEEE Transactions on Biomedical Engineering 65 (10), 2365-2374, 2018",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "vBhJwrkAAAAJ:lYAcb2jw7qUC"
     },
     {
@@ -2955,28 +2997,28 @@
         "title": "Electrophysiological brain connectivity: theory and implementation",
         "pub_year": "2019",
         "citation": "IEEE transactions on biomedical engineering 66 (7), 2115-2137, 2019",
-        "num_citations": 230,
+        "num_citations": 232,
         "author_pub_id": "vBhJwrkAAAAJ:6VlyvFCUEfcC"
     },
     {
         "title": "Electrophysiological imaging of brain activity and connectivity—challenges and opportunities",
         "pub_year": "2011",
         "citation": "IEEE transactions on biomedical engineering 58 (7), 1918-1931, 2011",
-        "num_citations": 348,
+        "num_citations": 350,
         "author_pub_id": "vBhJwrkAAAAJ:maZDTaKrznsC"
     },
     {
         "title": "Electrophysiological mapping and neuroimaging",
         "pub_year": "2012",
         "citation": "Neural engineering, 499-543, 2012",
-        "num_citations": 41,
+        "num_citations": 43,
         "author_pub_id": "vBhJwrkAAAAJ:rHJHxKgnXwkC"
     },
     {
         "title": "Electrophysiological mapping and source imaging",
         "pub_year": "2020",
         "citation": "Neural engineering, 379-413, 2020",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "vBhJwrkAAAAJ:eH23hyXCXa4C"
     },
     {
@@ -3004,14 +3046,14 @@
         "title": "Electrophysiological source imaging of brain networks perturbed by low-intensity transcranial focused ultrasound",
         "pub_year": "2016",
         "citation": "IEEE Transactions on Biomedical Engineering 63 (9), 1787-1794, 2016",
-        "num_citations": 66,
+        "num_citations": 67,
         "author_pub_id": "vBhJwrkAAAAJ:1yWc8FF-_SYC"
     },
     {
         "title": "Electrophysiological source imaging: a noninvasive window to brain dynamics",
         "pub_year": "2018",
         "citation": "Annual review of biomedical engineering 20 (1), 171-196, 2018",
-        "num_citations": 268,
+        "num_citations": 277,
         "author_pub_id": "vBhJwrkAAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -3032,7 +3074,7 @@
         "title": "Enhance accuracy: sensitivity and uncertainty theory in LiDAR odometry and mapping",
         "pub_year": "2021",
         "citation": "arXiv preprint arXiv:2111.07723, 2021",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "vBhJwrkAAAAJ:S0CDQJw8Yr4C"
     },
     {
@@ -3074,7 +3116,7 @@
         "title": "Epigenetic regulation of fungal secondary metabolism",
         "pub_year": "2024",
         "citation": "Journal of Fungi 10 (9), 648, 2024",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "vBhJwrkAAAAJ:rwEhk56xNqMC"
     },
     {
@@ -3256,7 +3298,7 @@
         "title": "Estimation of the cortical functional connectivity with the multimodal integration of high-resolution EEG and fMRI data by directed transfer function",
         "pub_year": "2005",
         "citation": "Neuroimage 24 (1), 118-131, 2005",
-        "num_citations": 520,
+        "num_citations": 524,
         "author_pub_id": "vBhJwrkAAAAJ:BUYA1_V_uYcC"
     },
     {
@@ -3283,7 +3325,7 @@
         "title": "Evaluation of cortical current density imaging methods using intracranial electrocorticograms and functional MRI",
         "pub_year": "2007",
         "citation": "Neuroimage 35 (2), 598-608, 2007",
-        "num_citations": 97,
+        "num_citations": 99,
         "author_pub_id": "vBhJwrkAAAAJ:0KyAp5RtaNEC"
     },
     {
@@ -3350,6 +3392,13 @@
         "author_pub_id": "vBhJwrkAAAAJ:8rLWgkbgOXQC"
     },
     {
+        "title": "Explainable AI and monocular vision for enhanced UAV navigation in smart cities: prospects and challenges",
+        "pub_year": "2025",
+        "citation": "Frontiers in Sustainable Cities 7, 1561404, 2025",
+        "num_citations": 0,
+        "author_pub_id": "vBhJwrkAAAAJ:1DAnfT_YoJgC"
+    },
+    {
         "title": "Explicit Wave Solutions and Qualitative Analysis of the (1+ 2)‐Dimensional Nonlinear Schrödinger Equation with Dual‐Power Law Nonlinearity",
         "pub_year": "2015",
         "citation": "Advances in Mathematical Physics 2015 (1), 408630, 2015",
@@ -3388,14 +3437,14 @@
         "title": "Exploring the extent of source imaging: Recent advances in noninvasive electromagnetic brain imaging",
         "pub_year": "2021",
         "citation": "Current opinion in biomedical engineering 18, 100277, 2021",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "vBhJwrkAAAAJ:cdwqcPQS8ssC"
     },
     {
         "title": "Exploring training effect in 42 human subjects using a non-invasive sensorimotor rhythm based online BCI",
         "pub_year": "2019",
         "citation": "Frontiers in human neuroscience 13, 128, 2019",
-        "num_citations": 50,
+        "num_citations": 54,
         "author_pub_id": "vBhJwrkAAAAJ:Azgs6IHzeyYC"
     },
     {
@@ -3493,7 +3542,7 @@
         "title": "Focused ultrasound help realize high spatiotemporal brain imaging?-a concept on acousto-electrophysiological neuroimaging",
         "pub_year": "2016",
         "citation": "IEEE Transactions on Biomedical Engineering 63 (12), 2654-2656, 2016",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "vBhJwrkAAAAJ:2tRrZ1ZAMYUC"
     },
     {
@@ -3549,7 +3598,7 @@
         "title": "Frontolimbic alpha activity tracks intentional rest BCI control improvement through mindfulness meditation",
         "pub_year": "2021",
         "citation": "Scientific Reports 11 (1), 6818, 2021",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "vBhJwrkAAAAJ:oXKBmVzQOggC"
     },
     {
@@ -3563,7 +3612,7 @@
         "title": "Functional Genomics of Aspergillus oryzae: Strategies and Progress",
         "pub_year": "2019",
         "citation": "Microorganisms 7 (4), 103, 2019",
-        "num_citations": 60,
+        "num_citations": 61,
         "author_pub_id": "vBhJwrkAAAAJ:hKjooKYXoHIC"
     },
     {
@@ -3591,7 +3640,7 @@
         "title": "Gene transcription profiling of Aspergillus oryzae 3.042 treated with ergosterol biosynthesis inhibitors",
         "pub_year": "2019",
         "citation": "Brazilian Journal of Microbiology 50, 43-52, 2019",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "vBhJwrkAAAAJ:iKswqCX-FLkC"
     },
     {
@@ -3647,7 +3696,7 @@
         "title": "Genome-wide identification of the GATA transcription factor family and their expression patterns under temperature and salt stress in Aspergillus oryzae",
         "pub_year": "2021",
         "citation": "AMB Express 11, 1-13, 2021",
-        "num_citations": 14,
+        "num_citations": 17,
         "author_pub_id": "vBhJwrkAAAAJ:wlzmIqt2EaEC"
     },
     {
@@ -3675,14 +3724,14 @@
         "title": "Glycosphingolipids in filamentous fungi: biological roles and potential applications in cosmetics and health foods",
         "pub_year": "2021",
         "citation": "Frontiers in Microbiology 12, 690211, 2021",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "vBhJwrkAAAAJ:bbjcffOLshcC"
     },
     {
         "title": "Goal selection versus process control in a brain–computer interface based on sensorimotor rhythms",
         "pub_year": "2009",
         "citation": "Journal of neural engineering 6 (1), 016005, 2009",
-        "num_citations": 64,
+        "num_citations": 65,
         "author_pub_id": "vBhJwrkAAAAJ:blknAaTinKkC"
     },
     {
@@ -3710,7 +3759,7 @@
         "title": "Gradient‐based electrical properties tomography (g EPT): A robust method for mapping electrical properties of biological tissues in vivo using magnetic resonance imaging",
         "pub_year": "2015",
         "citation": "Magnetic resonance in medicine 74 (3), 634-646, 2015",
-        "num_citations": 127,
+        "num_citations": 128,
         "author_pub_id": "vBhJwrkAAAAJ:_Qo2XoVZTnwC"
     },
     {
@@ -3723,7 +3772,7 @@
         "title": "Grand challenges in interfacing engineering with life sciences and medicine",
         "pub_year": "2013",
         "citation": "IEEE transactions on biomedical engineering 60 (3), 589-598, 2013",
-        "num_citations": 72,
+        "num_citations": 73,
         "author_pub_id": "vBhJwrkAAAAJ:OTTXONDVkokC"
     },
     {
@@ -3737,7 +3786,7 @@
         "title": "Graph analysis of epileptogenic networks in human partial epilepsy",
         "pub_year": "2011",
         "citation": "Epilepsia 52 (1), 84-93, 2011",
-        "num_citations": 355,
+        "num_citations": 357,
         "author_pub_id": "vBhJwrkAAAAJ:27LrP4qxOz0C"
     },
     {
@@ -3765,7 +3814,7 @@
         "title": "Heat exposure impairs porcine oocyte quality with suppressed actin expression in cumulus cells and disrupted F-actin formation in transzonal projections",
         "pub_year": "2020",
         "citation": "Journal of Animal Science and Biotechnology 11, 1-12, 2020",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "vBhJwrkAAAAJ:-vzq6BoH5oUC"
     },
     {
@@ -3792,7 +3841,7 @@
         "title": "High-definition transcranial direct current stimulation induces both acute and persistent changes in broadband cortical synchronization: a simultaneous tDCS–EEG study",
         "pub_year": "2014",
         "citation": "IEEE Transactions on Biomedical Engineering 61 (7), 1967-1978, 2014",
-        "num_citations": 146,
+        "num_citations": 147,
         "author_pub_id": "vBhJwrkAAAAJ:TlpoogIpr_IC"
     },
     {
@@ -3806,7 +3855,7 @@
         "title": "High-resolution EEG: a new realistic geometry spline Laplacian estimation technique",
         "pub_year": "2001",
         "citation": "Clinical Neurophysiology 112 (5), 845-852, 2001",
-        "num_citations": 105,
+        "num_citations": 106,
         "author_pub_id": "vBhJwrkAAAAJ:LPZeul_q3PIC"
     },
     {
@@ -3937,7 +3986,7 @@
         "title": "Identification and Expression Analysis of Sugar Transporter Gene Family in Aspergillus oryzae",
         "pub_year": "2020",
         "citation": "International Journal of Genomics 2020 (1), 7146701, 2020",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "vBhJwrkAAAAJ:mVC4hKzE2FoC"
     },
     {
@@ -3981,6 +4030,13 @@
         "citation": "2016 38th Annual International Conference of the IEEE Engineering in …, 2016",
         "num_citations": 0,
         "author_pub_id": "vBhJwrkAAAAJ:wE-fMHVdjMkC"
+    },
+    {
+        "title": "Imagine: Image-Guided 3D Part Assembly with Structure Knowledge Graph",
+        "pub_year": "2025",
+        "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 39 (8), 7889-7897, 2025",
+        "num_citations": 0,
+        "author_pub_id": "vBhJwrkAAAAJ:QndmRo8phpgC"
     },
     {
         "title": "Imaging 3-dimensional cardiac electrical activity from intra-cavity potentials",
@@ -4056,7 +4112,7 @@
         "title": "Imaging brain source extent from EEG/MEG by means of an iteratively reweighted edge sparsity minimization (IRES) strategy",
         "pub_year": "2016",
         "citation": "NeuroImage 142, 27-42, 2016",
-        "num_citations": 89,
+        "num_citations": 90,
         "author_pub_id": "vBhJwrkAAAAJ:0izLItjtcgwC"
     },
     {
@@ -4140,7 +4196,7 @@
         "title": "Imaging the social brain by simultaneous hyperscanning during subject interaction",
         "pub_year": "2011",
         "citation": "IEEE intelligent systems 26 (5), 38, 2011",
-        "num_citations": 140,
+        "num_citations": 142,
         "author_pub_id": "vBhJwrkAAAAJ:TaaCk18tZOkC"
     },
     {
@@ -4259,7 +4315,7 @@
         "title": "Influence of surface roughness on wet adhesion of biomimetic adhesive pads with planar microstructures",
         "pub_year": "2012",
         "citation": "Micro & Nano Letters 7 (12), 1274-1277, 2012",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "vBhJwrkAAAAJ:PVqtIyvKoSUC"
     },
     {
@@ -4287,7 +4343,7 @@
         "title": "Inhibition of AoAur1 increases mycelial growth, hyphal fusion and improves physiological adaptation to high-temperature stress in Aspergillus oryzae",
         "pub_year": "2022",
         "citation": "Archives of Microbiology 204 (8), 477, 2022",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "vBhJwrkAAAAJ:Dmoar05iI2YC"
     },
     {
@@ -4301,14 +4357,14 @@
         "title": "Integrating simultaneous motor imagery and spatial attention for EEG-BCI control",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Biomedical Engineering 71 (1), 282-294, 2023",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "vBhJwrkAAAAJ:0paDrhnEFY0C"
     },
     {
         "title": "Integration of EEG/MEG with MRI and fMRI",
         "pub_year": "2006",
         "citation": "IEEE engineering in medicine and biology magazine 25 (4), 46-53, 2006",
-        "num_citations": 174,
+        "num_citations": 176,
         "author_pub_id": "vBhJwrkAAAAJ:TQgYirikUcIC"
     },
     {
@@ -4329,7 +4385,7 @@
         "title": "Interictal SEEG resting‐state connectivity localizes the seizure onset zone and predicts seizure outcome",
         "pub_year": "2022",
         "citation": "Advanced Science 9 (18), 2200887, 2022",
-        "num_citations": 59,
+        "num_citations": 63,
         "author_pub_id": "vBhJwrkAAAAJ:aCwMkEyfDy8C"
     },
     {
@@ -4368,7 +4424,7 @@
         "title": "Intrinsic functional neuron-type selectivity of transcranial focused ultrasound neuromodulation",
         "pub_year": "2021",
         "citation": "Nature communications 12 (1), 2519, 2021",
-        "num_citations": 167,
+        "num_citations": 172,
         "author_pub_id": "vBhJwrkAAAAJ:JdL-Xu2nR38C"
     },
     {
@@ -4389,7 +4445,7 @@
         "title": "Investigating cooperative behavior in ecological settings: an EEG hyperscanning study",
         "pub_year": "2016",
         "citation": "PloS one 11 (4), e0154236, 2016",
-        "num_citations": 229,
+        "num_citations": 233,
         "author_pub_id": "vBhJwrkAAAAJ:_xSYboBqXhAC"
     },
     {
@@ -4424,7 +4480,7 @@
         "title": "Joint optimization of multi-UAV deployment and user association via deep reinforcement learning for long-term communication coverage",
         "pub_year": "2024",
         "citation": "IEEE Transactions on Instrumentation and Measurement, 2024",
-        "num_citations": 5,
+        "num_citations": 7,
         "author_pub_id": "vBhJwrkAAAAJ:q82PccF7nXcC"
     },
     {
@@ -4500,7 +4556,7 @@
         "title": "Large language models for uavs: Current state and pathways to the future",
         "pub_year": "2024",
         "citation": "IEEE Open Journal of Vehicular Technology, 2024",
-        "num_citations": 26,
+        "num_citations": 31,
         "author_pub_id": "vBhJwrkAAAAJ:rAN7mHg6NlYC"
     },
     {
@@ -4521,7 +4577,7 @@
         "title": "Leveraging large language models for integrated satellite-aerial-terrestrial networks: recent advances and future directions",
         "pub_year": "2024",
         "citation": "IEEE Open Journal of the Communications Society, 2024",
-        "num_citations": 17,
+        "num_citations": 20,
         "author_pub_id": "vBhJwrkAAAAJ:Q17yWvk9gpwC"
     },
     {
@@ -4577,7 +4633,7 @@
         "title": "Localization of origins of premature ventricular contraction by means of convolutional neural network from 12-lead ECG",
         "pub_year": "2017",
         "citation": "IEEE transactions on biomedical engineering 65 (7), 1662-1671, 2017",
-        "num_citations": 99,
+        "num_citations": 101,
         "author_pub_id": "vBhJwrkAAAAJ:O0nohqN1r9EC"
     },
     {
@@ -4605,7 +4661,7 @@
         "title": "Localized electrochemical deburring of cross hole using gelatinous electrolyte",
         "pub_year": "2016",
         "citation": "Materials and Manufacturing Processes 31 (13), 1749-1754, 2016",
-        "num_citations": 17,
+        "num_citations": 16,
         "author_pub_id": "vBhJwrkAAAAJ:NtCmTCuxid4C"
     },
     {
@@ -4626,7 +4682,7 @@
         "title": "Long-term dexamethasone exposure down-regulates hepatic TFR1 and reduces liver iron concentration in rats",
         "pub_year": "2017",
         "citation": "Nutrients 9 (6), 617, 2017",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "vBhJwrkAAAAJ:J4E9jCG1tHUC"
     },
     {
@@ -4647,7 +4703,7 @@
         "title": "Low-intensity transcranial focused ultrasound suppresses pain by modulating pain-processing brain circuits",
         "pub_year": "2024",
         "citation": "Blood 144 (10), 1101-1115, 2024",
-        "num_citations": 10,
+        "num_citations": 13,
         "author_pub_id": "vBhJwrkAAAAJ:_u2aKJ9e-CoC"
     },
     {
@@ -4829,7 +4885,7 @@
         "title": "Mapping electrical properties heterogeneity of tumor using boundary informed electrical properties tomography (BIEPT) at 7T",
         "pub_year": "2019",
         "citation": "Magnetic resonance in medicine 81 (1), 393-409, 2019",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "vBhJwrkAAAAJ:jmjb1lOE9QIC"
     },
     {
@@ -4878,7 +4934,7 @@
         "title": "Method and apparatus of three dimension electrocardiographic imaging",
         "pub_year": "2005",
         "citation": "US Patent 6,856,830, 2005",
-        "num_citations": 215,
+        "num_citations": 217,
         "author_pub_id": "vBhJwrkAAAAJ:LGlY6t8CeOMC"
     },
     {
@@ -4927,7 +4983,7 @@
         "title": "Methods and apparatus of three dimensional cardiac electrophysiological imaging",
         "pub_year": "2010",
         "citation": "US Patent 7,841,986, 2010",
-        "num_citations": 228,
+        "num_citations": 229,
         "author_pub_id": "vBhJwrkAAAAJ:qE4H1tSSYIIC"
     },
     {
@@ -4955,7 +5011,7 @@
         "title": "Mevalonate Diphosphate Decarboxylase MVD/Erg19 Is Required for Ergosterol Biosynthesis, Growth, Sporulation and Stress Tolerance in Aspergillus oryzae",
         "pub_year": "2019",
         "citation": "Frontiers in Microbiology 10, 1074, 2019",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "vBhJwrkAAAAJ:htyGaKyDgHMC"
     },
     {
@@ -4983,7 +5039,7 @@
         "title": "Mindfulness improves brain–computer interface performance by increasing control over neural activity in the alpha band",
         "pub_year": "2021",
         "citation": "Cerebral Cortex 31 (1), 426-438, 2021",
-        "num_citations": 58,
+        "num_citations": 59,
         "author_pub_id": "vBhJwrkAAAAJ:natZJ_-F0IUC"
     },
     {
@@ -5006,6 +5062,13 @@
         "citation": "Springer Science & Business Media, 2010",
         "num_citations": 144,
         "author_pub_id": "vBhJwrkAAAAJ:HmWvvuJwtxYC"
+    },
+    {
+        "title": "Modeling Markov Decision Process Elements Leveraging Language Models for Offline Multi-Agent Reinforcement Learning",
+        "pub_year": "2024",
+        "citation": "2024 China Automation Congress (CAC), 7104-7109, 2024",
+        "num_citations": 0,
+        "author_pub_id": "vBhJwrkAAAAJ:rQKKVauEoioC"
     },
     {
         "title": "Modeling and experimental studies of capacitive pressure sensors with microstructured dielectric layers",
@@ -5032,7 +5095,7 @@
         "title": "Monotonic quantile network for worst-case offline reinforcement learning",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Neural Networks and Learning Systems, 2022",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "vBhJwrkAAAAJ:HAmI6pRF5skC"
     },
     {
@@ -5053,7 +5116,7 @@
         "title": "Motor imagery classification by means of source analysis for brain–computer interface applications",
         "pub_year": "2004",
         "citation": "Journal of neural engineering 1 (3), 135, 2004",
-        "num_citations": 300,
+        "num_citations": 301,
         "author_pub_id": "vBhJwrkAAAAJ:OU6Ihb5iCvQC"
     },
     {
@@ -5116,7 +5179,7 @@
         "title": "Multimodal functional neuroimaging: integrating functional MRI and EEG/MEG",
         "pub_year": "2008",
         "citation": "IEEE reviews in biomedical engineering 1, 23-40, 2008",
-        "num_citations": 201,
+        "num_citations": 202,
         "author_pub_id": "vBhJwrkAAAAJ:VOx2b1Wkg3QC"
     },
     {
@@ -5165,7 +5228,7 @@
         "title": "Negative covariation between task-related responses in alpha/beta-band activity and BOLD in human sensorimotor cortex: an EEG and fMRI study of motor imagery and movements",
         "pub_year": "2010",
         "citation": "Neuroimage 49 (3), 2596-2606, 2010",
-        "num_citations": 316,
+        "num_citations": 319,
         "author_pub_id": "vBhJwrkAAAAJ:wKETBy42zhYC"
     },
     {
@@ -5186,7 +5249,7 @@
         "title": "Neural engineering",
         "pub_year": "2020",
         "citation": "Springer Nature, 2020",
-        "num_citations": 289,
+        "num_citations": 294,
         "author_pub_id": "vBhJwrkAAAAJ:s9ia6_kGH2AC"
     },
     {
@@ -5221,14 +5284,14 @@
         "title": "Neuromodulation for brain disorders: challenges and opportunities",
         "pub_year": "2013",
         "citation": "IEEE Transactions on Biomedical Engineering 60 (3), 610-624, 2013",
-        "num_citations": 270,
+        "num_citations": 273,
         "author_pub_id": "vBhJwrkAAAAJ:QYdC8u9Cj1oC"
     },
     {
         "title": "Neuromodulation management of chronic neuropathic pain in the central nervous system",
         "pub_year": "2020",
         "citation": "Advanced Functional Materials 30 (37), 1908999, 2020",
-        "num_citations": 63,
+        "num_citations": 67,
         "author_pub_id": "vBhJwrkAAAAJ:VRfTbSk87rEC"
     },
     {
@@ -5326,7 +5389,7 @@
         "title": "Non-invasive brain-computer interfaces: state of the art and trends",
         "pub_year": "2024",
         "citation": "IEEE Reviews in Biomedical Engineering, 2024",
-        "num_citations": 17,
+        "num_citations": 21,
         "author_pub_id": "vBhJwrkAAAAJ:Agc8PWtS8JkC"
     },
     {
@@ -5388,7 +5451,7 @@
         "title": "Noninvasive brain-computer interfaces based on sensorimotor rhythms",
         "pub_year": "2015",
         "citation": "Proceedings of the IEEE 103 (6), 907-925, 2015",
-        "num_citations": 269,
+        "num_citations": 271,
         "author_pub_id": "vBhJwrkAAAAJ:P5F9QuxV20EC"
     },
     {
@@ -5423,7 +5486,7 @@
         "title": "Noninvasive electroencephalogram based control of a robotic arm for reach and grasp tasks",
         "pub_year": "2016",
         "citation": "Scientific Reports 6 (1), 38565, 2016",
-        "num_citations": 515,
+        "num_citations": 518,
         "author_pub_id": "vBhJwrkAAAAJ:eAlLMO4JVmQC"
     },
     {
@@ -5443,14 +5506,14 @@
         "title": "Noninvasive electromagnetic source imaging and granger causality analysis: an electrophysiological connectome (eConnectome) approach",
         "pub_year": "2016",
         "citation": "IEEE Transactions on Biomedical Engineering 63 (12), 2474-2487, 2016",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "vBhJwrkAAAAJ:cK4Rrx0J3m0C"
     },
     {
         "title": "Noninvasive electromagnetic source imaging of spatiotemporally distributed epileptogenic brain sources",
         "pub_year": "2020",
         "citation": "Nature communications 11 (1), 1946, 2020",
-        "num_citations": 107,
+        "num_citations": 110,
         "author_pub_id": "vBhJwrkAAAAJ:aEW5N-EHWIMC"
     },
     {
@@ -5471,7 +5534,7 @@
         "title": "Noninvasive high-frequency oscillations riding spikes delineates epileptogenic sources",
         "pub_year": "2021",
         "citation": "Proceedings of the National Academy of Sciences 118 (17), e2011130118, 2021",
-        "num_citations": 64,
+        "num_citations": 65,
         "author_pub_id": "vBhJwrkAAAAJ:ZYsTHYU9jrMC"
     },
     {
@@ -5569,7 +5632,7 @@
         "title": "Noninvasive neuroimaging enhances continuous neural tracking for robotic device control",
         "pub_year": "2019",
         "citation": "Science robotics 4 (31), eaaw6844, 2019",
-        "num_citations": 353,
+        "num_citations": 359,
         "author_pub_id": "vBhJwrkAAAAJ:rCNdntzdTkkC"
     },
     {
@@ -5743,7 +5806,7 @@
         "title": "On the estimation of the number of dipole sources in EEG source localization",
         "pub_year": "2005",
         "citation": "Clinical neurophysiology 116 (9), 2037-2043, 2005",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "vBhJwrkAAAAJ:AXPGKjj_ei8C"
     },
     {
@@ -5799,14 +5862,14 @@
         "title": "Open‐Closed‐Loop PD Iterative Learning Control with a Variable Forgetting Factor for a Two‐Wheeled Self‐Balancing Mobile Robot",
         "pub_year": "2019",
         "citation": "Complexity 2019 (1), 5705126, 2019",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "vBhJwrkAAAAJ:4n0clTBhZ78C"
     },
     {
         "title": "Optimal sensor placement for underground tunnel monitoring via wireless sensor networks",
         "pub_year": "2021",
         "citation": "Wireless Communications and Mobile Computing 2021 (1), 6621987, 2021",
-        "num_citations": 9,
+        "num_citations": 11,
         "author_pub_id": "vBhJwrkAAAAJ:2Q0AJrNhS-QC"
     },
     {
@@ -5837,6 +5900,13 @@
         "author_pub_id": "vBhJwrkAAAAJ:D_sINldO8mEC"
     },
     {
+        "title": "PAGNet: Pluggable Adaptive Generative Networks for Information Completion in Multi-Agent Communication",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2502.03845, 2025",
+        "num_citations": 0,
+        "author_pub_id": "vBhJwrkAAAAJ:52neCvzbxIwC"
+    },
+    {
         "title": "PDE Solution of Electrical Properties Tomography With Multi-channel B1 Transmission",
         "pub_year": "2015",
         "citation": "Proceedings of the 23th Annual Meeting of ISMRM, 3300, 2015",
@@ -5858,7 +5928,7 @@
     {
         "title": "Parameter-dependent cell-type specific effects of transcranial focused ultrasound stimulation in an awake head-fixed rodent model",
         "pub_year": "2025",
-        "citation": "Journal of Neural Engineering, 2025",
+        "citation": "Journal of Neural Engineering 22 (2), 026022, 2025",
         "num_citations": 0,
         "author_pub_id": "vBhJwrkAAAAJ:3UHJKpZgG5wC"
     },
@@ -5894,7 +5964,7 @@
         "title": "Perceptual learning increases the strength of the earliest signals in visual cortex",
         "pub_year": "2010",
         "citation": "Journal of Neuroscience 30 (45), 15080-15084, 2010",
-        "num_citations": 150,
+        "num_citations": 152,
         "author_pub_id": "vBhJwrkAAAAJ:yY3RG6sOEgwC"
     },
     {
@@ -6026,14 +6096,14 @@
         "title": "Progressive increase of high-frequency EEG oscillations during meditation is associated with its trait effects on heart rate and proteomics: a study on the Tibetan Buddhist",
         "pub_year": "2022",
         "citation": "Cerebral Cortex 32 (18), 3865-3877, 2022",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "vBhJwrkAAAAJ:_n8fIOMweQoC"
     },
     {
         "title": "Quadcopter control in three-dimensional space using a noninvasive motor imagery-based brain–computer interface",
         "pub_year": "2013",
         "citation": "Journal of neural engineering 10 (4), 046003, 2013",
-        "num_citations": 701,
+        "num_citations": 705,
         "author_pub_id": "vBhJwrkAAAAJ:nrtMV_XWKgEC"
     },
     {
@@ -6047,7 +6117,7 @@
         "title": "Quantifying and characterizing tonic thermal pain across subjects from EEG data using random forest models",
         "pub_year": "2017",
         "citation": "IEEE Transactions on Biomedical Engineering 64 (12), 2988-2996, 2017",
-        "num_citations": 99,
+        "num_citations": 100,
         "author_pub_id": "vBhJwrkAAAAJ:HbR8gkJAVGIC"
     },
     {
@@ -6179,7 +6249,7 @@
         "title": "Relationship between speed and EEG activity during imagined and executed hand movements",
         "pub_year": "2010",
         "citation": "Journal of neural engineering 7 (2), 026001, 2010",
-        "num_citations": 172,
+        "num_citations": 173,
         "author_pub_id": "vBhJwrkAAAAJ:ClCfbGk0d_YC"
     },
     {
@@ -6214,7 +6284,7 @@
         "title": "Research on Stiffness of Multibackbone Continuum Robot Based on Screw Theory and Euler‐Bernoulli Beam",
         "pub_year": "2018",
         "citation": "Mathematical Problems in Engineering 2018 (1), 6910468, 2018",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "vBhJwrkAAAAJ:WIXB4To3Tx4C"
     },
     {
@@ -6249,7 +6319,7 @@
         "title": "Research progress on the artificial intelligence applications in food safety and quality management",
         "pub_year": "2024",
         "citation": "Trends in Food Science & Technology, 104855, 2024",
-        "num_citations": 2,
+        "num_citations": 5,
         "author_pub_id": "vBhJwrkAAAAJ:AeM5kdmBKVwC"
     },
     {
@@ -6270,7 +6340,7 @@
         "title": "Review of bioinspired vision-tactile fusion perception (VTFP): From humans to humanoids",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Medical Robotics and Bionics 4 (4), 875-888, 2022",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "vBhJwrkAAAAJ:-qpA3cGbmHsC"
     },
     {
@@ -6293,6 +6363,13 @@
         "citation": "Acta Armamentarii 27 (4), 622, 2006",
         "num_citations": 4,
         "author_pub_id": "vBhJwrkAAAAJ:o9ULDYDKYbIC"
+    },
+    {
+        "title": "Robot imitation from multimodal observation with unsupervised cross-modal representation",
+        "pub_year": "2024",
+        "citation": "Robotica 42 (10), 3247-3262, 2024",
+        "num_citations": 0,
+        "author_pub_id": "vBhJwrkAAAAJ:00hq1xGbIBsC"
     },
     {
         "title": "Robot imitation learning from image-only observation without real-world interaction",
@@ -6339,7 +6416,7 @@
         "title": "SIFNet: Electromagnetic source imaging framework using deep neural networks",
         "pub_year": "2020",
         "citation": "bioRxiv, 2020.05. 11.089185, 2020",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "vBhJwrkAAAAJ:WWeOtg8bX_EC"
     },
     {
@@ -6366,6 +6443,13 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "vBhJwrkAAAAJ:KYgttONoxcsC"
+    },
+    {
+        "title": "SSFold: Learning to Fold Arbitrary Crumpled Cloth Using Graph Dynamics from Human Demonstration",
+        "pub_year": "2025",
+        "citation": "IEEE Transactions on Automation Science and Engineering, 2025",
+        "num_citations": 0,
+        "author_pub_id": "vBhJwrkAAAAJ:pxLfhFzThFYC"
     },
     {
         "title": "SSVEP signatures of binocular rivalry during simultaneous EEG and fMRI",
@@ -6398,14 +6482,14 @@
         "title": "Seizure Sources Can Be Imaged from Scalp EEG by Means of Biophysically Constrained Deep Neural Networks",
         "pub_year": "2024",
         "citation": "Advanced Science 11 (47), 2405246, 2024",
-        "num_citations": 0,
+        "num_citations": 2,
         "author_pub_id": "vBhJwrkAAAAJ:ey9_mCyZ-VYC"
     },
     {
         "title": "Seizure prediction in hippocampal and neocortical epilepsy using a model-based approach",
         "pub_year": "2014",
         "citation": "Clinical Neurophysiology 125 (5), 930-940, 2014",
-        "num_citations": 92,
+        "num_citations": 93,
         "author_pub_id": "vBhJwrkAAAAJ:kRWSkSYxWN8C"
     },
     {
@@ -6426,14 +6510,21 @@
         "title": "Seizure source imaging by means of FINE spatio-temporal dipole localization and directed transfer function in partial epilepsy patients",
         "pub_year": "2012",
         "citation": "Clinical Neurophysiology 123 (7), 1275-1283, 2012",
-        "num_citations": 100,
+        "num_citations": 102,
         "author_pub_id": "vBhJwrkAAAAJ:ns9cj8rnVeAC"
+    },
+    {
+        "title": "Self-Organised Sequential Multi-Agent Reinforcement Learning for Closely Cooperation Tasks",
+        "pub_year": "2025",
+        "citation": "IEEE Robotics and Automation Letters, 2025",
+        "num_citations": 0,
+        "author_pub_id": "vBhJwrkAAAAJ:H0nRGT7Dr7IC"
     },
     {
         "title": "Self-powered sensors: Applications, challenges, and solutions",
         "pub_year": "2023",
         "citation": "IEEE Sensors Journal 23 (18), 20483-20509, 2023",
-        "num_citations": 37,
+        "num_citations": 40,
         "author_pub_id": "vBhJwrkAAAAJ:w9ZB08sdvuUC"
     },
     {
@@ -6447,7 +6538,7 @@
         "title": "Semantic-enhanced digital twin system for robot–environment interaction monitoring",
         "pub_year": "2021",
         "citation": "IEEE Transactions on Instrumentation and Measurement 70, 1-13, 2021",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "vBhJwrkAAAAJ:KqW5X_olkfQC"
     },
     {
@@ -6585,7 +6676,7 @@
         "title": "Soft drink effects on sensorimotor rhythm brain computer interface performance and resting-state spectral power",
         "pub_year": "2016",
         "citation": "2016 38th Annual International Conference of the IEEE Engineering in …, 2016",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "vBhJwrkAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -6613,7 +6704,7 @@
         "title": "Source connectivity analysis from MEG and its application to epilepsy source localization",
         "pub_year": "2012",
         "citation": "Brain topography 25, 157-166, 2012",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "vBhJwrkAAAAJ:DBa1UEJaJKAC"
     },
     {
@@ -6648,7 +6739,7 @@
         "title": "Sparse source imaging in electroencephalography with accurate field modeling",
         "pub_year": "2008",
         "citation": "Human brain mapping 29 (9), 1053-1067, 2008",
-        "num_citations": 143,
+        "num_citations": 145,
         "author_pub_id": "vBhJwrkAAAAJ:-7ulzOJl1JYC"
     },
     {
@@ -6708,6 +6799,12 @@
         "author_pub_id": "vBhJwrkAAAAJ:BwyfMAYsbu0C"
     },
     {
+        "title": "Spatiotemporal Dipole Imaging of Brain Electrical Activity",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "vBhJwrkAAAAJ:QxlgOPrhsAcC"
+    },
+    {
         "title": "Spatiotemporal rhythmic seizure sources can be imaged by means of biophysically constrained deep neural networks",
         "pub_year": "2023",
         "citation": "medRxiv, 2023.11. 30.23299218, 2023",
@@ -6739,7 +6836,7 @@
         "title": "Spectral and spatial shifts of post-ictal slow waves in temporal lobe seizures",
         "pub_year": "2012",
         "citation": "Brain 135 (10), 3134-3143, 2012",
-        "num_citations": 44,
+        "num_citations": 46,
         "author_pub_id": "vBhJwrkAAAAJ:aIdbFUkbNIkC"
     },
     {
@@ -6863,7 +6960,7 @@
         "title": "System and Method For Acousto-Electromagnetic Neuroimaging",
         "pub_year": "2016",
         "citation": "US Patent App. 14/947,326, 2016",
-        "num_citations": 115,
+        "num_citations": 117,
         "author_pub_id": "vBhJwrkAAAAJ:43bX7VzcjpAC"
     },
     {
@@ -6954,8 +7051,15 @@
         "title": "Systems neuroengineering: understanding and interacting with the brain",
         "pub_year": "2015",
         "citation": "Engineering 1 (3), 292-308, 2015",
-        "num_citations": 52,
+        "num_citations": 54,
         "author_pub_id": "vBhJwrkAAAAJ:mUJArPsKIAAC"
+    },
+    {
+        "title": "T-TD3: A Reinforcement Learning Framework for Stable Grasping of Deformable Objects Using Tactile Prior",
+        "pub_year": "2024",
+        "citation": "IEEE Transactions on Automation Science and Engineering, 2024",
+        "num_citations": 2,
+        "author_pub_id": "vBhJwrkAAAAJ:LLUdpdcEW3AC"
     },
     {
         "title": "TESTING OF MICRO-FORCES ON VERTICAL CLIMBING CRICKETS AND DYNAMICS RESEARCH",
@@ -7110,7 +7214,7 @@
         "title": "The influence of corticospinal activity on TMS-evoked activity and connectivity in healthy subjects: A TMS-EEG study",
         "pub_year": "2017",
         "citation": "PloS one 12 (4), e0174879, 2017",
-        "num_citations": 80,
+        "num_citations": 81,
         "author_pub_id": "vBhJwrkAAAAJ:WZBGuue-350C"
     },
     {
@@ -7145,21 +7249,21 @@
         "title": "The role and mechanism of cinnamaldehyde in cancer",
         "pub_year": "2024",
         "citation": "Journal of Food and Drug Analysis 32 (2), 140, 2024",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "vBhJwrkAAAAJ:C-SEpTPhZ1wC"
     },
     {
         "title": "The role and mechanisms of cordycepin in inhibiting cancer cells",
         "pub_year": "2024",
         "citation": "Brazilian Journal of Medical and Biological Research 57, e13889, 2024",
-        "num_citations": 3,
+        "num_citations": 2,
         "author_pub_id": "vBhJwrkAAAAJ:e-nnqdki048C"
     },
     {
         "title": "The standardized EEG electrode array of the IFCN",
         "pub_year": "2017",
         "citation": "Clinical neurophysiology 128 (10), 2070-2077, 2017",
-        "num_citations": 534,
+        "num_citations": 543,
         "author_pub_id": "vBhJwrkAAAAJ:LO7wyVUgiFcC"
     },
     {
@@ -7194,7 +7298,7 @@
         "title": "Therapeutic ultrasound triggered silk fibroin scaffold degradation",
         "pub_year": "2021",
         "citation": "Advanced Healthcare Materials 10 (10), 2100048, 2021",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "vBhJwrkAAAAJ:R6EwkKsDylYC"
     },
     {
@@ -7215,7 +7319,7 @@
         "title": "Three kinds of periodic wave solutions and their limit forms for a modified KdV-type equation",
         "pub_year": "2016",
         "citation": "Nonlinear Dynamics 86, 811-822, 2016",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "vBhJwrkAAAAJ:WzTVkKNmPSkC"
     },
     {
@@ -7347,7 +7451,7 @@
         "title": "Toward Cognitive Digital Twin System of Human–Robot Collaboration Manipulation",
         "pub_year": "2024",
         "citation": "IEEE Transactions on Automation Science and Engineering, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "vBhJwrkAAAAJ:kOdZbmsmKqcC"
     },
     {
@@ -7386,27 +7490,27 @@
         "title": "Transcranial focused ultrasound activates feedforward and feedback cortico-thalamo-cortical pathways by selectively activating excitatory neurons",
         "pub_year": "2024",
         "citation": "bioRxiv, 2024.06. 26.600794, 2024",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "vBhJwrkAAAAJ:9w9GTvUEN2YC"
     },
     {
         "title": "Transcranial focused ultrasound enhances sensory discrimination capability through somatosensory cortical excitation",
         "pub_year": "2021",
         "citation": "Ultrasound in medicine & biology 47 (5), 1356-1366, 2021",
-        "num_citations": 47,
+        "num_citations": 49,
         "author_pub_id": "vBhJwrkAAAAJ:uUvzmPk0f8oC"
     },
     {
         "title": "Transcranial focused ultrasound induces sustained synaptic plasticity in rat hippocampus",
         "pub_year": "2022",
         "citation": "Brain stimulation 15 (2), 352-359, 2022",
-        "num_citations": 65,
+        "num_citations": 67,
         "author_pub_id": "vBhJwrkAAAAJ:sfsSB7lKuh0C"
     },
     {
         "title": "Transcranial focused ultrasound modulates visual thalamus in a nonhuman primate model",
-        "pub_year": "2024",
-        "citation": "bioRxiv, 2024.08. 05.606669, 2024",
+        "pub_year": "2025",
+        "citation": "IEEE Transactions on Biomedical Engineering, 2025",
         "num_citations": 0,
         "author_pub_id": "vBhJwrkAAAAJ:vefPE_iVbj4C"
     },
@@ -7414,14 +7518,14 @@
         "title": "Transcranial focused ultrasound neuromodulation of voluntary movement-related cortical activity in humans",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Biomedical Engineering 68 (6), 1923-1931, 2020",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "vBhJwrkAAAAJ:ifOnle78iJkC"
     },
     {
         "title": "Transcranial focused ultrasound remotely modulates extrastriate visual cortex by stimulating frontal eye field with subregion specificity",
         "pub_year": "2024",
         "citation": "Journal of Neural Engineering 21 (6), 066018, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "vBhJwrkAAAAJ:jODAHDUrbwUC"
     },
     {
@@ -7435,7 +7539,7 @@
         "title": "Transcranial ultrasound neuromodulation induces neuronal correlation change in the rat somatosensory cortex",
         "pub_year": "2022",
         "citation": "Journal of neural engineering 19 (5), 056002, 2022",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "vBhJwrkAAAAJ:0Kh4an1R61UC"
     },
     {
@@ -7449,7 +7553,7 @@
         "title": "Transcriptome analysis of WRKY gene family in Oryza officinalis Wall ex Watt and WRKY genes involved in responses to Xanthomonas oryzae pv. oryzae stress",
         "pub_year": "2017",
         "citation": "PloS one 12 (11), e0188742, 2017",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "vBhJwrkAAAAJ:8p8iYwVyaVcC"
     },
     {
@@ -7595,7 +7699,7 @@
         "title": "Ultrasound Neuromodulation and Correlation Change in the Rat Somatosensory Cortex",
         "pub_year": "2022",
         "citation": "bioRxiv, 2022.03. 18.484914, 2022",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "vBhJwrkAAAAJ:rJyh6hJnyfgC"
     },
     {
@@ -7609,7 +7713,7 @@
         "title": "Understanding plane geometry problems by integrating relations extracted from text and diagram",
         "pub_year": "2018",
         "citation": "Image and Video Technology: 8th Pacific-Rim Symposium, PSIVT 2017, Wuhan …, 2018",
-        "num_citations": 13,
+        "num_citations": 15,
         "author_pub_id": "vBhJwrkAAAAJ:U3qCfcK-7lkC"
     },
     {
@@ -7651,7 +7755,7 @@
         "title": "Validation and opportunities of electrocardiographic imaging: from technical achievements to clinical applications",
         "pub_year": "2018",
         "citation": "Frontiers in physiology 9, 1305, 2018",
-        "num_citations": 136,
+        "num_citations": 138,
         "author_pub_id": "vBhJwrkAAAAJ:c_xDhezhKKUC"
     },
     {
@@ -7753,7 +7857,7 @@
         "title": "Wet adhesion mechanism and its application to bionic wall-climbing robot",
         "pub_year": "2010",
         "citation": "Jiqiren 32 (5), 577-585, 2010",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "vBhJwrkAAAAJ:s1ouQE5r0WUC"
     },
     {
@@ -7774,7 +7878,7 @@
         "title": "eConnectome: A MATLAB toolbox for mapping and imaging of brain functional connectivity",
         "pub_year": "2011",
         "citation": "Journal of neuroscience methods 195 (2), 261-269, 2011",
-        "num_citations": 287,
+        "num_citations": 288,
         "author_pub_id": "vBhJwrkAAAAJ:3htObqc8RwsC"
     },
     {

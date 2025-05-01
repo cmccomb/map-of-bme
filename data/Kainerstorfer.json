@@ -164,7 +164,7 @@
         "title": "Changes in neurovascular coupling with cerebral perfusion pressure indicate a link to cerebral autoregulation",
         "pub_year": "2022",
         "citation": "Journal of Cerebral Blood Flow & Metabolism 42 (7), 1247-1258, 2022",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "QsY8HmEAAAAJ:SP6oXDckpogC"
     },
     {
@@ -194,6 +194,13 @@
         "citation": "Proc. of SPIE Vol 12364, 1236401-1, 2023",
         "num_citations": 0,
         "author_pub_id": "QsY8HmEAAAAJ:olpn-zPbct0C"
+    },
+    {
+        "title": "Clinical and Translational Neurophotonics 2025",
+        "pub_year": "2025",
+        "citation": "Proc. of SPIE Vol 13302, 1330201-1, 2025",
+        "num_citations": 0,
+        "author_pub_id": "QsY8HmEAAAAJ:NJ774b8OgUMC"
     },
     {
         "title": "Clinical translation of noninvasive intracranial pressure sensing with diffuse correlation spectroscopy",
@@ -297,7 +304,7 @@
         "title": "Diffuse correlation spectroscopy for intracranial pressure estimation through cardiac pulse waveform analysis",
         "pub_year": "2019",
         "citation": "European Conference on Biomedical Optics, 11074_20, 2019",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "QsY8HmEAAAAJ:35N4QoGY0k4C"
     },
     {
@@ -437,7 +444,7 @@
         "title": "Exploring the impact and influence of melanin on frequency-domain near-infrared spectroscopy measurements",
         "pub_year": "2024",
         "citation": "Journal of Biomedical Optics 29 (S3), S33310-S33310, 2024",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "QsY8HmEAAAAJ:dQ2og3OwTAUC"
     },
     {
@@ -542,7 +549,7 @@
         "title": "In situ volumetric imaging and analysis of FRESH 3D bioprinted constructs using optical coherence tomography",
         "pub_year": "2022",
         "citation": "Biofabrication 15 (1), 014102, 2022",
-        "num_citations": 41,
+        "num_citations": 46,
         "author_pub_id": "QsY8HmEAAAAJ:abG-DnoFyZgC"
     },
     {
@@ -647,7 +654,7 @@
         "title": "Near-infrared spectroscopy as a tool for marine mammal research and care",
         "pub_year": "2022",
         "citation": "Frontiers in Physiology 12, 816701, 2022",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "QsY8HmEAAAAJ:dshw04ExmUIC"
     },
     {
@@ -780,7 +787,7 @@
         "title": "Optical imaging and spectroscopy for the study of the human brain: status report",
         "pub_year": "2022",
         "citation": "Neurophotonics 9 (S2), S24001, 2022",
-        "num_citations": 146,
+        "num_citations": 151,
         "author_pub_id": "QsY8HmEAAAAJ:fQNAKQ3IYiAC"
     },
     {
@@ -912,14 +919,14 @@
         "title": "Principal component model of multispectral data for near real-time skin chromophore mapping",
         "pub_year": "2010",
         "citation": "Journal of Biomedical Optics 15 (4), 046007-046007-9, 2010",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "QsY8HmEAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Pulsatile microvascular cerebral blood flow waveforms change with intracranial compliance and age",
         "pub_year": "2024",
         "citation": "Neurophotonics 11 (1), 015003-015003, 2024",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "QsY8HmEAAAAJ:_B80troHkn4C"
     },
     {
@@ -989,7 +996,7 @@
         "title": "Review of studies on dynamic cerebral autoregulation in the acute phase of stroke and the relationship with clinical outcome",
         "pub_year": "2022",
         "citation": "Journal of Cerebral Blood Flow & Metabolism 42 (3), 430-453, 2022",
-        "num_citations": 50,
+        "num_citations": 53,
         "author_pub_id": "QsY8HmEAAAAJ:CHSYGLWDkRkC"
     },
     {
@@ -1038,7 +1045,7 @@
         "title": "Shining new light on sensory brain activation and physiological measurement in seals using wearable optical technology",
         "pub_year": "2021",
         "citation": "Philosophical Transactions of the Royal Society B 376 (1830), 20200224, 2021",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "QsY8HmEAAAAJ:pyW8ca7W8N0C"
     },
     {
@@ -1142,7 +1149,7 @@
         "title": "Two-layer analytical model for estimation of layer thickness and flow using Diffuse Correlation Spectroscopy",
         "pub_year": "2022",
         "citation": "PLoS One 17 (9), e0274258, 2022",
-        "num_citations": 12,
+        "num_citations": 14,
         "author_pub_id": "QsY8HmEAAAAJ:eJXPG6dFmWUC"
     },
     {

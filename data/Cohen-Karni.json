@@ -73,7 +73,7 @@
         "title": "3D graphene-nanowire “sandwich” thermal interface with ultralow resistance and stiffness",
         "pub_year": "2023",
         "citation": "ACS nano 17 (3), 2602-2610, 2023",
-        "num_citations": 23,
+        "num_citations": 25,
         "author_pub_id": "7dey80AAAAAJ:cB__R-XWw9UC"
     },
     {
@@ -199,7 +199,7 @@
         "title": "Electrocatalytic on-site oxygenation for transplanted cell-based-therapies",
         "pub_year": "2023",
         "citation": "Nature communications 14 (1), 7019, 2023",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "7dey80AAAAAJ:ojlX30-wUrgC"
     },
     {
@@ -213,8 +213,15 @@
         "title": "Engineering three-dimensional (3D) out-of-plane graphene edge sites for highly selective two-electron oxygen reduction electrocatalysis",
         "pub_year": "2020",
         "citation": "ACS catalysis 10 (3), 1993-2008, 2020",
-        "num_citations": 152,
+        "num_citations": 155,
         "author_pub_id": "7dey80AAAAAJ:tBlTYpvFGQIC"
+    },
+    {
+        "title": "FRESH 3D Bioprinting Of Decellularized ECM Scaffolds For Volumetric Muscle Loss",
+        "pub_year": "2024",
+        "citation": "TISSUE ENGINEERING PART A 30 (15-16), S459-S460, 2024",
+        "num_citations": 0,
+        "author_pub_id": "7dey80AAAAAJ:pUxgyZctzPYC"
     },
     {
         "title": "Fabrication and characterization of Fe-pd ferromagnetic shape-memory thin films",
@@ -234,14 +241,14 @@
         "title": "First Organoid Intelligence (OI) workshop to form an OI community",
         "pub_year": "2023",
         "citation": "Frontiers in Artificial Intelligence 6, 1116870, 2023",
-        "num_citations": 39,
+        "num_citations": 41,
         "author_pub_id": "7dey80AAAAAJ:K4-iKlO5MD4C"
     },
     {
         "title": "Flexible Glassy Carbon Multielectrode Array for In Vivo Multisite Detection of Tonic and Phasic Dopamine Concentrations",
         "pub_year": "2022",
         "citation": "Biosensors 12 (7), 540, 2022",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "7dey80AAAAAJ:T8_be82Iz5gC"
     },
     {
@@ -275,21 +282,21 @@
         "title": "Graphene microelectrode arrays for electrical and optical measurements of human stem cell-derived cardiomyocytes",
         "pub_year": "2018",
         "citation": "Cellular and Molecular Bioengineering 11, 407-418, 2018",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "7dey80AAAAAJ:EBV337fEn3EC"
     },
     {
         "title": "Graphene nanostructures for input–output bioelectronics",
         "pub_year": "2021",
         "citation": "Biophysics Reviews 2 (4), 2021",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "7dey80AAAAAJ:3vbIHxFL9FgC"
     },
     {
         "title": "High thermal conductivity of sandwich‐structured flexible thermal interface materials",
         "pub_year": "2023",
         "citation": "Small 19 (11), 2207015, 2023",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "7dey80AAAAAJ:S2WlVNSe3u4C"
     },
     {
@@ -317,21 +324,21 @@
         "title": "Integrating bioelectronics with cell-based synthetic biology",
         "pub_year": "2025",
         "citation": "Nature Reviews Bioengineering, 1-16, 2025",
-        "num_citations": 1,
+        "num_citations": 3,
         "author_pub_id": "7dey80AAAAAJ:gmHTDCtJMcoC"
     },
     {
         "title": "Intracellular action potential recordings from cardiomyocytes by ultrafast pulsed laser irradiation of fuzzy graphene microelectrodes",
         "pub_year": "2021",
         "citation": "Science Advances 7 (15), eabd5175, 2021",
-        "num_citations": 60,
+        "num_citations": 62,
         "author_pub_id": "7dey80AAAAAJ:Nw_I7GeUguwC"
     },
     {
         "title": "Intracellular recordings of action potentials by an extracellular nanoscale field-effect transistor",
         "pub_year": "2012",
         "citation": "Nature nanotechnology 7 (3), 174-179, 2012",
-        "num_citations": 524,
+        "num_citations": 525,
         "author_pub_id": "7dey80AAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -359,7 +366,7 @@
         "title": "Multifunctional Nanomaterials for Advancing Neural Interfaces: Recording, Stimulation, and Beyond",
         "pub_year": "2024",
         "citation": "Accounts of Chemical Research 57 (13), 1803-1814, 2024",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "7dey80AAAAAJ:a2necdfpwlEC"
     },
     {
@@ -373,7 +380,7 @@
         "title": "Nanocomposite gold-silk nanofibers",
         "pub_year": "2012",
         "citation": "Nano letters 12 (10), 5403-5406, 2012",
-        "num_citations": 113,
+        "num_citations": 115,
         "author_pub_id": "7dey80AAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -443,7 +450,7 @@
         "title": "Neural modulation with photothermally active nanomaterials",
         "pub_year": "2023",
         "citation": "Nature reviews bioengineering 1 (3), 193-207, 2023",
-        "num_citations": 41,
+        "num_citations": 44,
         "author_pub_id": "7dey80AAAAAJ:wGzT3bKASkAC"
     },
     {
@@ -457,7 +464,7 @@
         "title": "Organ-on-e-chip: Three-dimensional self-rolled biosensor array for electrical interrogations of human electrogenic spheroids",
         "pub_year": "2019",
         "citation": "Science advances 5 (8), eaax0729, 2019",
-        "num_citations": 188,
+        "num_citations": 194,
         "author_pub_id": "7dey80AAAAAJ:qCpRzq7zkD8C"
     },
     {
@@ -519,7 +526,7 @@
         "title": "Remote nongenetic optical modulation of neuronal activity using fuzzy graphene",
         "pub_year": "2020",
         "citation": "Proceedings of the National Academy of Sciences 117 (24), 13339-13349, 2020",
-        "num_citations": 82,
+        "num_citations": 83,
         "author_pub_id": "7dey80AAAAAJ:c1AJUTjuCtUC"
     },
     {
@@ -533,7 +540,7 @@
         "title": "Slow DNA transport through nanopores in hafnium oxide membranes",
         "pub_year": "2013",
         "citation": "ACS nano 7 (11), 10121-10128, 2013",
-        "num_citations": 253,
+        "num_citations": 254,
         "author_pub_id": "7dey80AAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -568,7 +575,7 @@
         "title": "The smartest materials: the future of nanoelectronics in medicine",
         "pub_year": "2012",
         "citation": "ACS nano 6 (8), 6541-6545, 2012",
-        "num_citations": 105,
+        "num_citations": 106,
         "author_pub_id": "7dey80AAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -596,14 +603,14 @@
         "title": "Three-dimensional, flexible nanoscale field-effect transistors as localized bioprobes",
         "pub_year": "2010",
         "citation": "Science 329 (5993), 830-834, 2010",
-        "num_citations": 897,
+        "num_citations": 902,
         "author_pub_id": "7dey80AAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Ti3C2Tx MXene Flakes for Optical Control of Neuronal Electrical Activity",
         "pub_year": "2021",
         "citation": "ACS nano 15 (9), 14662-14671, 2021",
-        "num_citations": 63,
+        "num_citations": 67,
         "author_pub_id": "7dey80AAAAAJ:qPeb-qHga9sC"
     },
     {

@@ -17,7 +17,7 @@
         "title": "An in-depth survey of the oil spill literature since 1968: Long term trends and changes since Deepwater Horizon",
         "pub_year": "2016",
         "citation": "Marine pollution bulletin 113 (1-2), 371-379, 2016",
-        "num_citations": 114,
+        "num_citations": 115,
         "author_pub_id": "aYUS1DkAAAAJ:PR6Y55bgFSsC"
     },
     {
@@ -45,7 +45,7 @@
         "title": "Candida albicans stimulates Streptococcus mutans microcolony development via cross-kingdom biofilm-derived metabolites",
         "pub_year": "2017",
         "citation": "Scientific Reports 7 (1), 41332, 2017",
-        "num_citations": 239,
+        "num_citations": 245,
         "author_pub_id": "aYUS1DkAAAAJ:NJ774b8OgUMC"
     },
     {
@@ -65,7 +65,7 @@
         "title": "Carbon nanomaterials‐based electrically conductive scaffolds for tissue engineering applications",
         "pub_year": "2024",
         "citation": "MedComm–Biomaterials and Applications 3 (2), e76, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "aYUS1DkAAAAJ:XoXfffV-tXoC"
     },
     {
@@ -93,7 +93,7 @@
         "title": "Controlling Pseudomonas aeruginosa persister cells by weak electrochemical currents and synergistic effects with tobramycin",
         "pub_year": "2012",
         "citation": "Biomaterials 33 (30), 7356-7365, 2012",
-        "num_citations": 90,
+        "num_citations": 95,
         "author_pub_id": "aYUS1DkAAAAJ:UHK10RUVsp4C"
     },
     {
@@ -114,7 +114,7 @@
         "title": "Design of a well-defined poly (dimethylsiloxane)-based microbial nanoculture system",
         "pub_year": "2021",
         "citation": "Materials Today Communications 27, 102185, 2021",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "aYUS1DkAAAAJ:p__nRnzSRKYC"
     },
     {
@@ -135,7 +135,7 @@
         "title": "Developing a functional poly (dimethylsiloxane)-based microbial nanoculture system using dimethylallylamine",
         "pub_year": "2020",
         "citation": "ACS Applied Materials & Interfaces 12 (45), 50581-50591, 2020",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "aYUS1DkAAAAJ:vbGhcppDl1QC"
     },
     {
@@ -198,7 +198,7 @@
         "title": "Electrochemical Strategy for Eradicating Fluconazole-Tolerant Candida albicans Using Implantable Titanium",
         "pub_year": "2019",
         "citation": "ACS Applied Materials & Interfaces 11 (44), 40997-41008, 2019",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "aYUS1DkAAAAJ:uc_IGeMz5qoC"
     },
     {
@@ -216,17 +216,23 @@
         "author_pub_id": "aYUS1DkAAAAJ:Y5dfb0dijaUC"
     },
     {
+        "title": "Engineering an Electroactive Bacterial Cellulose-Carbon Nanotube Composite Membrane Against Staphylococcus Aureus",
+        "citation": "Denis J. and Martinez-Vasquez, Shakira M. and Gosh, Soumalya and Balmuri …, 0",
+        "num_citations": 0,
+        "author_pub_id": "aYUS1DkAAAAJ:_axFR9aDTf0C"
+    },
+    {
         "title": "Eradication of Pseudomonas aeruginosacells by cathodic electrochemical currents delivered with graphite electrodes",
         "pub_year": "2016",
         "citation": "Acta Biomaterialia 50 (1 March 2017), 344–352, 2016",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "aYUS1DkAAAAJ:kzcrU_BdoSEC"
     },
     {
         "title": "Films of Bacteria at Interfaces (FBI): Remodeling of Fluid Interfaces by Pseudomonas aeruginosa",
         "pub_year": "2017",
         "citation": "Scientific reports 7 (1), 17864, 2017",
-        "num_citations": 43,
+        "num_citations": 45,
         "author_pub_id": "aYUS1DkAAAAJ:35r97b3x0nAC"
     },
     {
@@ -242,6 +248,13 @@
         "citation": "Advances in colloid and interface science 247, 561-572, 2017",
         "num_citations": 88,
         "author_pub_id": "aYUS1DkAAAAJ:-_dYPAW6P2MC"
+    },
+    {
+        "title": "From Barriers to Bridges: The GEES Program’s Impact on Low-Income Master’s Students’ Success and Professional Development",
+        "pub_year": "2025",
+        "citation": "2025 Collaborative Network for Engineering & Computing Diversity (CoNECD), 2025",
+        "num_citations": 0,
+        "author_pub_id": "aYUS1DkAAAAJ:86PQX7AUzd4C"
     },
     {
         "title": "Fundamental Interactions of Microbes and Microbial Communities with Materials",
@@ -338,7 +351,7 @@
         "title": "Microbial nanoculture as an artificial microniche",
         "pub_year": "2016",
         "citation": "Scientific reports 6 (1), 30578, 2016",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "aYUS1DkAAAAJ:uLbwQdceFCQC"
     },
     {
@@ -421,7 +434,7 @@
         "title": "Sensitizing Pseudomonas aeruginosa to antibiotics by electrochemical disruption of membrane functions",
         "pub_year": "2016",
         "citation": "Biomaterials 74, 267-279, 2016",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "aYUS1DkAAAAJ:_Ybze24A_UAC"
     },
     {
@@ -463,14 +476,14 @@
         "title": "The effect of charge screening for cationic surfactants on the rigidity of interfacial nanoparticle assemblies",
         "pub_year": "2025",
         "citation": "Journal of Colloid and Interface Science 678, 201-208, 2025",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "aYUS1DkAAAAJ:0N-VGjzr574C"
     },
     {
         "title": "The future of biofilm research–Report on the ‘2019 Biofilm Bash’",
         "pub_year": "2020",
         "citation": "Biofilm 2, 100012, 2020",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "aYUS1DkAAAAJ:ML0RJ9NH7IQC"
     },
     {

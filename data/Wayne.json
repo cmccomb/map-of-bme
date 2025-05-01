@@ -21,6 +21,13 @@
         "author_pub_id": "e0v5iEgAAAAJ:kNdYIx-mwKoC"
     },
     {
+        "title": "Bioprinted platform for parallelized screening of engineered microtissues in vivo",
+        "pub_year": "2025",
+        "citation": "Cell Stem Cell, 2025",
+        "num_citations": 0,
+        "author_pub_id": "e0v5iEgAAAAJ:qxL8FJ1GzNcC"
+    },
+    {
         "title": "Capturing the Dynamics of STAT6 Macrophage Polarization Using Bioluminescence Temporal Spectrometry",
         "citation": "Available at SSRN 4682259, 0",
         "num_citations": 0,
@@ -58,7 +65,7 @@
         "title": "High-capacity poly (2-oxazoline) formulation of TLR 7/8 agonist extends survival in a chemo-insensitive, metastatic model of lung adenocarcinoma",
         "pub_year": "2020",
         "citation": "Science advances 6 (25), eaba5542, 2020",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "e0v5iEgAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -142,7 +149,7 @@
         "title": "Preparation and characterization of poly (2-oxazoline) micelles for the solubilization and delivery of Water insoluble drugs",
         "pub_year": "2021",
         "citation": "Bio-protocol 11 (6), e3959-e3959, 2021",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "e0v5iEgAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -184,7 +191,7 @@
         "title": "TRAIL-coated leukocytes that kill cancer cells in the circulation",
         "pub_year": "2014",
         "citation": "Proceedings of the National Academy of Sciences 111 (3), 930-935, 2014",
-        "num_citations": 240,
+        "num_citations": 239,
         "author_pub_id": "e0v5iEgAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -205,7 +212,7 @@
         "title": "The role of extracellular vesicles in the pathogenesis and treatment of autoimmune disorders",
         "pub_year": "2021",
         "citation": "Frontiers in Immunology 12, 566299, 2021",
-        "num_citations": 57,
+        "num_citations": 59,
         "author_pub_id": "e0v5iEgAAAAJ:WF5omc3nYNoC"
     },
     {

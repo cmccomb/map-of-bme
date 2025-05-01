@@ -38,7 +38,7 @@
         "title": "A high-performance brain–computer interface",
         "pub_year": "2006",
         "citation": "nature 442 (7099), 195-198, 2006",
-        "num_citations": 927,
+        "num_citations": 928,
         "author_pub_id": "Fz3_tukAAAAJ:HDshCWvjkbEC"
     },
     {
@@ -52,14 +52,14 @@
         "title": "A high-performance neural prosthesis enabled by control algorithm design",
         "pub_year": "2012",
         "citation": "Nature neuroscience 15 (12), 1752-1757, 2012",
-        "num_citations": 625,
+        "num_citations": 632,
         "author_pub_id": "Fz3_tukAAAAJ:blknAaTinKkC"
     },
     {
         "title": "A neural basis of choking under pressure",
         "pub_year": "2024",
         "citation": "Neuron 112 (20), 3424-3433. e8, 2024",
-        "num_citations": 12,
+        "num_citations": 16,
         "author_pub_id": "Fz3_tukAAAAJ:8d8msizDQcsC"
     },
     {
@@ -73,7 +73,7 @@
         "title": "A stable population code for attention in prefrontal cortex leads a dynamic attention code in visual cortex",
         "pub_year": "2021",
         "citation": "Journal of Neuroscience 41 (44), 9163-9176, 2021",
-        "num_citations": 27,
+        "num_citations": 29,
         "author_pub_id": "Fz3_tukAAAAJ:oNZyr7d5Mn4C"
     },
     {
@@ -86,14 +86,14 @@
         "title": "A theory of brain-computer interface learning via low-dimensional control",
         "pub_year": "2024",
         "citation": "bioRxiv, 2024.04. 18.589952, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "Fz3_tukAAAAJ:bz8QjSJIRt4C"
     },
     {
         "title": "A theory of multineuronal dimensionality, dynamics and measurement",
         "pub_year": "2017",
         "citation": "bioRxiv, 214262, 2017",
-        "num_citations": 313,
+        "num_citations": 316,
         "author_pub_id": "Fz3_tukAAAAJ:hkOj_22Ku90C"
     },
     {
@@ -128,28 +128,21 @@
         "title": "Brain machine interface",
         "pub_year": "2014",
         "citation": "US Patent 8,792,976, 2014",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "Fz3_tukAAAAJ:BqipwSGYUEgC"
-    },
-    {
-        "title": "Brain-Computer Interfaces for Understanding Brain Function",
-        "pub_year": "2018",
-        "citation": "2018 AAAS Annual Meeting, 2018",
-        "num_citations": 0,
-        "author_pub_id": "Fz3_tukAAAAJ:a9-T7VOCCH8C"
     },
     {
         "title": "Brain–computer interface control along instructed paths",
         "pub_year": "2015",
         "citation": "Journal of neural engineering 12 (1), 016015, 2015",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "Fz3_tukAAAAJ:zA6iFVUQeVQC"
     },
     {
         "title": "Brain–computer interfaces for dissecting cognitive processes underlying sensorimotor control",
         "pub_year": "2016",
         "citation": "Current Opinion in Neurobiology 37, 53-58, 2016",
-        "num_citations": 123,
+        "num_citations": 127,
         "author_pub_id": "Fz3_tukAAAAJ:B3FOqHPlNUQC"
     },
     {
@@ -163,21 +156,21 @@
         "title": "Bridging neuronal correlations and dimensionality reduction",
         "pub_year": "2021",
         "citation": "Neuron 109 (17), 2740-2754. e12, 2021",
-        "num_citations": 35,
+        "num_citations": 37,
         "author_pub_id": "Fz3_tukAAAAJ:kuK5TVdYjLIC"
     },
     {
         "title": "Computational neuroscience: Mathematical and statistical perspectives",
         "pub_year": "2018",
         "citation": "Annual review of statistics and its application 5 (1), 183-214, 2018",
-        "num_citations": 83,
+        "num_citations": 84,
         "author_pub_id": "Fz3_tukAAAAJ:eMMeJKvmdy0C"
     },
     {
         "title": "Constraints on neural redundancy",
         "pub_year": "2018",
         "citation": "eLife 7, e36774, 2018",
-        "num_citations": 77,
+        "num_citations": 78,
         "author_pub_id": "Fz3_tukAAAAJ:uJ-U7cs_P_0C"
     },
     {
@@ -191,7 +184,7 @@
         "title": "Cortical areas interact through a communication subspace",
         "pub_year": "2019",
         "citation": "Neuron 102 (1), 249-259. e4, 2019",
-        "num_citations": 358,
+        "num_citations": 360,
         "author_pub_id": "Fz3_tukAAAAJ:LI9QrySNdTsC"
     },
     {
@@ -205,7 +198,7 @@
         "title": "DataHigh: Graphical user interface for visualizing and interacting with high-dimensional neural activity",
         "pub_year": "2013",
         "citation": "Journal of neural engineering 10 (6), 066012, 2013",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "Fz3_tukAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -268,14 +261,14 @@
         "title": "Dimensionality reduction for large-scale neural recordings",
         "pub_year": "2014",
         "citation": "Nature neuroscience, 2014",
-        "num_citations": 1290,
+        "num_citations": 1302,
         "author_pub_id": "Fz3_tukAAAAJ:pqnbT2bcN3wC"
     },
     {
         "title": "Dimensionality reduction of calcium-imaged neuronal population activity",
         "pub_year": "2023",
         "citation": "Nature Computational Science 3 (1), 71-85, 2023",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "Fz3_tukAAAAJ:hCrLmN-GePgC"
     },
     {
@@ -288,7 +281,7 @@
         "title": "Disentangling the flow of signals between populations of neurons",
         "pub_year": "2022",
         "citation": "Nature Computational Science 2 (8), 512-525, 2022",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "Fz3_tukAAAAJ:Ug5p-4gJ2f0C"
     },
     {
@@ -302,14 +295,14 @@
         "title": "Distinct population codes for attention in the absence and presence of visual stimulation",
         "pub_year": "2018",
         "citation": "Nature communications 9, 2018",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "Fz3_tukAAAAJ:VLnqNzywnoUC"
     },
     {
         "title": "Dynamical constraints on neural population activity",
         "pub_year": "2025",
         "citation": "Nature Neuroscience, 1-11, 2025",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "Fz3_tukAAAAJ:_axFR9aDTf0C"
     },
     {
@@ -407,7 +400,7 @@
         "title": "Feedforward and feedback interactions between visual cortical areas use different population activity patterns",
         "pub_year": "2022",
         "citation": "Nature communications 13 (1), 1099, 2022",
-        "num_citations": 108,
+        "num_citations": 110,
         "author_pub_id": "Fz3_tukAAAAJ:MLfJN-KU85MC"
     },
     {
@@ -442,7 +435,7 @@
         "title": "Gaussian-process factor analysis for low-dimensional single-trial analysis of neural population activity",
         "pub_year": "2009",
         "citation": "Advances in neural information processing systems, 1881-1888, 2009",
-        "num_citations": 851,
+        "num_citations": 857,
         "author_pub_id": "Fz3_tukAAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -491,7 +484,7 @@
         "title": "How learning unfolds in the brain: toward an optimization view",
         "pub_year": "2021",
         "citation": "Neuron 109 (23), 3720-3735, 2021",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "Fz3_tukAAAAJ:k8Z6L05lTy4C"
     },
     {
@@ -588,21 +581,21 @@
         "title": "Learning by neural reassociation",
         "pub_year": "2018",
         "citation": "Nature neuroscience 21 (4), 607-616, 2018",
-        "num_citations": 252,
+        "num_citations": 259,
         "author_pub_id": "Fz3_tukAAAAJ:lmc2jWPfTJgC"
     },
     {
         "title": "Learning is shaped by abrupt changes in neural engagement",
         "pub_year": "2021",
         "citation": "Nature Neuroscience 24 (5), 727-736, 2021",
-        "num_citations": 68,
+        "num_citations": 71,
         "author_pub_id": "Fz3_tukAAAAJ:VaXvl8Fpj5cC"
     },
     {
         "title": "Learning leaves a memory trace in motor cortex",
         "pub_year": "2024",
         "citation": "Current Biology 34 (7), 1519-1531. e4, 2024",
-        "num_citations": 12,
+        "num_citations": 15,
         "author_pub_id": "Fz3_tukAAAAJ:9pM33mqn1YgC"
     },
     {
@@ -627,8 +620,9 @@
     },
     {
         "title": "MiSO: Optimizing brain stimulation to create neural population activity states",
-        "citation": "",
-        "num_citations": 0,
+        "pub_year": "2024",
+        "citation": "Advances in Neural Information Processing Systems 37, 2024",
+        "num_citations": 1,
         "author_pub_id": "Fz3_tukAAAAJ:HtEfBTGE9r8C"
     },
     {
@@ -663,7 +657,7 @@
         "title": "Motor cortex retains and reorients neural dynamics during motor imagery",
         "pub_year": "2024",
         "citation": "Nature Human Behaviour 8 (4), 729-742, 2024",
-        "num_citations": 24,
+        "num_citations": 26,
         "author_pub_id": "Fz3_tukAAAAJ:anf4URPfarAC"
     },
     {
@@ -691,7 +685,7 @@
         "title": "Neural constraints on learning",
         "pub_year": "2014",
         "citation": "Nature 512 (7515), 423-426, 2014",
-        "num_citations": 741,
+        "num_citations": 752,
         "author_pub_id": "Fz3_tukAAAAJ:HoB7MX3m0LUC"
     },
     {
@@ -712,7 +706,7 @@
         "title": "Neural variability in premotor cortex provides a signature of motor preparation",
         "pub_year": "2006",
         "citation": "The Journal of neuroscience 26 (14), 3697-3712, 2006",
-        "num_citations": 558,
+        "num_citations": 562,
         "author_pub_id": "Fz3_tukAAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -726,7 +720,7 @@
         "title": "New neural activity patterns emerge with long-term learning",
         "pub_year": "2019",
         "citation": "Proceedings of the National Academy of Sciences 116 (30), 15210-15215, 2019",
-        "num_citations": 225,
+        "num_citations": 230,
         "author_pub_id": "Fz3_tukAAAAJ:uWiczbcajpAC"
     },
     {
@@ -747,7 +741,7 @@
         "title": "Population activity structure of excitatory and inhibitory neurons",
         "pub_year": "2017",
         "citation": "PloS one 12 (8), e0181773, 2017",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "Fz3_tukAAAAJ:eq2jaN3J8jMC"
     },
     {
@@ -775,7 +769,7 @@
         "title": "Reference frames for reach planning in macaque dorsal premotor cortex",
         "pub_year": "2007",
         "citation": "Journal of neurophysiology 98 (2), 966-983, 2007",
-        "num_citations": 164,
+        "num_citations": 165,
         "author_pub_id": "Fz3_tukAAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -803,14 +797,14 @@
         "title": "Scaling Properties of Dimensionality Reduction for Neural Populations and Network Models",
         "pub_year": "2016",
         "citation": "PLOS Computational Biology 12 (12), e1005141, 2016",
-        "num_citations": 106,
+        "num_citations": 108,
         "author_pub_id": "Fz3_tukAAAAJ:kRWSkSYxWN8C"
     },
     {
         "title": "Self-recalibrating classifiers for intracortical brain–computer interfaces",
         "pub_year": "2014",
         "citation": "Journal of neural engineering 11 (2), 026001, 2014",
-        "num_citations": 69,
+        "num_citations": 72,
         "author_pub_id": "Fz3_tukAAAAJ:70eg2SAEIzsC"
     },
     {
@@ -845,7 +839,7 @@
         "title": "Single-neuron stability during repeated reaching in macaque premotor cortex",
         "pub_year": "2007",
         "citation": "The Journal of Neuroscience 27 (40), 10742-10750, 2007",
-        "num_citations": 201,
+        "num_citations": 203,
         "author_pub_id": "Fz3_tukAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -858,21 +852,21 @@
         "title": "Single-trial neural correlates of arm movement preparation",
         "pub_year": "2011",
         "citation": "Neuron 71 (3), 555-564, 2011",
-        "num_citations": 284,
+        "num_citations": 287,
         "author_pub_id": "Fz3_tukAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Slow drift of neural activity as a signature of impulsivity in macaque visual and prefrontal cortex",
         "pub_year": "2020",
         "citation": "Neuron 108 (3), 551-567. e8, 2020",
-        "num_citations": 128,
+        "num_citations": 130,
         "author_pub_id": "Fz3_tukAAAAJ:BUYA1_V_uYcC"
     },
     {
         "title": "Stabilization of a brain–computer interface via the alignment of low-dimensional spaces of neural activity",
         "pub_year": "2020",
         "citation": "Nature biomedical engineering 4 (7), 672-685, 2020",
-        "num_citations": 190,
+        "num_citations": 198,
         "author_pub_id": "Fz3_tukAAAAJ:kz9GbA2Ns4gC"
     },
     {
@@ -886,14 +880,14 @@
         "title": "Statistical methods for dissecting interactions between brain areas",
         "pub_year": "2020",
         "citation": "Current Opinion in Neurobiology 65, 59-69, 2020",
-        "num_citations": 65,
+        "num_citations": 66,
         "author_pub_id": "Fz3_tukAAAAJ:EYYDruWGBe4C"
     },
     {
         "title": "Stimulus onset quenches neural variability: a widespread cortical phenomenon",
         "pub_year": "2010",
         "citation": "Nature neuroscience 13 (3), 369-378, 2010",
-        "num_citations": 1227,
+        "num_citations": 1230,
         "author_pub_id": "Fz3_tukAAAAJ:TQgYirikUcIC"
     },
     {
@@ -956,7 +950,7 @@
         "title": "Uncovering motifs of concurrent signaling across multiple neuronal populations",
         "pub_year": "2023",
         "citation": "Thirty-seventh Conference on Neural Information Processing Systems, 2023",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "Fz3_tukAAAAJ:86PQX7AUzd4C"
     },
     {
